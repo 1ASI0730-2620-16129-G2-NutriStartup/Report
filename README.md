@@ -41,7 +41,7 @@
       </tr>
       <tr>
         <td align="center" >U202418250</td>
-        <td align="center" >Poly Gabriel Aleantara Baldeon</td>
+        <td align="center" >Poly Gabriel Alcantara Baldeon</td>
       </tr>
     </tbody>
   </table>
@@ -49,6 +49,12 @@
 
 <h2 align="center"><strong>Período 202620</strong></h2>
 <h2 align="center"><strong>Setiembre 2026</strong></h2>
+
+## Registro de Versiones del Informe
+
+| Versión | Fecha       | Autor                                         | Descripción de modificación                                                                                                                         |
+|---------|-------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 07/09/2026  | Waldo Portal, Gabriel Vilchez, Poly Aleantara | Creación de la primera versión del informe: se agregó la Carátula, el Registro de Versiones, la Tabla de Contenido y la sección de Student Outcome. |
 
 <div style="page-break-before: always;"></div>
 
