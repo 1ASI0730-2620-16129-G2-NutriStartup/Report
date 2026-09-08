@@ -52,9 +52,9 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                                         | Descripción de modificación                                                                                                                         |
-|---------|-------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 07/09/2026  | Waldo Portal, Gabriel Vilchez, Poly Aleantara | Creación de la primera versión del informe: se agregó la Carátula, el Registro de Versiones, la Tabla de Contenido y la sección de Student Outcome. |
+| Versión | Fecha       | Autor                                                                                        | Descripción de modificación                                                                                                                         |
+|---------|-------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 07/09/2026  | Waldo Portal, Gabriel Vilchez, Poly Aleantara, Alejandro  Mendoza , Giordano Del Ángel Trejo | Creación de la primera versión del informe: se agregó la Carátula, el Registro de Versiones, la Tabla de Contenido y la sección de Student Outcome. |
 
 ## Contenido
 
@@ -140,7 +140,12 @@
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+## Student Outcome
 
+| Criterio Específico                                                                                      | Acciones Realizadas                                                                                                                                                   | Conclusiones |
+|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| **5.c1.** Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara: <br/>- Giordano Sebastian Del Ángel Trejo Espejo | **AV1**<br> |
+| **5.c2.** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara: <br/>- Giordano Sebastian Del Ángel Trejo Espejo | **AV1**<br> |
 <div style="page-break-before: always;"></div>
 
 </div>
