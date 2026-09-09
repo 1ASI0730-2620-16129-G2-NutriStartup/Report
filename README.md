@@ -150,7 +150,7 @@
 
 ## 1.2 Solution Profile
 
-# 1.2.1 Antecedentes y problemática.
+### 1.2.1 Antecedentes y problemática.
 
 El sobrepeso y la obesidad se han convertido en una problemática creciente de salud pública. Según la Organización Mundial de la Salud (OMS, 2024), 1 de cada 8 personas en el mundo vivía con obesidad en 2022, mientras que la obesidad en adultos se ha más que duplicado desde 1990. Este problema se debe a hábitos alimenticios inadecuados, sedentarismo y dificultades para mantener rutinas saludables de forma constante. Además, muchas personas abandonan dietas y programas de ejercicio por falta de motivación, seguimiento continuo o herramientas accesibles para monitorear su progreso.
 
