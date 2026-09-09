@@ -148,4 +148,43 @@
 | **5.c2.** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara: <br/>- Giordano Sebastian Del Ángel Trejo Espejo | **AV1**<br> |
 <div style="page-break-before: always;"></div>
 
+## 1.2 Solution Profile
+
+# 1.2.1 Antecedentes y problemática.
+
+El sobrepeso y la obesidad se han convertido en una problemática creciente de salud pública. Según la Organización Mundial de la Salud (OMS, 2024), 1 de cada 8 personas en el mundo vivía con obesidad en 2022, mientras que la obesidad en adultos se ha más que duplicado desde 1990. Este problema se debe a hábitos alimenticios inadecuados, sedentarismo y dificultades para mantener rutinas saludables de forma constante. Además, muchas personas abandonan dietas y programas de ejercicio por falta de motivación, seguimiento continuo o herramientas accesibles para monitorear su progreso.
+
+Actualmente, existen aplicaciones orientadas al control del peso y hábitos saludables. Sin embargo, muchas de estas ofrecen soluciones poco adaptadas al contexto diario del usuario; por ello, surge la necesidad de una solución que brinde seguimiento personalizado para ayudar a las personas a mantener hábitos saludables y no abandonar sus metas.
+
+**5”W” y 2”H”**
+
+**Who: ¿Quiénes son los usuarios afectados?**
+* Adultos y jóvenes que desean seguir rutinas de ejercicio y mantener su motivación para no abandonar sus metas de salud.
+* Personas que buscan llevar una alimentación saludable, pero tienen dificultades para sostener hábitos debido a cambios de horario, trabajo o estudios.
+* Personas con sobrepeso u obesidad que necesitan seguimiento continuo para controlar su progreso y mejorar su bienestar físico.
+
+**What: ¿Qué problema se busca resolver?**
+* Se busca resolver la dificultad de mantener hábitos saludables de manera constante.
+* Se busca reducir el abandono frecuente de dietas y rutinas de ejercicio por falta de motivación y seguimiento.
+
+**Where: ¿Dónde ocurre el problema?**
+* En entornos donde los cambios de rutina, la falta de tiempo y los estilos de vida sedentarios dificultan mantener hábitos saludables.
+
+**When: ¿Cuándo sucede o se muestra el problema?**
+* Cuando las personas inician dietas o rutinas de ejercicio y no logran mantenerlas a largo plazo.
+* Cuando suceden cambios en horarios o responsabilidades que dificultan continuar con hábitos saludables.
+
+**Why: ¿Por qué es importante resolver el problema?**
+* Es importante prevenir problemas debido al sobrepeso y promover mejores condiciones de salud física.
+* Para ayudar a las personas a mantener hábitos saludables de forma continua y no solo temporal.
+
+**How: ¿Cómo se enfrentará el problema?**
+* Por medio de una aplicación móvil y página web que permite monitorear la alimentación, actividad física y evolución del progreso del usuario.
+* Integración de IA adaptativa  para configurar rutinas y sugerencias alimenticias. Esta IA será entrenada con las respuestas del usuario sobre su edad, sexo, peso, altura, índice de masa corporal (calculada automáticamente), nivel de actividad física, meta deseada, en cuanto tiempo desea cumplir su meta, número de comidas diarias, alimentos frecuentes y presupuesto aproximado.
+
+**How Much: ¿Cuánto es el costo de la solución?**
+* La app ofrecerá una versión gratis que incluirá funcionalidades como monitoreo de hábitos, recomendaciones personalizadas por medio de la IA adaptativa.
+* Se ofrecerá una versión premium con elementos complementarios, como funcionalidades ampliadas de personalización.
+* Se podrá monetizarse por medio de alianzas con nutricionistas, gimnasios o servicios de bienestar integrados a la plataforma.
+
 </div>
