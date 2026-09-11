@@ -52,9 +52,10 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                                                                                        | Descripción de modificación                                                                                                                         |
-|---------|-------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 07/09/2026  | Waldo Portal, Gabriel Vilchez, Poly Aleantara, Alejandro  Mendoza , Giordano Del Ángel Trejo | Creación de la primera versión del informe: se agregó la Carátula, el Registro de Versiones, la Tabla de Contenido y la sección de Student Outcome. |
+| Versión | Fecha       | Autor                           | Descripción de modificación                                                                                                                  |
+|---------|-------------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 07/09/2026  | Waldo Alonso Portal Inga        | Se añadió la descripción de la Startup, la sección perfiles de integrantes, el solution profile y los segmentos objetivo.                    |
+| 2.0     | 11/09/2026  | Gabriel Alejandro Vilchez Vite  | Se actualizó la sección de los perfiles de los integrantes y se añadió los objetivos y restricciones que delimitan el alcance del proyecto.  |
 
 ## Contenido
 
@@ -142,11 +143,31 @@
 
 ## Student Outcome
 
-| Criterio Específico                                                                                      | Acciones Realizadas                                                                                                                                                   | Conclusiones |
-|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| **5.c1.** Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara: <br/>- Giordano Sebastian Del Ángel Trejo Espejo | **AV1**<br> |
-| **5.c2.** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara: <br/>- Giordano Sebastian Del Ángel Trejo Espejo | **AV1**<br> |
+| Criterio Específico                                                                                      | Acciones Realizadas                                                                                                                                                                                             | Conclusiones |
+|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| **5.c1.** Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara: <br/>- Giordano Sebastian Del Ángel Trejo Espejo  | **AV1**<br>  |
+| **5.c2.** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara: <br/>- Giordano Sebastian Del Ángel Trejo Espejo  | **AV1**<br>  |
 <div style="page-break-before: always;"></div>
+
+# Capítulo I: Introducción
+
+## 1.1 Startup Profile
+
+### 1.1.1 Descripción de la Startup
+
+VitaControl es una startup que se centra en el bienestar y el cuidado de la salud física y mental que tiene como objetivo ayudar a las personas en la construcción de hábitos saludables y mantenerlos en el tiempo a través de una plataforma digital personalizada. La solución que se ofrece consiste en un conjunto de herramientas de seguimiento, recomendaciones adaptativas y funcionalidades para la alimentación y la actividad física con la cual los usuarios podrán recibir acompañamiento a medida que se ajusta a los usuarios, a medida que sus objetivos, necesidades y características vayan evolucionando.
+
+**Misión**
+
+Ayudar a las personas a construir y mantener hábitos saludables; por medio de una solución digital inteligente, accesible y personalizada que contribuya a mejorar su calidad de vida.
+
+**Visión**
+
+Ser una solución referente en el cuidado de la salud física ,promoviendo estilos de vida saludables mediante tecnología innovadora y personalizada.
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+
 
 ## 1.2 Solution Profile
 
@@ -186,5 +207,29 @@ Actualmente, existen aplicaciones orientadas al control del peso y hábitos salu
 * La app ofrecerá una versión gratis que incluirá funcionalidades como monitoreo de hábitos, recomendaciones personalizadas por medio de la IA adaptativa.
 * Se ofrecerá una versión premium con elementos complementarios, como funcionalidades ampliadas de personalización.
 * Se podrá monetizarse por medio de alianzas con nutricionistas, gimnasios o servicios de bienestar integrados a la plataforma.
+
+**Objetivos del proyecto**
+
+**Objetivo general:**
+Desarrollar una plataforma digital que ayude a las personas a mejorar y mantener hábitos saludables a través de recomendaciones personalizadas, seguimiento de su avance y herramientas que favorezcan el mantenimiento del mismo con el etiquetado de sus objetivos de alimentación y actividad física.
+
+**Objetivos específicos**
+* Ofrecer recomendaciones personalizadas de alimentación y ejercicio, en función de las características, preferencias y objetivos de cada usuario.
+* Facilitar el registro y la realización del seguimiento de los hábitos personales de salud y del progreso físico del usuario.
+* Incluir recordatorios, objetivos y estadísticas que ayudan a mantener la motivación y a restringir el abandono de los hábitos saludables.
+* Incorporar inteligencia artificial adaptativa para modificar las recomendaciones de acuerdo con la información de los hábitos y las necesidades del usuario.
+* Poder ofrecer una plataforma que cumpla con los requisitos de la App y de la página web.
+
+**Restricciones del proyecto**
+* El proyecto tiene un público objetivo inicial de personas de entre 18 y 50 años que intentan controlar el peso o mejorar sus hábitos saludables.
+* La personalización de las recomendaciones dependerá de la información que el usuario vaya introduciendo en el registro y el seguimiento.
+* La plataforma se centrará al principio en alimentación, actividad física, seguimiento de hábitos y progreso, una vez más excluyendo cualquier tipo de servicio médico.
+* Las recomendaciones de la plataforma no sustituirán la evaluación, el diagnóstico o el tratamiento de los profesionales de la salud.
+* El desarrollo inicial estará limitado a la funcionalidad marcada para el MVP, pudiendo incorporar funcionalidades adicionales en futuras versiones.
+* El acceso a ciertas funcionalidades podrá depender del tipo de cuenta que el usuario tenga, considerándose una versión gratuita y una versión premium.
+
+### 1.2.2 Lean UX Process
+
+#### Lean UX Problem Statements
 
 </div>
