@@ -27,25 +27,25 @@
     <thead>
       <tr>
         <th align="center" >Código</th>
-        <th align="center" >Nombre</th>
+        <th align="center" >Apellidos y Nombres</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td align="center" >U202412447</td>
-        <td align="center" >Waldo Alonso Portal Inga</td>
-      </tr>
-      <tr>
-        <td align="center" >U202416903</td>
-        <td align="center" >Gabriel Alejandro Vilchez Vite</td>
-      </tr>
       <tr>
         <td align="center" >U202418250</td>
         <td align="center" >Poly Gabriel Alcantara Baldeon</td>
       </tr>
       <tr>
+        <td align="center" >U202412447</td>
+        <td align="center" >Waldo Alonso Portal Inga</td>
+      </tr>
+      <tr>
         <td align="center" >U202316162</td>
-        <td align="center" >Giordano Sebastian Trejo Espejo</td>
+        <td align="center" >Giordano Sebastian Del Ángel Trejo Espejo</td>
+      </tr>
+      <tr>
+        <td align="center" >U202416903</td>
+        <td align="center" >Gabriel Alejandro Vilchez Vite</td>
       </tr>
     </tbody>
   </table>
@@ -327,5 +327,17 @@ Está conformado por personas entre 18 y 50 años que buscan controlar su peso, 
 **Segmento 2: Nutricionistas que quieran generar un ingreso extra**
 
 Está constituido por nutricionistas que desean ampliar sus oportunidades profesionales y obtener ingresos a partir de la atención y seguimiento de sus pacientes a partir de herramientas digitales. Este colectivo presenta dificultades a la hora de gestionar correctamente el seguimiento de varias personas, controlar el seguimiento y llevar a cabo planes de alimentación individuales sin modificar sustancialmente su carga de trabajo. La plataforma les permite gestionar la información de sus pacientes, elaborar planes nutricionales, realizar el seguimiento de la evolución de los mismos y, de esta manera, poder atender a más personas y conseguir ampliar las oportunidades de generación de ingresos.
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1 Competidores
+
+Hay muchas plataformas digitales en el mercado que pretenden mejorar la alimentación, controlar el peso y ayudar a tener unos hábitos más saludables. Estas plataformas tienen funciones como seguimiento de hábitos, planes de alimentación, recomendaciones personalizadas y monitoreo del progreso. Por ello, se darán a conocer y estudiarán los principales competidores de VitaControl. Se analizarán sus características, propuesta de valor y modelo de negocio. Lo que se busca es descubrir puntos de diferencia y elementos que ayuden a diseñar la solución.
+
+**MyFitnessPal:** Es una aplicación móvil que sirve para la nutrición, la salud y la actividad física. Dentro de la aplicación, se puede registrar las comidas diarias para controlar las calorías, se puede registrar los macronutrientes, se puede tener metas personalizadas, entre otras cosas. La aplicación cuenta con una versión gratuita y una versión premium de 19.99 dolares (67.13 soles).
+
+**Lifesum:** Es una aplicación móvil que permite ayudar a los usuarios a mejorar su alimentación, a perder peso y a llevar un estilo de vida más equilibrado. Esta aplicación ofrece funciones que permiten controlar la ingesta de carbohidratos, tener planes de alimentación personalizados, registros de hidratación y evaluar el progreso del usuario. Esta aplicación es gratuita.
+
+**Noom:** Es una aplicación móvil enfocada en la perdida de peso y el cambio de hábitos. Esta aplicación apuesta por un enfoque psicológico que ayudan a promover un estilo de vida sostenible a largo plazo, mientras que registra lo que consume el usuario, al mismo tiempo que le ofrece lecciones diarias breves. Esta aplicación es gratuita.
 
 </div>
