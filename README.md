@@ -240,6 +240,92 @@ Desarrollar una plataforma digital que ayude a las personas a mejorar y mantener
 
 ### 1.2.2 Lean UX Process
 
-#### Lean UX Problem Statements
+#### 1.2.2.1 Lean UX Problem Statements
+
+El sobrepeso y la obesidad representan una problemática creciente de salud. Según la Organización Mundial de la Salud (2024), la obesidad en adultos se ha duplicado desde 1990. A ello se suman dificultades para mantener hábitos saludables de forma constante, lo que genera abandono de dietas y rutinas por falta de seguimiento y motivación.
+<br>Aunque existen aplicaciones enfocadas en nutrición y actividad física, pocas consideran las rutinas y necesidades cambiantes del usuario. Esto genera una oportunidad para plantear una solución más personalizada y orientada al acompañamiento continuo.
+<br>¿Cómo podríamos diseñar para que, mediante seguimiento inteligente y recomendaciones adaptativas, las personas cuenten con una herramienta que ayude a mantener sus rutinas saludables y reducir el abandono de sus metas?
+
+Muchas personas buscan mejorar su alimentación y estilo de vida, pero cambios de horario, responsabilidades diarias y falta de constancia dificultan mantener estos hábitos en el tiempo. Además, las soluciones actuales suelen ofrecer recomendaciones generales que no siempre se ajustan a las necesidades y al contexto del usuario.
+<br>Esto evidencia la necesidad de una solución que combine monitoreo, personalización e inteligencia adaptativa para apoyar decisiones saludables en el día a día.
+<br>¿Cómo podríamos diseñar VitaControl para acompañar a los usuarios en la construcción y continuidad de hábitos saludables mediante recomendaciones contextuales y apoyo personalizado?
+
+#### 1.2.2.2 Lean UX Problem Assumptions
+
+Después de analizar la problemática del sobrepeso, la obesidad y la dificultad para mantener hábitos saludables, se plantean algunos supuestos que nos permitirán proponer soluciones enfocadas en los usuarios. VitaControl busca ayudar a las personas a mejorar su bienestar físico mediante una aplicación inteligente que brinde seguimiento constante, motivación y recomendaciones personalizadas.
+
+**Supuestos sobre los usuarios**
+* Se considera que muchas personas desean mejorar su estado físico, pero no logran mantener disciplina por mucho tiempo.
+* Se asume que los usuarios necesitan una herramienta práctica que los acompañe diariamente.
+* Se cree que jóvenes y adultos usan con frecuencia el celular, por lo que una app sería una opción accesible.
+* Se estima que varias personas abandonan dietas o ejercicios por falta de motivación y seguimiento.
+
+**Supuestos sobre el problema**
+* La falta de tiempo por estudios o trabajo influye en el abandono de hábitos saludables.
+* Muchas personas no saben cómo organizar una rutina adecuada según sus necesidades.
+* Existen aplicaciones similares, pero varias no se adaptan al contexto real del usuario.
+* El progreso lento genera frustración y desmotivación en quienes buscan bajar de peso.
+* La ausencia de control diario dificulta mantener constancia.
+
+**Supuestos sobre la solución VitaControl**
+* Una plataforma que combine alimentación, ejercicio y seguimiento sería más útil que usar varias apps separadas.
+* Las recomendaciones personalizadas pueden generar mejores resultados que consejos generales.
+* Recordatorios y metas cortas pueden mejorar la constancia semanal.
+* Mostrar estadísticas y avances ayudaría a mantener la motivación.
+* El uso de inteligencia artificial permitiría adaptar rutinas según horarios y hábitos del usuario.
+
+**Resultados esperados del negocio**
+* Conseguir una comunidad activa de usuarios durante los primeros meses.
+* Posicionar a VitaControl como una opción moderna enfocada en el bienestar físico.
+* Generar ingresos mediante versión premium y alianzas estratégicas.
+* Diferenciarse de otras aplicaciones por el uso de personalización inteligente.
+
+**Beneficios esperados para el usuario**
+* Mejor organización de sus hábitos diarios.
+* Mayor motivación para cumplir objetivos personales.
+* Seguimiento claro de su progreso físico.
+* Recomendaciones adaptadas a su estilo de vida.
+* Más control sobre su salud y bienestar.
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
+**Hipótesis del Negocio**
+
+**A. Creemos que, al ofrecer una aplicación accesible y fácil de usar para controlar hábitos saludables, aumentará la cantidad de usuarios activos mensuales, lo cual ayudará al crecimiento del proyecto.**
+<br>Sabemos que esto ocurre cuando al menos 60 % de los usuarios registrados permanecen activos después del primer mes.
+
+**B. Creemos que, incluir funciones premium como planes personalizados y análisis más detallados incrementará la disposición de pago de los usuarios.**
+<br>Sabemos que esto ocurre cuando al menos 15 % de usuarios activos migre al plan premium durante los primeros meses.
+
+**C. Creemos que, realizar alianzas con gimnasios y nutricionistas aumentará la confianza en VitaControl y permitirá atraer nuevos usuarios.**
+<br>Sabemos que esto ocurre cuando las alianzas generan un aumento de 20 % en el registro de nuevos usuarios.
+
+**Hipótesis del Usuario**
+
+1. Creemos que si el usuario recibe recordatorios constantes, tendrá mayor compromiso con sus metas de salud.
+<br>Sabremos que esto ocurre cuando al menos un 70% de los usuarios complete sus registros semanales.
+
+2. Creemos que si la aplicación muestra cambios y avances visuales, las personas sentirán mayor motivación para continuar.
+<br>Sabremos que esto ocurre cuando al menos el 60% de los usuarios regresen de forma continua después del primer mes.
+
+3. Creemos que si las recomendaciones cambian según los hábitos de cada persona, el usuario percibirá mayor utilidad en VitaControl.
+<br>Sabremos que esto ocurre cuando al menos el 80% califique positivamente la experiencia personalizada.
+
+4. Creemos que si la app tiene una interfaz clara y rápida, nuevos usuarios podrán utilizarla sin dificultad desde el primer día.
+<br>Sabremos que esto ocurre cuando al menos el 80% de los usuarios completen su registro inicial y primeras acciones sin ayuda externa.
+
+#### 1.2.2.4 Lean UX Canvas
+
+<img src="assets/images/Lean_UX_Canvas.png">
+
+## 1.3 Segmentos objetivos
+
+**Segmento 1: Personas que quieran reducir su peso**
+
+Está conformado por personas entre 18 y 50 años que buscan controlar su peso, mejorar su bienestar físico y recibir acompañamiento para mantener hábitos saludables. Este segmento presenta dificultades para sostener dietas o rutinas de ejercicio de forma constante.
+
+**Segmento 2: Nutricionistas que quieran generar un ingreso extra**
+
+Está constituido por nutricionistas que desean ampliar sus oportunidades profesionales y obtener ingresos a partir de la atención y seguimiento de sus pacientes a partir de herramientas digitales. Este colectivo presenta dificultades a la hora de gestionar correctamente el seguimiento de varias personas, controlar el seguimiento y llevar a cabo planes de alimentación individuales sin modificar sustancialmente su carga de trabajo. La plataforma les permite gestionar la información de sus pacientes, elaborar planes nutricionales, realizar el seguimiento de la evolución de los mismos y, de esta manera, poder atender a más personas y conseguir ampliar las oportunidades de generación de ingresos.
 
 </div>
