@@ -5,19 +5,19 @@
   <img src="assets/images/upc-logoo.png" alt="UPC Logo" width="80">
 </div>
 <br/>
-<h2 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h2>
-<h2 align="center"><strong>Carrera de Ingeniería de Software</strong></h2>
+<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h3>
+<h3 align="center"><strong>Carrera de Ingeniería de Software</strong></h3>
 
 <h2 align="center"><strong>1ASI0730</strong></h2>
 <h2 align="center"><strong>Aplicaciones Web</strong></h2>
-<h2 align="center">NRC</h2>
+<h3 align="center">NRC</h3>
 <h2 align="center"><strong>16129</strong></h2>
 <h2 align="center"><strong>Informe del Trabajo</strong></h2>
-<h2 align="center">Docente</h2>
+<h3 align="center">Docente</h3>
 <h2 align="center"><strong>Sanchez Seña, Alberto Wilmer</strong></h2>
-<h2 align="center">Equipo</h2>
+<h3 align="center">Equipo</h3>
 <h2 align="center"><strong>NutriStartup</strong></h2>
-<h2 align="center">Proyecto</h2>
+<h3 align="center">Proyecto</h3>
 <h2 align="center"><strong>NutriApp Integral</strong></h2>
 
 <h2 align="center"><strong>Integrantes:</strong></h2>
