@@ -43,6 +43,10 @@
         <td align="center" >U202418250</td>
         <td align="center" >Poly Gabriel Alcantara Baldeon</td>
       </tr>
+      <tr>
+        <td align="center" >U202316162</td>
+        <td align="center" >Giordano Sebastian Trejo Espejo</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -167,7 +171,13 @@ Ser una solución referente en el cuidado de la salud física ,promoviendo estil
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-
+| Nombre y descripción                                                                                                                                                                                                                                                                                                                                                                                                                | Foto                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                    |
+| **Waldo Alonso Portal Inga - U202412447** <br> Soy estudiante de la carrera de Ingeniería de Software. Me considero una persona capaz, responsable y comprometida con mis objetivos académicos y personales. Siempre estoy motivado por los desafíos y busco siempre aportar valor en los equipos de trabajo en los que participo. Manejo la programación en C++ y Java, cuento con experiencia en la edición de video y/o imágenes | <img src="assets/images/waldo_foto.jpg" heigh="500" width="400">   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                    |
+| **Gabriel Alejandro Vilchez Vite - U202416903** <br> Actualmente estudio la carrera de ingeniería de software y me considero una persona que no deja todos sus trabajos pendientes a última hora y que siempre trata de terminar todos sus trabajos a tiempo. Actualmente tengo conocimientos en matemáticas y en algunos lenguajes de programación como C++ y Matlab. Actualmente estoy estudiando Java.                           | <img src="assets/images/gabriel_foto.jpg" heigh="500" width="400"> |
 
 ## 1.2 Solution Profile
 
