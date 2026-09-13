@@ -340,4 +340,46 @@ Hay muchas plataformas digitales en el mercado que pretenden mejorar la alimenta
 
 **Noom:** Es una aplicación móvil enfocada en la perdida de peso y el cambio de hábitos. Esta aplicación apuesta por un enfoque psicológico que ayudan a promover un estilo de vida sostenible a largo plazo, mientras que registra lo que consume el usuario, al mismo tiempo que le ofrece lecciones diarias breves. Esta aplicación es gratuita.
 
+## 2.2 Entrevistas
+
+Con el propósito de comprender las necesidades, dificultades y expectativas de los segmentos objetivo de NutriApp Integral, se realizaron entrevistas cualitativas semiestructuradas. Estas entrevistas permitieron conocer las experiencias de las personas que desean reducir su peso y explorar las necesidades de los nutricionistas interesados en ampliar sus oportunidades profesionales mediante herramientas digitales.
+
+La información obtenida será utilizada para validar los supuestos planteados durante el proceso Lean UX y orientar el diseño de las funcionalidades de la plataforma.
+
+### 2.2.1. Diseño de entrevistas
+
+Las entrevistas fueron diseñadas mediante preguntas abiertas para que los participantes pudieran explicar libremente sus experiencias, necesidades y expectativas. Cada entrevista tuvo una duración aproximada de cinco a ocho minutos y fue registrada en video con la autorización del participante.
+
+#### Segmento 1: Personas que desean reducir su peso
+
+El objetivo de estas preguntas es identificar las principales dificultades que enfrentan las personas al intentar bajar de peso, mantener una alimentación saludable y realizar actividad física de manera constante.
+
+1. ¿Por qué te gustaría reducir o controlar tu peso?
+2. ¿Qué dificultades has encontrado al intentar bajar de peso?
+3. ¿Has seguido anteriormente alguna dieta o rutina de ejercicio? ¿Cómo fue tu experiencia?
+4. ¿Cuál consideras que es tu mayor obstáculo para mantener una alimentación saludable?
+5. ¿Qué situaciones hacen que abandones una dieta o rutina de ejercicio?
+6. ¿Prefieres seguir un plan alimenticio estricto o uno flexible? ¿Por qué?
+7. ¿Qué tipo de ejercicios consideras más cómodos o fáciles de realizar?
+8. ¿Has utilizado alguna aplicación para controlar tu alimentación, peso o actividad física? ¿Qué te gustó y qué no?
+9. ¿Consideras útil recibir recomendaciones personalizadas mediante inteligencia artificial? ¿Por qué?
+10. ¿Qué tipo de apoyo o funcionalidad te motivaría a continuar con tus objetivos de salud?
+
+#### Segmento 2: Nutricionistas que desean generar ingresos adicionales
+
+El objetivo de estas preguntas es conocer cómo los nutricionistas gestionan actualmente la atención y el seguimiento de sus pacientes, así como su disposición para utilizar una plataforma digital que les permita ampliar sus servicios.
+
+1. ¿Cómo realiza actualmente el seguimiento de la alimentación y el progreso de sus pacientes?
+2. ¿Qué dificultades encuentra al atender y realizar el seguimiento de varios pacientes al mismo tiempo?
+3. ¿Qué medios utiliza para comunicarse con sus pacientes fuera de las consultas?
+4. ¿Con qué frecuencia sus pacientes abandonan el plan nutricional o dejan de registrar sus avances?
+5. ¿Qué información considera indispensable para evaluar correctamente la evolución de un paciente?
+6. ¿Ha utilizado alguna plataforma digital para administrar consultas o planes nutricionales? ¿Cómo fue su experiencia?
+7. ¿Qué funciones debería incluir una plataforma para facilitar su trabajo como nutricionista?
+8. ¿Estaría dispuesto a brindar consultas o seguimiento nutricional mediante una plataforma digital? ¿Por qué?
+9. ¿Considera que una plataforma de este tipo podría ayudarle a atender a más pacientes y generar ingresos adicionales?
+10. ¿Qué preocupaciones tendría antes de utilizar una plataforma para gestionar información de sus pacientes?
+
+
+
 </div>
