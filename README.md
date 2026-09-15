@@ -56,12 +56,13 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                          | Descripción de modificación                                                                                                                 |
-|---------|-------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 07/09/2026  | Waldo Alonso Portal Inga       | Se añadió la descripción de la Startup, la sección perfiles de integrantes, el solution profile y los segmentos objetivo.                   |
-| 2.0     | 11/09/2026  | Gabriel Alejandro Vilchez Vite | Se actualizó la sección de los perfiles de los integrantes y se añadió los objetivos y restricciones que delimitan el alcance del proyecto. |
-| 3.0     | 12/09/2026  | Gabriel Alejandro Vilchez Vite | Se añadió la sección de competidores competidores.                                                                                          |
-| 4.0     | 13/09/2026  | Waldo Alonso Portal Inga       | Se añadió la sección de entrevistas, especificamente el diseño de las entrevistas.                                                          |
+| Versión | Fecha      | Autor                           | Descripción de modificación                                                                                                                  |
+|---------|------------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 07/09/2026 | Waldo Alonso Portal Inga        | Se añadió la descripción de la Startup, la sección perfiles de integrantes, el solution profile y los segmentos objetivo.                    |
+| 2.0     | 11/09/2026 | Gabriel Alejandro Vilchez Vite  | Se actualizó la sección de los perfiles de los integrantes y se añadió los objetivos y restricciones que delimitan el alcance del proyecto.  |
+| 3.0     | 12/09/2026 | Gabriel Alejandro Vilchez Vite  | Se añadió la sección de competidores competidores.                                                                                           |
+| 4.0     | 13/09/2026 | Waldo Alonso Portal Inga        | Se añadió la sección de entrevistas, especificamente el diseño de las entrevistas.                                                           |
+| 5.0     | 15/09/2026 | Poly Gabriel Alcantara Baldeon  | Se anadió la sección de estrategias y tácticas frente a competidores.                                                                        |
 
 ## Contenido
 
