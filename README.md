@@ -342,6 +342,10 @@ Hay muchas plataformas digitales en el mercado que pretenden mejorar la alimenta
 
 **Noom:** Es una aplicación móvil enfocada en la perdida de peso y el cambio de hábitos. Esta aplicación apuesta por un enfoque psicológico que ayudan a promover un estilo de vida sostenible a largo plazo, mientras que registra lo que consume el usuario, al mismo tiempo que le ofrece lecciones diarias breves. Esta aplicación es gratuita.
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+A partir del análisis competitivo realizado en la sección anterior, VitaControl (NutriApp Integral) define su estrategia de diferenciación frente a MyFitnessPal, Lifesum y Noom, enfocándose en tres pilares: personalización mediante inteligencia artificial, integración de dos segmentos (usuarios finales y nutricionistas) en una sola plataforma, y un modelo de precios accesible pensado para el mercado peruano.
+
 ## 2.2 Entrevistas
 
 Con el propósito de comprender las necesidades, dificultades y expectativas de los segmentos objetivo de NutriApp Integral, se realizaron entrevistas cualitativas semiestructuradas. Estas entrevistas permitieron conocer las experiencias de las personas que desean reducir su peso y explorar las necesidades de los nutricionistas interesados en ampliar sus oportunidades profesionales mediante herramientas digitales.
