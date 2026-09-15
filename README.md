@@ -344,7 +344,7 @@ Hay muchas plataformas digitales en el mercado que pretenden mejorar la alimenta
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-A partir del análisis competitivo realizado en la sección anterior, VitaControl (NutriApp Integral) define su estrategia de diferenciación frente a MyFitnessPal, Lifesum y Noom, enfocándose en tres pilares: personalización mediante inteligencia artificial, integración de dos segmentos (usuarios finales y nutricionistas) en una sola plataforma, y un modelo de precios accesible pensado para el mercado peruano.
+A partir del análisis competitivo realizado para VitaControl (NutriApp Integral) y sus competidores directos (MyFitnessPal, Lifesum y Noom), se definen las estrategias y tácticas preliminares para afrontar las fortalezas de la competencia, aprovechar sus debilidades, y responder al contexto de oportunidades y amenazas del mercado.
 
 ## 2.2 Entrevistas
 
