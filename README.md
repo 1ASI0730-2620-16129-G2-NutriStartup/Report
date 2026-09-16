@@ -404,6 +404,28 @@ El objetivo de estas preguntas es conocer cómo los nutricionistas gestionan act
 9. ¿Considera que una plataforma de este tipo podría ayudarle a atender a más pacientes y generar ingresos adicionales?
 10. ¿Qué preocupaciones tendría antes de utilizar una plataforma para gestionar información de sus pacientes?
 
+### 2.2.2. Registro de entrevistas
 
+#### Segmento 1: Personas que desean reducir su peso
+
+---
+
+#### Segmento 2: Nutricionistas que desean generar ingresos adicionales
+
+**Entrevista N° 1**
+
+| **Nombres y apellidos** | **Edad** | **Distrito** |
+|-------------------------|----------|--------------|
+| Cecilia Vallejos        | 45       | Ate          |
+
+| **Segmento**   | **URL**                                                                                                                                                                                                                                                                                                                                                                    | **Inicio** | **Duración** |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Nutricionista  | [Entrevista - 2do seg obj - Cecilia Vallejos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416903_upc_edu_pe/IQD6ZJJL4J-dRqyVz6pBUPMEAWjzu5v-e3l7sBAl0gjtXE0?e=DTUlho&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 00:00      | 8:50 min     |
+
+![Entrevista-1](assets/images/entrevista-nutricionista-1.png)
+
+**Resumen:** Cecilia Vallejos, licenciada en Nutrición con especialización en nutrición clínica y maestría en servicios de alimentación, actualmente trabaja en el Hospital de Emergencias Grau - ESSALUD. Actualmente, ella está siguiendo a sus pacientes en función de la evaluación nutricional y la revisión de las historias clínicas, donde recoge información como diagnóstico, dieta, peso, talla, resultados de laboratorio. Sin embargo, Cecilia Vallejos señala que el limitado tiempo y la gran carga de pacientes hacen difícil poder seguir a cada uno y clasificar la información. Ha tenido una experiencia positiva con una plataforma que permitía calcular requerimientos calóricos y riesgos nutricionales, así que le gustaría contar con una herramienta que le permita centralizar la información clínica y elaborar correctamente los planes nutricionales. Estaría dispuesta a dar consultas mediante una plataforma digital porque entonces podría trabajar con más pacientes y generar ingresos extra, siempre que la tecnología no le reemplace el criterio profesional del nutricionista.
+
+---
 
 </div>
