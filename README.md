@@ -453,6 +453,22 @@ El objetivo de estas preguntas es conocer cómo los nutricionistas gestionan act
 
 #### Segmento 1: Personas que desean reducir su peso
 
+**Entrevista N° 1**
+
+| **Nombres y apellidos** | **Edad** | **Distrito** |
+|-------------------------|----------|--------------|
+| Ian Figueroa        | 21       | Pueblo Libre          |
+
+| **Segmento**   | **URL**                                                                                                                                                                                                                                                                                                                                                                    | **Inicio** | **Duración** |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Persona que desea reducir su peso  | [Entrevista - 1er seg obj - Ian Figueroa.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316162_upc_edu_pe/IQDlDtCL_ei4Qb_YIGWJaQIlAeEuAvIgLHjxuIUhSrMjzTo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SSALMI) | 00:00      | 6:44 min     |
+
+![Entrevista-1seg-1](assets/images/entrevista-segmento1-1.jpg)
+
+**Resumen:** Ian Andre es un estudiante de Ingeniería Civil de 21 años con un estilo de vida actualmente sedentario, su actividad física se limita solo al trayecto entre la universidad y su casa debido a la alta carga de estudios. Sus principales motivaciones para controlar su peso son mejorar su salud general y su apariencia física y su mayor obstáculo que enfrenta es la falta de tiempo y los constantes cambios de horario en su rutina, lo que le dificulta organizarse y mantener la constancia en sus hábitos saludables. En el pasado ha utilizado aplicaciones de gimnasio con guías de entrenamiento, pero nunca ha utilizado herramientas para registrar o monitorear detalladamente su alimentación.
+
+Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría la plataforma principalmente en momentos clave como antes de comer o antes de entrenar. Sobre sus canales de interacción, consume contenido relacionado con bienestar, ejercicios y salud de manera casual a través de TikTok e Instagram, y sin seguir a creadores de contenido o marcas. Para mantener la motivación necesitaría ver estadísticas claras sobre la tendencia de, por ejemplo, su pérdida de peso en la semana. Finalmente, considera muy importante que la aplicación ideal integre IA para generarle un plan semanal de dietas que sean fáciles de preparar y se ajusten a su presupuesto o gustos personales, esta simplificación de la planificación sería su principal razón para no abandonar la aplicación.
+
 ---
 
 #### Segmento 2: Nutricionistas que desean generar ingresos adicionales
@@ -467,7 +483,7 @@ El objetivo de estas preguntas es conocer cómo los nutricionistas gestionan act
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
 | Nutricionista  | [Entrevista - 2do seg obj - Cecilia Vallejos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416903_upc_edu_pe/IQD6ZJJL4J-dRqyVz6pBUPMEAWjzu5v-e3l7sBAl0gjtXE0?e=DTUlho&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 00:00      | 8:50 min     |
 
-![Entrevista-1](assets/images/entrevista-nutricionista-1.png)
+![Entrevista-2seg-1](assets/images/entrevista-nutricionista-1.png)
 
 **Resumen:** Cecilia Vallejos, licenciada en Nutrición con especialización en nutrición clínica y maestría en servicios de alimentación, actualmente trabaja en el Hospital de Emergencias Grau - ESSALUD. Actualmente, ella está siguiendo a sus pacientes en función de la evaluación nutricional y la revisión de las historias clínicas, donde recoge información como diagnóstico, dieta, peso, talla, resultados de laboratorio. Sin embargo, Cecilia Vallejos señala que el limitado tiempo y la gran carga de pacientes hacen difícil poder seguir a cada uno y clasificar la información. Ha tenido una experiencia positiva con una plataforma que permitía calcular requerimientos calóricos y riesgos nutricionales, así que le gustaría contar con una herramienta que le permita centralizar la información clínica y elaborar correctamente los planes nutricionales. Estaría dispuesta a dar consultas mediante una plataforma digital porque entonces podría trabajar con más pacientes y generar ingresos extra, siempre que la tecnología no le reemplace el criterio profesional del nutricionista.
 
