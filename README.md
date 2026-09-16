@@ -344,6 +344,50 @@ Hay muchas plataformas digitales en el mercado que pretenden mejorar la alimenta
 
 **Noom:** Es una aplicación móvil enfocada en la perdida de peso y el cambio de hábitos. Esta aplicación apuesta por un enfoque psicológico que ayudan a promover un estilo de vida sostenible a largo plazo, mientras que registra lo que consume el usuario, al mismo tiempo que le ofrece lecciones diarias breves. Esta aplicación es gratuita.
 
+### 2.1.1. Análisis competitivo
+
+En esta sección se describirán a nuestros competidores principales (MyFitnessPal, Lifesum y Noom) comparando la propuesta de nuestro startup VitaControl. El objetivo es identificar fortalezas y debilidades para establecer nuestra ventaja competitiva en el mercado.
+
+
+|  | MyFitnessPal | Lifesum | Noom | VitaControl |
+|---|---|---|---|---|
+| **Perfil** | Aplicación móvil enfocada en la nutrición, la salud y la actividad física. | Aplicación móvil centrada en mejorar la alimentación y llevar un estilo de vida equilibrado. | Aplicación móvil enfocada en la perdida de peso mediante un enfoque psicológico. | Plataforma digital (web y móvil) orientada al bienestar físico mediante IA y conexión con profesionales. |
+| **Ventaja competitiva** | Base de datos extensa para el conteo riguroso de calorías y macronutrientes. | Diseño amigable enfocado en planes de alimentación y control rápido de carbohidratos e hidratación. | Apoyo psicológico para promover un estilo de vida sostenible a largo plazo con lecciones breves. | Recomendaciones con IA y un modelo de dos lados que conecta a usuarios con nutricionistas reales. |
+| **Mercado objetivo** | Personas que buscan un control meticuloso de sus macros, calorías y rutinas físicas. | Usuarios que desean perder peso mediante dietas personalizadas y un monitoreo visualmente atractivo. | Personas que buscan cambiar su comportamiento y mentalidad respecto a la comida para perder peso. | Personas de 18 a 50 años que buscan reducir peso y nutricionistas que desean gestionar pacientes y generar ingresos extra. |
+| **Estrategias de marketing** | Alianzas con marcas de fitness y gran comunidad de usuarios activos. | Promoción de estilos de vida estéticos, dietas en tendencia y facilidad de usar. | Enfoque en el cambio de mentalidad. | Captación mediante alianzas con gimnasios y nutricionistas locales. |
+| **Productos y servicios** | Registro exhaustivo de comidas, metas personalizadas y seguimiento de actividad. | Planes de alimentación personalizados, registro de hidratación y evaluación de progreso. | Registro de consumo de alimentos combinado con lecciones psicológicas diarias. | Monitoreo de hábitos, IA adaptativa para recomendaciones y módulo de gestión para nutricionistas. |
+| **Precios** | Versión gratuita y versión premium de 19.99 dólares. | Versión gratuita. | Versión gratuita. | Modelo freemium: Versión gratuita con IA básica y versión premium con mejores funcionalidades. |
+| **Canales de distribución** | Móvil. | Móvil. | Móvil. | Web y Móvil. |
+
+
+**Análisis SWOT (Fortalezas, Oportunidades, Debilidades, Amenazas)**
+
+A continuación, se realiza el análisis de cada uno de los competidores analizados para identificar cómo nuestras fortalezas contribuirian a una ventaja competitiva importante:
+
+**1. MyFitnessPal**
+*   **Fortalezas:** Marca altamente reconocida con una funcionalidad de registro de comidas y macronutrientes muy detallada.
+*   **Debilidades:** Su versión premium tiene un costo elevado que puede resultar inaccesible para algunos sectores.
+*   **Oportunidades:** Expansión e integración con nuevos dispositivos de hardware (relojes inteligentes, básculas).
+*   **Amenazas:** Surgimiento de nuevas aplicaciones gratuitas o más económicas que incluyan IA.
+
+**2. Lifesum**
+*   **Fortalezas:** Ofrece planes de alimentación personalizados y registro de hidratación en una aplicación totalmente gratuita.
+*   **Debilidades:** Carece de la intervención directa de un profesional de la salud o inteligencia artificial que se adapte automáticamente al contexto del usuario.
+*   **Oportunidades:** Crecimiento en la tendencia mundial de dietas específicas como el veganismo y keto.
+*   **Amenazas:** Usuarios que abandonan la app al no ver resultados rápidos o por falta de motivación guiada.
+
+**3. Noom**
+*   **Fortalezas:** Su propuesta de valor es única al integrar un enfoque psicológico y lecciones diarias para el cambio de hábitos.
+*   **Debilidades:** El requisito de leer lecciones diarias puede resultar tedioso para usuarios que buscan rapidez y practicidad.
+*   **Oportunidades:** Aumento del interés en la salud mental vinculada a los trastornos alimenticios y el sobrepeso.
+*   **Amenazas:** Otras aplicaciones de salud integrando módulos de mindfulness o psicología en sus plataformas.
+
+**4. VitaControl**
+*   **Fortalezas:** Implementación de IA adaptativa para generar recomendaciones dinámicas y un ecosistema que conecta al usuario directamente con un nutricionista real.
+*   **Debilidades:** Al ser una startup de reciente creación, carece inicialmente de una base de datos de usuarios activa y reconocimiento de marca en el mercado.
+*   **Oportunidades:** Existe una necesidad desatendida en el segmento de profesionales nutricionistas que requieren herramientas digitales modernas para gestionar pacientes y ganar ingresos extra.
+*   **Amenazas:** Los competidores con mayores recursos económicos podrían copiar rápidamente la funcionalidad de conexión profesional o el uso de IA.
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 A partir del análisis competitivo realizado para VitaControl (NutriApp Integral) y sus competidores directos (MyFitnessPal, Lifesum y Noom), se definen las estrategias y tácticas preliminares para afrontar las fortalezas de la competencia, aprovechar sus debilidades, y responder al contexto de oportunidades y amenazas del mercado.
