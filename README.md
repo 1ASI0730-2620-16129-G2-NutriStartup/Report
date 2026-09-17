@@ -521,7 +521,7 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 |----------------|--------------------------------|------------|--------------|
 | Nutricionista  | [Entrevista a Marisol López](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312343_upc_edu_pe/IQBNWO9CkMKjRLvyVrbGqXy5AfvEvMAKSnSHuzDErCb30hE?e=GJzbUm) | 00:00      | 13:00 min    |
 
-![Entrevista-2seg-2](assets/images/Entrevista%20Sector%2002%20-%202.png)
+![Entrevista-3seg-2](assets/images/Entrevista3_Segmento2.png)
 
 **Resumen:** Marisol López es una nutricionista clínica de 50 años con 32 años de experiencia atendiendo principalmente de forma presencial a adultos en la marina de guerra. Actualmente, realiza el seguimiento de sus pacientes mediante WhatsApp, donde les brinda información a seguir. Sin embargo, señala que el sistema de nutrición va muy lento debido a la gran cantidad de información que se posee y no se organiza adecuadamente. También menciona que algunos pacientes dejan de registrar sus avances después de las primeras semanas, principalmente por el abandono. No suele utilizar plataformas virtuales que la puedan apoyar debido a la poca experiencia que cuenta con las nueva tecnologías. Sin embargo, afirma que estas podrían ayudar al problema d ela lentitud del sistema, dada una organización correcta del estado de los paciente. Lo único que teme de la plataforma virtual es que se convierta en una herramienta de doble filo que promueva el sedentarismo y disminuya las citas presenciales debido a ello.
 
