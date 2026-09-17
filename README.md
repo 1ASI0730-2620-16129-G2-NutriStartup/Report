@@ -47,6 +47,10 @@
         <td align="center" >U202416903</td>
         <td align="center" >Gabriel Alejandro Vilchez Vite</td>
       </tr>
+      <tr>
+        <td align="center" >U202312343</td>
+        <td align="center" >Alejandro Franklin Mendoza Vergara</td>
+      </tr>
     </tbody>
   </table>
 </div>
