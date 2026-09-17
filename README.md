@@ -69,7 +69,8 @@
 | 5.0     | 15/09/2026  | Poly Gabriel Alcantara Baldeon            | Se anadió la sección de estrategias y tácticas frente a competidores.                                                                       |
 | 6.0     | 15/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de registro de entrevistas.                                                                                            |
 | 7.0     | 16/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se anadió la entrevista 1 del segmento 1.                                                                                                   |
-| 8.0     | 17/09/2026  | Waldo Alonso Portal Inga                  | Se anadió la entrevista 2 del segmento 1.                                                                                                   |
+| 8.0     | 17/09/2026  | Waldo Alonso Portal Inga                  | Se anadió la entrevista 2 del segmento 2.                                                                                                   |
+| 9.0     | 17/09/2026  | Alejandro Franklin Mendoza Vergara        | Se anadió la entrevista 3 del segmento 2.                                                                                                   |
 
 ## Contenido
 
@@ -501,9 +502,9 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 |-------------------------|----------|--------------------|
 | Mateo Salazar           | 25       | Santiago de Surco  |
 
-| **Segmento**   | **URL**                                                                                                           | **Inicio** | **Duración** |
-|----------------|-------------------------------------------------------------------------------------------------------------------|------------|--------------|
-| Nutricionista  | [Entrevista a Mateo Salazar](https://drive.google.com/file/d/17HxGaRUOs86-KTjkGCxS8PjZ58aepxbJ/view?usp=sharing)  | 00:00      | 3:33 min     |
+| **Segmento**   | **URL**                                                                                                                        | **Inicio** | **Duración** |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Nutricionista  | [Entrevista - 2do seg obj - Mateo Salazar](https://drive.google.com/file/d/17HxGaRUOs86-KTjkGCxS8PjZ58aepxbJ/view?usp=sharing) | 00:00      | 3:33 min     |
 
 ![Entrevista-2seg-2](assets/images/Entrevista%20Sector%2002%20-%202.png)
 
@@ -519,7 +520,7 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 
 | **Segmento**   | **URL**                        | **Inicio** | **Duración** |
 |----------------|--------------------------------|------------|--------------|
-| Nutricionista  | [Entrevista a Marisol López](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312343_upc_edu_pe/IQBNWO9CkMKjRLvyVrbGqXy5AfvEvMAKSnSHuzDErCb30hE?e=GJzbUm) | 00:00      | 13:00 min    |
+| Nutricionista  | [Entrevista - 2do seg obj - Marisol López](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312343_upc_edu_pe/IQBNWO9CkMKjRLvyVrbGqXy5AfvEvMAKSnSHuzDErCb30hE?e=GJzbUm) | 00:00      | 13:00 min    |
 
 ![Entrevista-3seg-2](assets/images/Entrevista3_Segmento2.png)
 
@@ -576,5 +577,9 @@ Esta sección muestra los requisitos funcionales de VitaControl a través de un 
 | TS-06               | API de nutricionistas y pacientes                    | Como Developer, quiero disponer de operaciones REST para gestionar la relación entre nutricionistas y pacientes para permitir el seguimiento profesional.                  | **Dado** que se envía un request válido para registrar una relación entre nutricionista y paciente, **cuando** el API procesa la solicitud, **entonces** registra la relación.<br>**Dado** que un nutricionista solicita información de un paciente sin autorización, **cuando** el API procesa el request, **entonces** rechaza la solicitud.                                                                                                                                                             | EP-08                         |
 | TS-07               | API de planes nutricionales                          | Como Developer, quiero disponer de operaciones REST para gestionar planes nutricionales para permitir que los nutricionistas administren los planes de sus pacientes.      | **Dado** que se envía un request válido de creación de un plan nutricional, **cuando** el API procesa la solicitud, **entonces** registra el plan y devuelve el recurso creado.<br>**Dado** que el paciente no pertenece a la cartera autorizada del nutricionista, **cuando** se solicita registrar o modificar su plan, **entonces** el API rechaza la operación.                                                                                                                                        | EP-08                         |
 | TS-08               | API de suscripciones                                 | Como Developer, quiero disponer de operaciones REST para gestionar los planes de suscripción para controlar el acceso a las funcionalidades según el tipo de cuenta.       | **Dado** que se envía un request válido para cambiar el plan de un usuario, **cuando** el API procesa la solicitud, **entonces** actualiza la suscripción correspondiente.<br>**Dado** que la solicitud de cambio de plan no es válida, **cuando** el API procesa el request, **entonces** responde con un error y mantiene la suscripción anterior.                                                                                                                                                       | EP-08                         |
+
+## 3.2 Impact Mapping
+
+## 3.3 Product Backlog
 
 </div>
