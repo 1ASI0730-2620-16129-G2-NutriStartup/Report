@@ -474,7 +474,7 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 
 #### Segmento 2: Nutricionistas que desean generar ingresos adicionales
 
-**Entrevista N° 1**
+**Entrevista N° 3**
 
 | **Nombres y apellidos** | **Edad** | **Distrito** |
 |-------------------------|----------|--------------|
@@ -487,6 +487,22 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 ![Entrevista-2seg-1](assets/images/entrevista-nutricionista-1.png)
 
 **Resumen:** Cecilia Vallejos, licenciada en Nutrición con especialización en nutrición clínica y maestría en servicios de alimentación, actualmente trabaja en el Hospital de Emergencias Grau - ESSALUD. Actualmente, ella está siguiendo a sus pacientes en función de la evaluación nutricional y la revisión de las historias clínicas, donde recoge información como diagnóstico, dieta, peso, talla, resultados de laboratorio. Sin embargo, Cecilia Vallejos señala que el limitado tiempo y la gran carga de pacientes hacen difícil poder seguir a cada uno y clasificar la información. Ha tenido una experiencia positiva con una plataforma que permitía calcular requerimientos calóricos y riesgos nutricionales, así que le gustaría contar con una herramienta que le permita centralizar la información clínica y elaborar correctamente los planes nutricionales. Estaría dispuesta a dar consultas mediante una plataforma digital porque entonces podría trabajar con más pacientes y generar ingresos extra, siempre que la tecnología no le reemplace el criterio profesional del nutricionista.
+
+---
+
+**Entrevista N.° 4**
+
+| **Nombres y apellidos** | **Edad** | **Distrito** |
+|-------------------------|----------|--------------|
+| Mateo Salazar           | 25       | Santiago de Surco |
+
+| **Segmento**  | **URL** | **Inicio** | **Duración** |
+|---------------|---------|------------|--------------|
+| Nutricionista | [Entrevista a Mateo Salazar](https://drive.google.com/file/d/17HxGaRUOs86-KTjkGCxS8PjZ58aepxbJ/view?usp=sharing) | 00:00 | x:xx min |
+
+![Entrevista-2seg-2](assets/images/Entrevista%20Sector%2002%20-%202.png)
+
+**Resumen:** Mateo Salazar es un nutricionista clínico de 25 años con dos años de experiencia atendiendo presencial y virtualmente a jóvenes y adultos. Actualmente, realiza el seguimiento de sus pacientes mediante WhatsApp, hojas de cálculo y registros de alimentación, peso y medidas corporales. Sin embargo, señala que la información suele quedar dispersa entre mensajes, fotografías y documentos, lo que dificulta organizar y supervisar a varios pacientes simultáneamente. También menciona que algunos pacientes dejan de registrar sus avances después de las primeras semanas. Aunque ha utilizado aplicaciones de alimentación y herramientas digitales, todavía no ha probado una plataforma que reúna todas las funciones que necesita. Por ello, le gustaría contar con una herramienta que permita crear planes personalizados, programar citas, enviar recordatorios, realizar videollamadas y visualizar el progreso mediante gráficos. Estaría dispuesto a brindar consultas y seguimiento por medio de una plataforma digital porque podría atender a pacientes de diferentes lugares, ampliar sus servicios y generar ingresos adicionales. No obstante, antes de utilizarla, evaluaría la seguridad de los datos, su facilidad de uso, el costo y el soporte técnico disponible.
 
 ---
 
