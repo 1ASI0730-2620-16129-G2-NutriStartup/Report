@@ -71,6 +71,7 @@
 | 7.0     | 16/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se anadió la entrevista 1 del segmento 1.                                                                                                   |
 | 8.0     | 17/09/2026  | Waldo Alonso Portal Inga                  | Se anadió la entrevista 2 del segmento 2.                                                                                                   |
 | 9.0     | 17/09/2026  | Alejandro Franklin Mendoza Vergara        | Se anadió la entrevista 3 del segmento 2 y la sección de Ubiquitious Language.                                                              |
+| 10.0    | 18/09/2026  | Poly Gabriel Alcantara Baldeon            | Se anadió la entrevista 2 del segmento 1 y la sección de Análisis de entrevistas.                                                           |
 
 ## Contenido
 
@@ -483,9 +484,9 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 |-------------------------|----------|--------------|
 | Reyna Antezana          | 19       | Pueblo libre |
 
-| **Segmento**                         | **URL**                                                                                                                                                                                                                                                                                                                                                               | **Inicio** | **Duración** |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
-| Persona que desea reducir su peso    | [Entrevista - 1er segmento objetivo - Reyna](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418250_upc_edu_pe/IQALxUMf-7IJSYYjTGmz_323AeVCUVKwezavhrncBzTUMp4?e=NxGDbP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 00:00      | 4:59 min     |
+| **Segmento**                         | **URL**                                                                                                                                                                                                                                                                                                                                                                   | **Inicio** | **Duración** |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Persona que desea reducir su peso    | [Entrevista - 1er segmento objetivo - Reyna.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418250_upc_edu_pe/IQALxUMf-7IJSYYjTGmz_323AeVCUVKwezavhrncBzTUMp4?e=NxGDbP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 00:00      | 4:59 min     |
 
 ![Entrevista-2seg-1](assets/images/Entrevista-N2-Reyna.jpeg)
 
@@ -517,9 +518,9 @@ Reyna es una persona que busca reducir y controlar su peso principalmente para s
 |-------------------------|----------|--------------------|
 | Mateo Salazar           | 25       | Santiago de Surco  |
 
-| **Segmento**   | **URL**                                                                                                                        | **Inicio** | **Duración** |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
-| Nutricionista  | [Entrevista - 2do seg obj - Mateo Salazar](https://drive.google.com/file/d/17HxGaRUOs86-KTjkGCxS8PjZ58aepxbJ/view?usp=sharing) | 00:00      | 3:33 min     |
+| **Segmento**   | **URL**                                                                                                                            | **Inicio** | **Duración** |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Nutricionista  | [Entrevista - 2do seg obj - Mateo Salazar.mp4](https://drive.google.com/file/d/17HxGaRUOs86-KTjkGCxS8PjZ58aepxbJ/view?usp=sharing) | 00:00      | 3:33 min     |
 
 ![Entrevista-2seg-2](assets/images/Entrevista%20Sector%2002%20-%202.png)
 
