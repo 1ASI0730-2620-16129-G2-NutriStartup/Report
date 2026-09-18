@@ -133,3 +133,22 @@ Software Deployment
 
 Ruta de referencia: https://pages.github.com/
 
+### 5.1.2. Source Code Management
+
+El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
+
+Repositorio de GitHub:
+
+- Enlace para acceder a la organización en GitHub: https://github.com/1ASI0730-2620-16129-G2-NutriStartup
+- Enlace para acceder al repositorio de la landing Page: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/LandingPage
+- Enlace para acceder al repositorio del reporte: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Report
+
+Flujo de trabajo GitFlow
+
+El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
+
+Estructura de branches (Ramas):
+
+1. Main branch (Rama principal): Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
+2. Develop branch (Rama de desarrollo): El propósito de esta rama es facilitar los avances del proyecto en equipo y mantener los archivos centrales del desarrollo continuo.
+3. Feature branch(Ramas de funcionalidad): Cada capitulo desarrollado por el equipo, o separada del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/chapter-#".
