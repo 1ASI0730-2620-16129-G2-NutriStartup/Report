@@ -528,6 +528,85 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 
 ---
 
+## 2.5 Ubiquitious Language
+
+### Introducción
+
+El siguiente glosario define los términos clave del dominio de bienestar y cuidado de la salud de VitaControl. Su propósito es establecer un lenguaje común entre todos los stakeholders, evitando ambigüedades y facilitando la comunicación durante el análisis, diseño y desarrollo de la plataforma.
+
+### Glosario
+
+**User (Usuario):** Persona que utiliza VitaControl para mejorar sus hábitos y cuidar su bienestar físico y mental.
+
+**Healthy Habit (Hábito Saludable):** Comportamiento positivo relacionado con la alimentación, actividad física o bienestar que el usuario busca incorporar y mantener en su vida diaria.
+
+**Goal (Objetivo):** Resultado que el usuario desea alcanzar mediante el uso de VitaControl, como mejorar su alimentación, aumentar su actividad física o controlar su peso.
+
+**Personalized Plan (Plan Personalizado):** Conjunto de actividades, recomendaciones y metas adaptadas a las características, necesidades y objetivos de cada usuario.
+
+**Profile (Perfil):** Conjunto de información personal y características del usuario utilizadas para personalizar su experiencia dentro de la plataforma.
+
+**Physical Activity (Actividad Física):** Ejercicio o movimiento realizado por el usuario y registrado en VitaControl.
+
+**Food Intake (Consumo de Alimentos):** Registro de los alimentos y comidas consumidos por el usuario durante el día.
+
+**Nutrition (Alimentación):** Información relacionada con los alimentos, comidas y hábitos alimenticios del usuario.
+
+**Recommendation (Recomendación):** Sugerencia proporcionada por VitaControl de acuerdo con los objetivos, hábitos, características y progreso del usuario.
+
+**Progress (Progreso):** Evolución del usuario respecto al cumplimiento de sus objetivos y hábitos saludables.
+
+**Tracking (Seguimiento):** Proceso de registrar y revisar las actividades, hábitos y avances del usuario a lo largo del tiempo.
+
+**Habit Tracking (Seguimiento de Hábitos):** Registro del cumplimiento de los hábitos saludables establecidos por el usuario.
+
+**Activity Record (Registro de Actividad):** Información almacenada sobre una actividad física realizada por el usuario, incluyendo datos relevantes como tipo, duración o frecuencia.
+
+**Food Record (Registro de Alimentación):** Información registrada por el usuario sobre los alimentos o comidas que ha consumido.
+
+**Reminder (Recordatorio):** Aviso generado por VitaControl para ayudar al usuario a cumplir sus actividades, hábitos u objetivos establecidos.
+
+**Notification (Notificación):** Mensaje enviado por la plataforma para informar al usuario sobre recordatorios, recomendaciones, avances o cambios relacionados con su actividad.
+
+**Personalization (Personalización):** Proceso mediante el cual VitaControl adapta sus recomendaciones y funcionalidades según las características, necesidades, objetivos y evolución del usuario.
+
+**Adaptive Recommendation (Recomendación Adaptativa):** Recomendación que puede cambiar de acuerdo con el progreso, comportamiento y necesidades actuales del usuario.
+
+**Streak (Racha):** Cantidad de días consecutivos en los que el usuario cumple con un hábito o actividad determinada.
+
+**Consistency (Constancia):** Capacidad del usuario para mantener sus hábitos y actividades saludables de manera regular a lo largo del tiempo.
+
+**Weight Tracking (Seguimiento de Peso):** Registro y seguimiento de los cambios en el peso del usuario durante un periodo determinado.
+
+**Wellness (Bienestar):** Estado general relacionado con el cuidado y equilibrio de la salud física y mental del usuario.
+
+**Healthy Lifestyle (Estilo de Vida Saludable):** Conjunto de hábitos y comportamientos relacionados con una alimentación adecuada, actividad física y cuidado del bienestar.
+
+**Achievement (Logro):** Resultado obtenido por el usuario al cumplir una meta, mantener un hábito o alcanzar un determinado nivel de progreso.
+
+**Dashboard (Panel de Control):** Espacio principal de VitaControl donde el usuario puede visualizar sus objetivos, hábitos, actividades, progreso y recomendaciones.
+
+**User Progress (Progreso del Usuario):** Información que permite visualizar los avances del usuario respecto a sus objetivos y hábitos saludables.
+
+**Health Data (Datos de Salud):** Información proporcionada o registrada por el usuario relacionada con su bienestar, actividad física, alimentación y otros indicadores utilizados para personalizar la experiencia.
+
+**Goal Completion (Cumplimiento del Objetivo):** Momento en el que el usuario alcanza el resultado establecido como meta dentro de VitaControl.
+
+**Habit Completion (Cumplimiento del Hábito):** Registro que indica que el usuario realizó una acción correspondiente a uno de sus hábitos establecidos.
+
+**Motivation (Motivación):** Elementos y funcionalidades utilizadas por VitaControl para incentivar al usuario a mantener la constancia y continuar con sus hábitos saludables.
+
+**User Feedback (Retroalimentación del Usuario):** Información proporcionada por el usuario sobre sus hábitos, recomendaciones, experiencia o percepción de la plataforma, que puede utilizarse para mejorar la personalización.
+
+**Evolution (Evolución):** Cambios que presentan los objetivos, necesidades, hábitos y progreso del usuario a lo largo del tiempo.
+
+**VitaControl Platform (Plataforma VitaControl):** Sistema digital que integra las herramientas de seguimiento, alimentación, actividad física, recomendaciones y gestión de hábitos saludables.
+
+**Personalized Experience (Experiencia Personalizada):** Experiencia que recibe cada usuario a partir de recomendaciones y funcionalidades adaptadas a sus características y necesidades.
+
+**Healthy Habit Maintenance (Mantenimiento de Hábitos Saludables):** Proceso mediante el cual el usuario mantiene sus hábitos saludables de forma constante a lo largo del tiempo.
+
+
 # Capítulo III: Requirements Specification
 
 ## 3.1 User Stories
