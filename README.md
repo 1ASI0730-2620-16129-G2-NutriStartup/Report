@@ -542,6 +542,33 @@ Reyna es una persona que busca reducir y controlar su peso principalmente para s
 **Resumen:** Marisol López es una nutricionista clínica de 50 años con 32 años de experiencia atendiendo principalmente de forma presencial a adultos en la marina de guerra. Actualmente, realiza el seguimiento de sus pacientes mediante WhatsApp, donde les brinda información a seguir. Sin embargo, señala que el sistema de nutrición va muy lento debido a la gran cantidad de información que se posee y no se organiza adecuadamente. También menciona que algunos pacientes dejan de registrar sus avances después de las primeras semanas, principalmente por el abandono. No suele utilizar plataformas virtuales que la puedan apoyar debido a la poca experiencia que cuenta con las nueva tecnologías. Sin embargo, afirma que estas podrían ayudar al problema d ela lentitud del sistema, dada una organización correcta del estado de los paciente. Lo único que teme de la plataforma virtual es que se convierta en una herramienta de doble filo que promueva el sedentarismo y disminuya las citas presenciales debido a ello.
 
 ---
+### 2.2.3 Análisis de entrevistas
+
+## Análisis de entrevistas
+
+### Segmento 1: Personas que desean reducir su peso 
+
+- **Motivación principal:** ambos entrevistados buscan mejorar su salud y su apariencia física, con el propósito de fondo de sentirse mejor consigo mismos en su día a día.
+- **Principal obstáculo:** ninguno atribuye su dificultad a la falta de información, sino a sostener la constancia en el tiempo. Ian lo relaciona con la falta de tiempo y los constantes cambios en su horario académico; Reyna con el control de antojos y la desmotivación que aparece cuando no ve resultados rápidos, lo que la lleva a abandonar rutinas ya iniciadas.
+- **Uso previo de herramientas digitales:** ninguno ha usado antes una app dedicada específicamente a registrar o monitorear su alimentación de forma detallada. Ian sí tiene experiencia previa con apps de gimnasio orientadas a rutinas de entrenamiento.
+- **Dispositivo de preferencia:** Ian prefiere usar exclusivamente el celular por comodidad, y planea usarlo en momentos clave como antes de comer o antes de entrenar.
+- **Canales digitales de interacción:** Ian consume contenido de bienestar y ejercicio de forma casual en TikTok e Instagram, sin seguir marcas o creadores específicos, lo que sugiere un consumo pasivo más que una búsqueda activa de referentes.
+- **Interés en inteligencia artificial:** ambos valoran positivamente que la plataforma incorpore IA  Ian espera un plan de dietas ajustado a su presupuesto y gustos personales, y Reyna espera recomendaciones personalizadas según su progreso.
+- **Interés en conexión con un nutricionista:** Reyna califica como "extraordinario" poder conectarse directamente con un nutricionista desde la misma aplicación, lo que representa una posible ventaja diferencial frente a apps genéricas de conteo calórico.
+- **Tipo de ejercicio preferido:** Reyna menciona sentirse más cómoda con caminatas, trote o gimnasio, actividades de bajo costo de entrada.
+- **Factor de retención:** ambos coinciden en que lo que los mantendría usando la app y no abandonarla como en intentos anteriores es que les simplifique la toma de decisiones diarias, en lugar de exigirles esfuerzo adicional de planificación.
+
+### Segmento 2: Nutricionistas que desean generar ingresos adicionales 
+
+- **Perfil profesional:** las tres entrevistadas ejercen activamente la nutrición clínica, aunque desde contextos distintos: Cecilia en un entorno hospitalario, Mateo en consulta mixta presencial y virtual, y Marisol en atención institucional de larga trayectoria.
+- **Herramienta de seguimiento actual:** Mateo y Marisol dependen principalmente de WhatsApp para dar seguimiento a sus pacientes, mientras que Cecilia trabaja con historias clínicas y evaluaciones nutricionales formales dentro del hospital.
+- **Problema principal:** las tres coinciden en la dificultad para organizar y centralizar la información de sus pacientes conforme crece su carga de trabajo, ya sea por dispersión entre mensajes, fotos y documentos, o por lentitud en el manejo de la información dentro del sistema institucional.
+- **Abandono de pacientes:** Mateo y Marisol notan que buena parte de sus pacientes deja de registrar sus avances después de las primeras semanas, un patrón de constancia similar al observado en el segmento anterior, pero visto ahora desde la perspectiva del profesional que intenta dar seguimiento.
+- **Disposición a generar ingresos por plataforma digital:** las tres estarían dispuestas a dar consultas o seguimiento mediante una plataforma digital, principalmente para ampliar su alcance y generar ingresos adicionales a su actividad presencial.
+- **Preocupación por el rol profesional:** Cecilia condiciona su interés a que la tecnología no reemplace el criterio profesional del nutricionista, posicionando la herramienta como apoyo y no como sustituto de su juicio clínico.
+- **Criterios de adopción antes de usar la herramienta:** Mateo evaluaría primero la seguridad de los datos, la facilidad de uso, el costo y el soporte técnico disponible antes de decidirse a usar la plataforma.
+- **Resistencia/temor tecnológico:** Marisol tiene poca experiencia con nuevas tecnologías y teme que una herramienta digital termine promoviendo el sedentarismo de sus pacientes al reducir las citas presenciales.
+- **Funcionalidades deseadas:** en conjunto, el segmento apunta a una herramienta que centralice la información clínica y facilite la elaboración de planes nutricionales, con funciones adicionales como programación de citas, recordatorios, videollamadas y seguimiento gráfico del progreso.
 
 ## 2.5 Ubiquitious Language
 
