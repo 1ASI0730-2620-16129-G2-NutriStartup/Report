@@ -216,3 +216,18 @@ Para asegurar que el código en C# siga los principios de Domain-Driven Design (
 4. Implementar repositorios para el acceso a datos: Los repositorios son responsables de la persistencia y recuperación de los agregados.
 5. Aplicar patrones de diseño adecuados: Utilizar patrones de diseño como CQRS, Event Sourcing y DDD para estructurar el código de manera efectiva.
    Referencia: [Domain-Driven Design](https://www.domainlanguage.com/ddd/reference/)
+
+### 5.1.4. Software Deployment Configuration
+
+#### Landing Page Deployment
+
+La landing page del proyecto se ha desplegado utilizando GitHub Pages, lo que permite alojar el sitio web de manera gratuita y sencilla directamente desde el repositorio de GitHub:
+
+Ruta de referencia: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/LandingPage
+
+#### Web Application Deployment
+
+la aplicación web del proyecto se ha desplegado utilizando GitHub Pages, lo que permite alojar el sitio web de manera gratuita y sencilla directamente desde el repositorio de GitHub:
+
+Ruta de referencia: 
+
