@@ -70,7 +70,7 @@
 | 6.0     | 15/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de registro de entrevistas.                                                                                            |
 | 7.0     | 16/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se anadió la entrevista 1 del segmento 1.                                                                                                   |
 | 8.0     | 17/09/2026  | Waldo Alonso Portal Inga                  | Se anadió la entrevista 2 del segmento 2.                                                                                                   |
-| 9.0     | 17/09/2026  | Alejandro Franklin Mendoza Vergara        | Se anadió la entrevista 3 del segmento 2.                                                                                                   |
+| 9.0     | 17/09/2026  | Alejandro Franklin Mendoza Vergara        | Se anadió la entrevista 3 del segmento 2 y la sección de Ubiquitious Language.                                                              |
 
 ## Contenido
 
@@ -356,15 +356,15 @@ Hay muchas plataformas digitales en el mercado que pretenden mejorar la alimenta
 En esta sección se describirán a nuestros competidores principales (MyFitnessPal, Lifesum y Noom) comparando la propuesta de nuestro startup VitaControl. El objetivo es identificar fortalezas y debilidades para establecer nuestra ventaja competitiva en el mercado.
 
 
-|  | MyFitnessPal | Lifesum | Noom | VitaControl |
-|---|---|---|---|---|
-| **Perfil** | Aplicación móvil enfocada en la nutrición, la salud y la actividad física. | Aplicación móvil centrada en mejorar la alimentación y llevar un estilo de vida equilibrado. | Aplicación móvil enfocada en la perdida de peso mediante un enfoque psicológico. | Plataforma digital (web y móvil) orientada al bienestar físico mediante IA y conexión con profesionales. |
-| **Ventaja competitiva** | Base de datos extensa para el conteo riguroso de calorías y macronutrientes. | Diseño amigable enfocado en planes de alimentación y control rápido de carbohidratos e hidratación. | Apoyo psicológico para promover un estilo de vida sostenible a largo plazo con lecciones breves. | Recomendaciones con IA y un modelo de dos lados que conecta a usuarios con nutricionistas reales. |
-| **Mercado objetivo** | Personas que buscan un control meticuloso de sus macros, calorías y rutinas físicas. | Usuarios que desean perder peso mediante dietas personalizadas y un monitoreo visualmente atractivo. | Personas que buscan cambiar su comportamiento y mentalidad respecto a la comida para perder peso. | Personas de 18 a 50 años que buscan reducir peso y nutricionistas que desean gestionar pacientes y generar ingresos extra. |
-| **Estrategias de marketing** | Alianzas con marcas de fitness y gran comunidad de usuarios activos. | Promoción de estilos de vida estéticos, dietas en tendencia y facilidad de usar. | Enfoque en el cambio de mentalidad. | Captación mediante alianzas con gimnasios y nutricionistas locales. |
-| **Productos y servicios** | Registro exhaustivo de comidas, metas personalizadas y seguimiento de actividad. | Planes de alimentación personalizados, registro de hidratación y evaluación de progreso. | Registro de consumo de alimentos combinado con lecciones psicológicas diarias. | Monitoreo de hábitos, IA adaptativa para recomendaciones y módulo de gestión para nutricionistas. |
-| **Precios** | Versión gratuita y versión premium de 19.99 dólares. | Versión gratuita. | Versión gratuita. | Modelo freemium: Versión gratuita con IA básica y versión premium con mejores funcionalidades. |
-| **Canales de distribución** | Móvil. | Móvil. | Móvil. | Web y Móvil. |
+|                              | MyFitnessPal                                                                         | Lifesum                                                                                              | Noom                                                                                              | VitaControl                                                                                                                |
+|------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Perfil**                   | Aplicación móvil enfocada en la nutrición, la salud y la actividad física.           | Aplicación móvil centrada en mejorar la alimentación y llevar un estilo de vida equilibrado.         | Aplicación móvil enfocada en la perdida de peso mediante un enfoque psicológico.                  | Plataforma digital (web y móvil) orientada al bienestar físico mediante IA y conexión con profesionales.                   |
+| **Ventaja competitiva**      | Base de datos extensa para el conteo riguroso de calorías y macronutrientes.         | Diseño amigable enfocado en planes de alimentación y control rápido de carbohidratos e hidratación.  | Apoyo psicológico para promover un estilo de vida sostenible a largo plazo con lecciones breves.  | Recomendaciones con IA y un modelo de dos lados que conecta a usuarios con nutricionistas reales.                          |
+| **Mercado objetivo**         | Personas que buscan un control meticuloso de sus macros, calorías y rutinas físicas. | Usuarios que desean perder peso mediante dietas personalizadas y un monitoreo visualmente atractivo. | Personas que buscan cambiar su comportamiento y mentalidad respecto a la comida para perder peso. | Personas de 18 a 50 años que buscan reducir peso y nutricionistas que desean gestionar pacientes y generar ingresos extra. |
+| **Estrategias de marketing** | Alianzas con marcas de fitness y gran comunidad de usuarios activos.                 | Promoción de estilos de vida estéticos, dietas en tendencia y facilidad de usar.                     | Enfoque en el cambio de mentalidad.                                                               | Captación mediante alianzas con gimnasios y nutricionistas locales.                                                        |
+| **Productos y servicios**    | Registro exhaustivo de comidas, metas personalizadas y seguimiento de actividad.     | Planes de alimentación personalizados, registro de hidratación y evaluación de progreso.             | Registro de consumo de alimentos combinado con lecciones psicológicas diarias.                    | Monitoreo de hábitos, IA adaptativa para recomendaciones y módulo de gestión para nutricionistas.                          |
+| **Precios**                  | Versión gratuita y versión premium de 19.99 dólares.                                 | Versión gratuita.                                                                                    | Versión gratuita.                                                                                 | Modelo freemium: Versión gratuita con IA básica y versión premium con mejores funcionalidades.                             |
+| **Canales de distribución**  | Móvil.                                                                               | Móvil.                                                                                               | Móvil.                                                                                            | Web y Móvil.                                                                                                               |
 
 
 **Análisis SWOT (Fortalezas, Oportunidades, Debilidades, Amenazas)**
@@ -518,9 +518,9 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 |-------------------------|----------|--------------|
 | Marisol López           | 59       | La Molina    |
 
-| **Segmento**   | **URL**                        | **Inicio** | **Duración** |
-|----------------|--------------------------------|------------|--------------|
-| Nutricionista  | [Entrevista - 2do seg obj - Marisol López](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312343_upc_edu_pe/IQBNWO9CkMKjRLvyVrbGqXy5AfvEvMAKSnSHuzDErCb30hE?e=GJzbUm) | 00:00      | 13:00 min    |
+| **Segmento**   | **URL**                                                                                                                                                                          | **Inicio** | **Duración** |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Nutricionista  | [Entrevista - 2do seg obj - Marisol López.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312343_upc_edu_pe/IQBNWO9CkMKjRLvyVrbGqXy5AfvEvMAKSnSHuzDErCb30hE?e=GJzbUm) | 00:00      | 13:00 min    |
 
 ![Entrevista-3seg-2](assets/images/Entrevista3_Segmento2.png)
 
