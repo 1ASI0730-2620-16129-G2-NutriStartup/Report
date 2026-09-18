@@ -491,6 +491,7 @@ Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría l
 
 **Resumen:**
 Reyna es una persona que busca reducir y controlar su peso principalmente para sentirse bien consigo misma y mejorar su condición física, enfrentando como principales obstáculos la falta de constancia, el control de antojos y la falta de organización que la llevan a abandonar las rutinas cuando se siente cansada, ocupada o desmotivada por no ver resultados rápidos. Aunque en el pasado ha intentado seguir dietas y ejercicios que le han resultado complicados de mantener a largo plazo, no ha utilizado aplicaciones previas de control, pero le gustaría probar una que le sirva de guía. Prefiere un plan alimenticio flexible que se adapte a su rutina y considera que los ejercicios más cómodos son las caminatas, correr o ir al gimnasio. Para mantenerse constante, valora positivamente que la herramienta incluya recordatorios, seguimiento de avances y recomendaciones personalizadas mediante inteligencia artificial, llegando a calificar como extraordinario que también pudiera conectarla directamente con un nutricionista.
+
 ---
 #### Segmento 2: Nutricionistas que desean generar ingresos adicionales
 
