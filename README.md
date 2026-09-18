@@ -477,7 +477,21 @@ El objetivo de estas preguntas es conocer cómo los nutricionistas gestionan act
 Ian prefiere utilizar solo su celular, por su comodidad, indicando que usaría la plataforma principalmente en momentos clave como antes de comer o antes de entrenar. Sobre sus canales de interacción, consume contenido relacionado con bienestar, ejercicios y salud de manera casual a través de TikTok e Instagram, y sin seguir a creadores de contenido o marcas. Para mantener la motivación necesitaría ver estadísticas claras sobre la tendencia de, por ejemplo, su pérdida de peso en la semana. Finalmente, considera muy importante que la aplicación ideal integre IA para generarle un plan semanal de dietas que sean fáciles de preparar y se ajusten a su presupuesto o gustos personales, esta simplificación de la planificación sería su principal razón para no abandonar la aplicación.
 
 ---
+**Entrevista N° 2**
 
+| **Nombres y apellidos** | **Edad** | **Distrito** |
+|-------------------------|----------|--------------|
+| Reyna Antezana          | 19       | Pueblo libre |
+
+| **Segmento**                         | **URL**                                                                                                                                                                                                                                                                                                                                                               | **Inicio** | **Duración** |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Persona que desea reducir su peso    | [Entrevista - 1er segmento objetivo - Reyna](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418250_upc_edu_pe/IQALxUMf-7IJSYYjTGmz_323AeVCUVKwezavhrncBzTUMp4?e=NxGDbP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 00:00      | 4:59 min     |
+
+![Entrevista-2seg-1](assets/images/Entrevista-N2-Reyna.jpeg)
+
+**Resumen:**
+Reyna es una persona que busca reducir y controlar su peso principalmente para sentirse bien consigo misma y mejorar su condición física, enfrentando como principales obstáculos la falta de constancia, el control de antojos y la falta de organización que la llevan a abandonar las rutinas cuando se siente cansada, ocupada o desmotivada por no ver resultados rápidos. Aunque en el pasado ha intentado seguir dietas y ejercicios que le han resultado complicados de mantener a largo plazo, no ha utilizado aplicaciones previas de control, pero le gustaría probar una que le sirva de guía. Prefiere un plan alimenticio flexible que se adapte a su rutina y considera que los ejercicios más cómodos son las caminatas, correr o ir al gimnasio. Para mantenerse constante, valora positivamente que la herramienta incluya recordatorios, seguimiento de avances y recomendaciones personalizadas mediante inteligencia artificial, llegando a calificar como extraordinario que también pudiera conectarla directamente con un nutricionista.
+---
 #### Segmento 2: Nutricionistas que desean generar ingresos adicionales
 
 **Entrevista N° 1**
