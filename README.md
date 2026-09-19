@@ -727,4 +727,14 @@ En esta sección el equipo sienta las bases para contar con un repositorio centr
 **Tono de comunicación:** VitaControl adopta un tono predominantemente **Entusiasta pero Sereno**, y **Casual pero Respetuoso**, buscando un punto intermedio entre ambos segmentos objetivo: cercano y motivador para el usuario final que busca bajar de peso, sin perder la seriedad y profesionalismo que espera el segmento de nutricionistas. Se evita el humor irreverente o un tono excesivamente formal/corporativo.
 
 Como referencia de Design System se toma como base [Material Design 3 / el sistema de diseño que decidan usar], sobre el cual se realizan adaptaciones de color y tipografía acordes a la identidad de marca descrita.
+
+### 4.1.2. Web Style Guidelines
+
+En esta sección se explican e ilustran las decisiones sobre los estándares visuales y de interacción para las interfaces web responsivas de VitaControl.
+
+- **Grid system:** se define una grilla de 12 columnas para desktop, que colapsa a 4 columnas en dispositivos móviles, garantizando consistencia en el alineamiento de los elementos.
+- **Breakpoints:** se establecen los puntos de quiebre estándar (móvil: hasta 480px, tablet: 481px–1024px, desktop: desde 1025px) para adaptar la disposición de contenido.
+- **Componentes de interacción:** botones, campos de formulario, tarjetas de contenido y elementos de navegación siguen un estilo consistente en cuanto a bordes redondeados, sombras suaves y estados (hover, active, disabled), coherente con la identidad visual definida en el punto 4.1.1.
+- **Accesibilidad:** se busca un contraste de color que cumpla al menos el nivel AA de WCAG, considerando que parte del segmento de nutricionistas (como Marisol López, con poca experiencia tecnológica) requiere una interfaz clara y fácil de leer.
+
 </div>
