@@ -780,4 +780,15 @@ Dado que el catálogo de contenido de VitaControl (recetas, planes, artículos) 
 - **Presentación de resultados:** los resultados se muestran en formato de tarjetas (cards) con imagen, nombre y datos clave (calorías, tiempo), permitiendo comparar opciones rápidamente sin necesidad de abrir cada elemento.
 - **Estado vacío:** cuando una búsqueda no arroja resultados, se sugieren alternativas relacionadas en lugar de dejar la pantalla en blanco, evitando que el usuario se sienta perdido.
 
+
+### 4.2.5. Navigation Systems
+
+Se definen las siguientes técnicas de navegación para guiar a los usuarios a través del Landing Page y la Web Application:
+
+- **Navegación global (Web Application):** un menú lateral (sidebar) persistente con acceso directo a las secciones principales (Mi Plan, Progreso, Comidas, Nutricionista/Pacientes según el rol), permitiendo moverse entre secciones sin perder el contexto.
+- **Navegación por pestañas:** dentro de secciones con múltiples vistas relacionadas (por ejemplo, "Progreso" con pestañas de Peso, Medidas y Alimentación), para evitar sobrecargar el menú principal.
+- **Breadcrumbs:** utilizados en flujos de varios pasos (como la creación de un plan nutricional) para que el usuario sepa en qué paso se encuentra y pueda regresar fácilmente.
+- **Navegación del Landing Page:** un menú superior fijo (sticky header) con anclas hacia las secciones internas de la página (Beneficios, Planes, Testimonios, Contacto) y un botón de llamada a la acción siempre visible ("Empieza gratis").
+- **Navegación diferenciada por rol:** al iniciar sesión, el sistema redirige automáticamente al usuario a la vista correspondiente a su rol (usuario final o nutricionista), evitando que cada segmento tenga que navegar manualmente hasta su sección relevante.
+
 </div>
