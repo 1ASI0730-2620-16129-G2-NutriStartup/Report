@@ -763,4 +763,13 @@ Se busca representar los datos con el mínimo número de palabras posible, evita
 
 Cada etiqueta se mantiene consistente en toda la plataforma (mismo nombre en menú, encabezados y notificaciones), evitando sinónimos que generen confusión (por ejemplo, no alternar entre "Comidas" y "Alimentación").
 
+### 4.2.3. SEO Tags and Meta Tags
+
+| Página                     | Title                                                                   | Meta Description | Keywords | Author |
+|----------------------------|-------------------------------------------------------------------------|---|---|---|
+| Landing Page (home)        | VitaControl \| Controla tu peso con planes nutricionales personalizados | Alcanza tus objetivos de salud con planes de alimentación personalizados por IA y conexión directa con nutricionistas certificados. | control de peso, nutrición personalizada, app de dietas, nutricionista online Perú | Equipo VitaControl |
+| Página de registro/planes  | Planes VitaControl \| Elige tu plan nutricional                         | Descubre los planes de VitaControl adaptados a tus objetivos, presupuesto y estilo de vida. | planes nutricionales, dietas personalizadas, precios VitaControl | Equipo VitaControl |
+| Página para nutricionistas | VitaControl para Nutricionistas \| Amplía tu consulta digital           | Centraliza la información de tus pacientes y ofrece consultas virtuales con VitaControl. | plataforma para nutricionistas, consulta nutricional virtual, gestión de pacientes | Equipo VitaControl |
+
+
 </div>
