@@ -571,6 +571,26 @@ Reyna es una persona que busca reducir y controlar su peso principalmente para s
 - **Resistencia/temor tecnológico:** Marisol tiene poca experiencia con nuevas tecnologías y teme que una herramienta digital termine promoviendo el sedentarismo de sus pacientes al reducir las citas presenciales.
 - **Funcionalidades deseadas:** en conjunto, el segmento apunta a una herramienta que centralice la información clínica y facilite la elaboración de planes nutricionales, con funciones adicionales como programación de citas, recordatorios, videollamadas y seguimiento gráfico del progreso.
 
+## 2.3 Needfinding
+
+### 2.3.1 User Personas
+
+Estudiante Universitario
+
+![UserPersona-1](assets/images/User%20persona%20segmento%201.png)
+
+Nutricionista
+
+![UserPersona-2](assets/images/User%20persona%20segmento%202.png)
+
+### 2.3.2 User Task Matrix
+
+### 2.3.3 User Journey Mapping
+
+### 2.3.4 Empathy Mapping
+
+## 2.4 Big Picture EventStorming
+
 ## 2.5 Ubiquitious Language
 
 ### Introducción
