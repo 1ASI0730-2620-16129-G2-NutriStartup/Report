@@ -571,12 +571,6 @@ Reyna es una persona que busca reducir y controlar su peso principalmente para s
 - **Resistencia/temor tecnológico:** Marisol tiene poca experiencia con nuevas tecnologías y teme que una herramienta digital termine promoviendo el sedentarismo de sus pacientes al reducir las citas presenciales.
 - **Funcionalidades deseadas:** en conjunto, el segmento apunta a una herramienta que centralice la información clínica y facilite la elaboración de planes nutricionales, con funciones adicionales como programación de citas, recordatorios, videollamadas y seguimiento gráfico del progreso.
 
-## 2.3 Needfinding
-
-En esta sección el equipo presenta los artefactos resultantes del proceso de análisis de la información recolectada durante la investigación con los segmentos objetivo. A partir de las entrevistas registradas y su respectivo análisis, se construyen representaciones estructuradas que permiten comprender de forma más profunda las necesidades, comportamientos y contextos de uso de cada segmento.
-
-Estos artefactos sirven como puente entre la investigación cualitativa recolectada y las decisiones de diseño del producto, asegurando que cada característica considerada para NutriApp Integral esté sustentada en datos reales obtenidos de los usuarios y no en supuestos del equipo. Las secciones internas que componen este apartado son: User Personas, User Task Matrix, User Journey Maps, Empathy Mapping, Big Picture EventStorming y Ubiquitous Language, cada una abordando un aspecto distinto del comportamiento y las necesidades identificadas.
-
 ## 2.5 Ubiquitious Language
 
 ### Introducción
