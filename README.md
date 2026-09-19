@@ -49,7 +49,7 @@
       </tr>
       <tr>
         <td align="center" >U202312343</td>
-        <td align="center" >Alejandro Franklin Mendoza Vergara</td>
+        <td align="center" >Alejandro Franklin, Mendoza Vergara</td>
       </tr>
     </tbody>
   </table>
@@ -230,127 +230,176 @@ Actualmente, existen aplicaciones orientadas al control del peso y hábitos salu
 * Se ofrecerá una versión premium con elementos complementarios, como funcionalidades ampliadas de personalización.
 * Se podrá monetizarse por medio de alianzas con nutricionistas, gimnasios o servicios de bienestar integrados a la plataforma.
 
-**Objetivos del proyecto**
+# Capítulo V: Product Implementation
 
-**Objetivo general:**
-Desarrollar una plataforma digital que ayude a las personas a mejorar y mantener hábitos saludables a través de recomendaciones personalizadas, seguimiento de su avance y herramientas que favorezcan el mantenimiento del mismo con el etiquetado de sus objetivos de alimentación y actividad física.
+## 5.1. Software Configuration Management
 
-**Objetivos específicos**
-* Ofrecer recomendaciones personalizadas de alimentación y ejercicio, en función de las características, preferencias y objetivos de cada usuario.
-* Facilitar el registro y la realización del seguimiento de los hábitos personales de salud y del progreso físico del usuario.
-* Incluir recordatorios, objetivos y estadísticas que ayudan a mantener la motivación y a restringir el abandono de los hábitos saludables.
-* Incorporar inteligencia artificial adaptativa para modificar las recomendaciones de acuerdo con la información de los hábitos y las necesidades del usuario.
-* Poder ofrecer una plataforma que cumpla con los requisitos de la App y de la página web.
+A continuación, presentaremos el proceso por el cual organizamos, gestionamos y controlamos los cambios en el desarrollo de este proyecto.
 
-**Restricciones del proyecto**
-* El proyecto tiene un público objetivo inicial de personas de entre 18 y 50 años que intentan controlar el peso o mejorar sus hábitos saludables.
-* La personalización de las recomendaciones dependerá de la información que el usuario vaya introduciendo en el registro y el seguimiento.
-* La plataforma se centrará al principio en alimentación, actividad física, seguimiento de hábitos y progreso, una vez más excluyendo cualquier tipo de servicio médico.
-* Las recomendaciones de la plataforma no sustituirán la evaluación, el diagnóstico o el tratamiento de los profesionales de la salud.
-* El desarrollo inicial estará limitado a la funcionalidad marcada para el MVP, pudiendo incorporar funcionalidades adicionales en futuras versiones.
-* El acceso a ciertas funcionalidades podrá depender del tipo de cuenta que el usuario tenga, considerándose una versión gratuita y una versión premium.
+### 5.1.1. Software Development Environment Configuration
 
-### 1.2.2 Lean UX Process
+Requirements Management
 
-#### 1.2.2.1 Lean UX Problem Statements
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de
+   trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario
+   pertenecientes al sprint a desarrollar.  
+   Ruta de referencia: https://trello.com/es
 
-El sobrepeso y la obesidad representan una problemática creciente de salud. Según la Organización Mundial de la Salud (2024), la obesidad en adultos se ha duplicado desde 1990. A ello se suman dificultades para mantener hábitos saludables de forma constante, lo que genera abandono de dietas y rutinas por falta de seguimiento y motivación.
-<br>Aunque existen aplicaciones enfocadas en nutrición y actividad física, pocas consideran las rutinas y necesidades cambiantes del usuario. Esto genera una oportunidad para plantear una solución más personalizada y orientada al acompañamiento continuo.
-<br>¿Cómo podríamos diseñar para que, mediante seguimiento inteligente y recomendaciones adaptativas, las personas cuenten con una herramienta que ayude a mantener sus rutinas saludables y reducir el abandono de sus metas?
+Product UX/UI Design
 
-Muchas personas buscan mejorar su alimentación y estilo de vida, pero cambios de horario, responsabilidades diarias y falta de constancia dificultan mantener estos hábitos en el tiempo. Además, las soluciones actuales suelen ofrecer recomendaciones generales que no siempre se ajustan a las necesidades y al contexto del usuario.
-<br>Esto evidencia la necesidad de una solución que combine monitoreo, personalización e inteligencia adaptativa para apoyar decisiones saludables en el día a día.
-<br>¿Cómo podríamos diseñar VitaControl para acompañar a los usuarios en la construcción y continuidad de hábitos saludables mediante recomendaciones contextuales y apoyo personalizado?
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el
+   caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
 
-#### 1.2.2.2 Lean UX Problem Assumptions
+   Ruta de referencia: https://www.figma.com/login
 
-Después de analizar la problemática del sobrepeso, la obesidad y la dificultad para mantener hábitos saludables, se plantean algunos supuestos que nos permitirán proponer soluciones enfocadas en los usuarios. VitaControl busca ayudar a las personas a mejorar su bienestar físico mediante una aplicación inteligente que brinde seguimiento constante, motivación y recomendaciones personalizadas.
+2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de
+   clases asociado a la aplicación.
 
-**Supuestos sobre los usuarios**
-* Se considera que muchas personas desean mejorar su estado físico, pero no logran mantener disciplina por mucho tiempo.
-* Se asume que los usuarios necesitan una herramienta práctica que los acompañe diariamente.
-* Se cree que jóvenes y adultos usan con frecuencia el celular, por lo que una app sería una opción accesible.
-* Se estima que varias personas abandonan dietas o ejercicios por falta de motivación y seguimiento.
+   Ruta de referencia: https://www.lucidchart.com/
 
-**Supuestos sobre el problema**
-* La falta de tiempo por estudios o trabajo influye en el abandono de hábitos saludables.
-* Muchas personas no saben cómo organizar una rutina adecuada según sus necesidades.
-* Existen aplicaciones similares, pero varias no se adaptan al contexto real del usuario.
-* El progreso lento genera frustración y desmotivación en quienes buscan bajar de peso.
-* La ausencia de control diario dificulta mantener constancia.
+Software Development
 
-**Supuestos sobre la solución VitaControl**
-* Una plataforma que combine alimentación, ejercicio y seguimiento sería más útil que usar varias apps separadas.
-* Las recomendaciones personalizadas pueden generar mejores resultados que consejos generales.
-* Recordatorios y metas cortas pueden mejorar la constancia semanal.
-* Mostrar estadísticas y avances ayudaría a mantener la motivación.
-* El uso de inteligencia artificial permitiría adaptar rutinas según horarios y hábitos del usuario.
+1. WebStorm: Entorno de desarrollo integrado elegido por su soporte completo para tecnologías web como JavaScript, HTML, CSS y frameworks como React y Angular. Ofrece refactorización avanzada, depuración, integración con Git y la posibilidad de agregar plugins. Es compatible con varios sistemas operativos, facilitando la colaboración en equipo.
 
-**Resultados esperados del negocio**
-* Conseguir una comunidad activa de usuarios durante los primeros meses.
-* Posicionar a VitaControl como una opción moderna enfocada en el bienestar físico.
-* Generar ingresos mediante versión premium y alianzas estratégicas.
-* Diferenciarse de otras aplicaciones por el uso de personalización inteligente.
+   Ruta de referencia: https://www.jetbrains.com/webstorm/
+   <br>
 
-**Beneficios esperados para el usuario**
-* Mejor organización de sus hábitos diarios.
-* Mayor motivación para cumplir objetivos personales.
-* Seguimiento claro de su progreso físico.
-* Recomendaciones adaptadas a su estilo de vida.
-* Más control sobre su salud y bienestar.
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
+   empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
 
-#### 1.2.2.3 Lean UX Hypothesis Statements
+   Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp  
+   <br>
 
-**Hipótesis del Negocio**
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano
+   con HTML.
 
-**A. Creemos que, al ofrecer una aplicación accesible y fácil de usar para controlar hábitos saludables, aumentará la cantidad de usuarios activos mensuales, lo cual ayudará al crecimiento del proyecto.**
-<br>Sabemos que esto ocurre cuando al menos 60 % de los usuarios registrados permanecen activos después del primer mes.
+   Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+   <br>
+   <br>
 
-**B. Creemos que, incluir funciones premium como planes personalizados y análisis más detallados incrementará la disposición de pago de los usuarios.**
-<br>Sabemos que esto ocurre cuando al menos 15 % de usuarios activos migre al plan premium durante los primeros meses.
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de
+   usuario dentro de la aplicación.
 
-**C. Creemos que, realizar alianzas con gimnasios y nutricionistas aumentará la confianza en VitaControl y permitirá atraer nuevos usuarios.**
-<br>Sabemos que esto ocurre cuando las alianzas generan un aumento de 20 % en el registro de nuevos usuarios.
+   Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
 
-**Hipótesis del Usuario**
+ <br>
 
-1. Creemos que si el usuario recibe recordatorios constantes, tendrá mayor compromiso con sus metas de salud.
-<br>Sabremos que esto ocurre cuando al menos un 70% de los usuarios complete sus registros semanales.
+5. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
+   accederán a través de la línea de comandos en sus sistemas locales.
 
-2. Creemos que si la aplicación muestra cambios y avances visuales, las personas sentirán mayor motivación para continuar.
-<br>Sabremos que esto ocurre cuando al menos el 60% de los usuarios regresen de forma continua después del primer mes.
+Ruta de referencia: https://git-scm.com/
+<br>
+<br>
+Software Documentation and Project Management 6. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en
+tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
 
-3. Creemos que si las recomendaciones cambian según los hábitos de cada persona, el usuario percibirá mayor utilidad en VitaControl.
-<br>Sabremos que esto ocurre cuando al menos el 80% califique positivamente la experiencia personalizada.
+Ruta de referencia: https://github.com/
 
-4. Creemos que si la app tiene una interfaz clara y rápida, nuevos usuarios podrán utilizarla sin dificultad desde el primer día.
-<br>Sabremos que esto ocurre cuando al menos el 80% de los usuarios completen su registro inicial y primeras acciones sin ayuda externa.
+<br>
 
-#### 1.2.2.4 Lean UX Canvas
+Software Deployment
 
-<img src="assets/images/Lean_UX_Canvas.png">
+1. Github Pages: GitHub Pages es un servicio de alojamiento web que permite a los usuarios crear y publicar sitios web estáticos directamente desde sus repositorios de GitHub. Es especialmente útil para proyectos personales, portafolios, documentación de proyectos o blogs.
 
-## 1.3 Segmentos objetivos
+Ruta de referencia: https://pages.github.com/
 
-**Segmento 1: Personas que quieran reducir su peso**
+### 5.1.2. Source Code Management
 
-Está conformado por personas entre 18 y 50 años que buscan controlar su peso, mejorar su bienestar físico y recibir acompañamiento para mantener hábitos saludables. Este segmento presenta dificultades para sostener dietas o rutinas de ejercicio de forma constante.
+El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
 
-**Segmento 2: Nutricionistas que quieran generar un ingreso extra**
+Repositorio de GitHub:
 
-Está constituido por nutricionistas que desean ampliar sus oportunidades profesionales y obtener ingresos a partir de la atención y seguimiento de sus pacientes a partir de herramientas digitales. Este colectivo presenta dificultades a la hora de gestionar correctamente el seguimiento de varias personas, controlar el seguimiento y llevar a cabo planes de alimentación individuales sin modificar sustancialmente su carga de trabajo. La plataforma les permite gestionar la información de sus pacientes, elaborar planes nutricionales, realizar el seguimiento de la evolución de los mismos y, de esta manera, poder atender a más personas y conseguir ampliar las oportunidades de generación de ingresos.
+- Enlace para acceder a la organización en GitHub: https://github.com/1ASI0730-2620-16129-G2-NutriStartup
+- Enlace para acceder al repositorio de la landing Page: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/LandingPage
+- Enlace para acceder al repositorio del reporte: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Report
 
-# Capítulo II: Requirements Elicitation & Analysis
+Flujo de trabajo GitFlow
 
-## 2.1 Competidores
+El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
-Hay muchas plataformas digitales en el mercado que pretenden mejorar la alimentación, controlar el peso y ayudar a tener unos hábitos más saludables. Estas plataformas tienen funciones como seguimiento de hábitos, planes de alimentación, recomendaciones personalizadas y monitoreo del progreso. Por ello, se darán a conocer y estudiarán los principales competidores de VitaControl. Se analizarán sus características, propuesta de valor y modelo de negocio. Lo que se busca es descubrir puntos de diferencia y elementos que ayuden a diseñar la solución.
+Estructura de branches (Ramas):
 
-**MyFitnessPal:** Es una aplicación móvil que sirve para la nutrición, la salud y la actividad física. Dentro de la aplicación, se puede registrar las comidas diarias para controlar las calorías, se puede registrar los macronutrientes, se puede tener metas personalizadas, entre otras cosas. La aplicación cuenta con una versión gratuita y una versión premium de 19.99 dolares (67.13 soles).
+1. Main branch (Rama principal): Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
+2. Develop branch (Rama de desarrollo): El propósito de esta rama es facilitar los avances del proyecto en equipo y mantener los archivos centrales del desarrollo continuo.
+3. Feature branch(Ramas de funcionalidad): Cada capitulo desarrollado por el equipo, o separada del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/chapter-#".
 
-**Lifesum:** Es una aplicación móvil que permite ayudar a los usuarios a mejorar su alimentación, a perder peso y a llevar un estilo de vida más equilibrado. Esta aplicación ofrece funciones que permiten controlar la ingesta de carbohidratos, tener planes de alimentación personalizados, registros de hidratación y evaluar el progreso del usuario. Esta aplicación es gratuita.
+### 5.1.3. Source Code Style Guide & Conventions
 
-**Noom:** Es una aplicación móvil enfocada en la perdida de peso y el cambio de hábitos. Esta aplicación apuesta por un enfoque psicológico que ayudan a promover un estilo de vida sostenible a largo plazo, mientras que registra lo que consume el usuario, al mismo tiempo que le ofrece lecciones diarias breves. Esta aplicación es gratuita.
+#### HTML
+
+Algunas de las prácticas que deben seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`.
+2. Siempre declarar el tipo de documento en la primera línea del documento, para HTML es `<!DOCTYPE html>`.
+3. Escribir en una línea los comentarios cortos.
+4. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+5. Procurar especificar el texto `alt` y las dimensiones `width` y `height` de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo:
+6. Se nos recomienda no usar el espacio al momento de utilizar los signos porque es más fácil de leerlo de esta forma.
+
+Referencia: [HTML5 Syntax](https://www.w3schools.com/html/html5_syntax.asp)
+
+#### CSS
+
+Entre las prácticas empleadas se menciona:
+
+1. Se nos recomienda tener una sangría por 2 espacios a la vez, no debemos utilizar tabulaciones ni mezclarlas tabulaciones con espacios para la sangría.
+2. Todo el código debe estar en minúscula.
+3. Eliminar los espacios en blanco.
+4. Usar comentarios para explicar el código.
+5. Utilizar nombres de clase significativos o genéricos, nombres que reflejen el propósito de su elemento.
+
+Referencia: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+#### JavaScript
+
+Algunas de las mejores prácticas para programar incluyen:
+
+1. Utilizar nombres de variables claros: Es importante que los nombres reflejen el propósito de la variable.
+2. Ser consistente con las comillas: Elegir entre comillas simples o dobles y mantener esa elección a lo largo del código.
+3. Incluir comentarios explicativos: Usar comentarios para aclarar bloques de código, especialmente en secciones complejas, facilita la comprensión.
+4. Minimizar el uso de variables globales: Limitar el ámbito de las variables para evitar conflictos y mejorar la mantenibilidad del código.
+5. Encapsular lógica en funciones: Mantener el código modular y reutilizable mediante el uso de funciones.
+6. Seguir un estilo de codificación uniforme: Mantener un formato consistente mejora la legibilidad del código.
+
+Referencia: [JavaScript Best Practices](https://www.w3schools.com/js/DEFAULT.asp)
+
+#### Vue.js
+
+Para asegurar que el código en Vue.js sea claro y eficiente, se recomiendan las siguientes prácticas:
+
+1. Estructura de carpetas organizada: Mantener una estructura clara para components, pages, model y services.
+2. Crear componentes reutilizables: Diseñar componentes que puedan ser utilizados en diversas partes de la aplicación.
+3. Separar lógica de negocio de la vista: Utilizar métodos y propiedades computadas para mantener la lógica separada de la presentación.
+4. Emplear Vue Router para la navegación: Usar Vue Router para gestionar eficazmente la navegación entre vistas.
+5. Documentar componentes: Incluir comentarios y documentación sobre props, eventos y métodos dentro de los componentes.
+
+Referencia: [Vue.js Guide](https://vuejs.org/guide/introduction)
+
+
+#### C# (Domain-Driven Design)
+
+Para asegurar que el código en C# siga los principios de Domain-Driven Design (DDD), se recomiendan las siguientes prácticas:
+
+1. Utilizar nombres de dominio significativos: Los nombres de las clases, métodos y variables deben reflejar el lenguaje del dominio.
+2. Mantener la lógica de negocio en el dominio: La lógica de negocio debe residir en el modelo de dominio y no en la infraestructura o en la interfaz de usuario.
+3. Usar agregados para gestionar la consistencia: Los agregados son entidades que se agrupan para garantizar la consistencia de los cambios en el modelo.
+4. Implementar repositorios para el acceso a datos: Los repositorios son responsables de la persistencia y recuperación de los agregados.
+5. Aplicar patrones de diseño adecuados: Utilizar patrones de diseño como CQRS, Event Sourcing y DDD para estructurar el código de manera efectiva.
+   Referencia: [Domain-Driven Design](https://www.domainlanguage.com/ddd/reference/)
+
+### 5.1.4. Software Deployment Configuration
+
+#### Landing Page Deployment
+
+La landing page del proyecto se ha desplegado utilizando GitHub Pages, lo que permite alojar el sitio web de manera gratuita y sencilla directamente desde el repositorio de GitHub:
+
+Ruta de referencia: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/LandingPage
+
+#### Web Application Deployment
+
+la aplicación web del proyecto se ha desplegado utilizando GitHub Pages, lo que permite alojar el sitio web de manera gratuita y sencilla directamente desde el repositorio de GitHub:
+
+Ruta de referencia: 
 
 ### 2.1.1. Análisis competitivo
 
