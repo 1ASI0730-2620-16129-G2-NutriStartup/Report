@@ -737,4 +737,8 @@ En esta sección se explican e ilustran las decisiones sobre los estándares vis
 - **Componentes de interacción:** botones, campos de formulario, tarjetas de contenido y elementos de navegación siguen un estilo consistente en cuanto a bordes redondeados, sombras suaves y estados (hover, active, disabled), coherente con la identidad visual definida en el punto 4.1.1.
 - **Accesibilidad:** se busca un contraste de color que cumpla al menos el nivel AA de WCAG, considerando que parte del segmento de nutricionistas (como Marisol López, con poca experiencia tecnológica) requiere una interfaz clara y fácil de leer.
 
+## 4.2. Information Architecture
+
+En esta sección el equipo plantea las decisiones y el sustento que dirigen la manera cómo se organizará el contenido en las experiencias web de VitaControl, tanto en el Landing Page como en la Web Application. Estas propuestas están orientadas a que los visitantes y usuarios se adapten con facilidad a la funcionalidad del producto y puedan encontrar todo lo que necesiten sin esfuerzo, considerando las diferencias de necesidades entre el segmento de usuarios finales y el segmento de nutricionistas.
+
 </div>
