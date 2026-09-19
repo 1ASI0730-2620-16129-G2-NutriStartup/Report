@@ -771,5 +771,13 @@ Cada etiqueta se mantiene consistente en toda la plataforma (mismo nombre en men
 | Página de registro/planes  | Planes VitaControl \| Elige tu plan nutricional                         | Descubre los planes de VitaControl adaptados a tus objetivos, presupuesto y estilo de vida. | planes nutricionales, dietas personalizadas, precios VitaControl | Equipo VitaControl |
 | Página para nutricionistas | VitaControl para Nutricionistas \| Amplía tu consulta digital           | Centraliza la información de tus pacientes y ofrece consultas virtuales con VitaControl. | plataforma para nutricionistas, consulta nutricional virtual, gestión de pacientes | Equipo VitaControl |
 
+### 4.2.4. Searching Systems
+
+Dado que el catálogo de contenido de VitaControl (recetas, planes, artículos) puede crecer con el tiempo, se incluye un buscador dentro de la Web Application con las siguientes características:
+
+- **Alcance:** búsqueda dentro de recetas/planes de alimentación y, en la vista de nutricionista, búsqueda de pacientes por nombre.
+- **Filtros disponibles:** por tipo de dieta (baja en calorías, vegetariana, etc.), tiempo de preparación y nivel calórico, para el segmento de usuarios finales; por estado del paciente (activo/inactivo) y última fecha de seguimiento, para el segmento de nutricionistas.
+- **Presentación de resultados:** los resultados se muestran en formato de tarjetas (cards) con imagen, nombre y datos clave (calorías, tiempo), permitiendo comparar opciones rápidamente sin necesidad de abrir cada elemento.
+- **Estado vacío:** cuando una búsqueda no arroja resultados, se sugieren alternativas relacionadas en lugar de dejar la pantalla en blanco, evitando que el usuario se sienta perdido.
 
 </div>
