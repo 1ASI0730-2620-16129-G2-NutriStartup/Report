@@ -571,25 +571,6 @@ Reyna es una persona que busca reducir y controlar su peso principalmente para s
 - **Resistencia/temor tecnológico:** Marisol tiene poca experiencia con nuevas tecnologías y teme que una herramienta digital termine promoviendo el sedentarismo de sus pacientes al reducir las citas presenciales.
 - **Funcionalidades deseadas:** en conjunto, el segmento apunta a una herramienta que centralice la información clínica y facilite la elaboración de planes nutricionales, con funciones adicionales como programación de citas, recordatorios, videollamadas y seguimiento gráfico del progreso.
 
-
-
-## 2.3 Needfinfing
-
-### 2.3.1 User Personas
-
-### Segmento 1: Personas que desean reducir su peso
-
-<img src="assets/images/User%20persona%20segmento%201.png">
-
-### Segmento 2: Nutricionistas que desean generar ingresos adicionales
-
-<img src="assets/images/User%20persona%20segmento%202.png">
-
-
-### 2.3.2 User Task Matrix
-
-
-
 ## 2.5 Ubiquitious Language
 
 ### Introducción
@@ -667,19 +648,6 @@ El siguiente glosario define los términos clave del dominio de bienestar y cuid
 **Personalized Experience (Experiencia Personalizada):** Experiencia que recibe cada usuario a partir de recomendaciones y funcionalidades adaptadas a sus características y necesidades.
 
 **Healthy Habit Maintenance (Mantenimiento de Hábitos Saludables):** Proceso mediante el cual el usuario mantiene sus hábitos saludables de forma constante a lo largo del tiempo.
-
-
-### 2.2.3. Analisis de entrevistas
-## 2.3. Needfinding
-Para identificar las necesidades reales de nuestros usuarios, complementamos las entrevistas con herramientas de needfinding que nos permiten representar y comprender a profundidad a cada segmento objetivo.
-### 2.3.1. User Personas
-Segmento 1: Personas que desean reducir su peso
-
-<img src="assets/images/waldo_foto.jpg" heigh="500" width="400">
-
-Segmento 2: Nutricionistas que desean generar ingresos adicionales
-
-### 2.3.2. User Task Matrix
 
 
 # Capítulo III: Requirements Specification
