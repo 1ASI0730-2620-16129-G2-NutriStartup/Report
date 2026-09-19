@@ -710,4 +710,8 @@ Esta sección muestra los requisitos funcionales de VitaControl a través de un 
 
 ## 3.3 Product Backlog
 
+## 4.1. Style Guidelines
+
+En esta sección el equipo sienta las bases para contar con un repositorio central y organizado de uso común, que incluye assets, tipografías, paleta de colores y componentes visuales reutilizables. El objetivo es mantener una presentación consistente y enfocada en toda la experiencia digital de VitaControl (NutriApp Integral), tanto en el Landing Page como en la aplicación web.
+
 </div>
