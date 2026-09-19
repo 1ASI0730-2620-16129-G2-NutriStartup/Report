@@ -748,5 +748,19 @@ Para el **Landing Page**, se aplica una organización **jerárquica (visual hier
 Para la **Web Application**, se combina organización **secuencial (step-by-step)** en flujos como el registro de comidas o la creación de un plan nutricional donde el usuario avanza por pasos definidos, con organización **matricial** en vistas como el dashboard de seguimiento, donde el usuario puede acceder a distintas secciones (progreso, plan alimenticio, citas con nutricionista) sin un orden obligatorio.
 
 En cuanto a esquemas de categorización de contenido, se prioriza la organización **según audiencia (grupos de usuarios)**, separando claramente las vistas y funcionalidades destinadas al segmento de usuarios finales de las destinadas a nutricionistas. Dentro del contenido nutricional (por ejemplo, recetas o planes), se aplica adicionalmente una categorización **por tópicos** (tipo de dieta, objetivo, tiempo de preparación).
+### 4.2.2. Labeling Systems
+
+Se busca representar los datos con el mínimo número de palabras posible, evitando confusión para los visitantes y usuarios. Algunas etiquetas propuestas:
+
+| Etiqueta                          | Asociación en la mente del usuario                 |
+|-----------------------------------|----------------------------------------------------|
+| "Mi Plan"                         | Plan nutricional personalizado asignado al usuario |
+| "Progreso"                        | Historial y gráficos de avance (peso, medidas)     |
+| "Nutricionista"                   | Sección de conexión/consulta con un profesional    |
+| "Comidas"                         | Registro diario de alimentación                    |
+| "Pacientes" (vista nutricionista) | Listado y seguimiento de pacientes asignados       |
+| "Agenda" (vista nutricionista)    | Programación de citas y videollamadas              |
+
+Cada etiqueta se mantiene consistente en toda la plataforma (mismo nombre en menú, encabezados y notificaciones), evitando sinónimos que generen confusión (por ejemplo, no alternar entre "Comidas" y "Alimentación").
 
 </div>
