@@ -639,7 +639,86 @@ En esta sección se presenta el Impact Mapping desarrollado para VitaControl, co
 ![Impact Mapping 2](assets/images/IM2.jpeg)
 
 ## 3.3 Product Backlog
+## 4.1. Style Guidelines
 
+En esta sección el equipo sienta las bases para contar con un repositorio central y organizado de uso común, que incluye assets, tipografías, paleta de colores y componentes visuales reutilizables. El objetivo es mantener una presentación consistente y enfocada en toda la experiencia digital de VitaControl (NutriApp Integral), tanto en el Landing Page como en la aplicación web.
+
+### 4.1.1. General Style Guidelines
+
+**Branding:** VitaControl busca transmitir cercanía, motivación y confianza profesional al mismo tiempo, ya que atiende a dos segmentos con necesidades distintas: personas que buscan controlar su peso de forma sostenible, y nutricionistas que requieren una herramienta seria y confiable para su ejercicio profesional. El logo y la identidad visual se apoyan en formas orgánicas y redondeadas que evocan bienestar y salud, evitando un estilo clínico o frío que aleje al segmento de usuarios finales.
+
+**Typography:** Se propone una tipografía sans-serif (por ejemplo, Poppins o Inter) para títulos y textos de interfaz, priorizando legibilidad en pantallas móviles y una sensación moderna y accesible. Se recomienda un máximo de dos familias tipográficas: una para títulos/encabezados (con mayor peso, semibold/bold) y otra para texto de cuerpo (regular), evitando sobrecargar la jerarquía visual.
+
+**Colors:** La paleta principal se basa en tonos verdes (asociados a salud, bienestar y nutrición) como color primario, complementados con un color secundario cálido (naranja o amarillo suave) para llamadas a la acción y elementos de motivación/progreso. Se define además una escala de grises neutros para textos y fondos, y un color de alerta/error (rojo) reservado para validaciones y mensajes críticos.
+
+**Spacing:** Se adopta un sistema de espaciado basado en múltiplos de 8px (8, 16, 24, 32...) para mantener consistencia entre componentes, tanto en el Landing Page como en la Web Application, facilitando además el diseño responsive.
+
+**Tono de comunicación:** VitaControl adopta un tono predominantemente **Entusiasta pero Sereno**, y **Casual pero Respetuoso**, buscando un punto intermedio entre ambos segmentos objetivo: cercano y motivador para el usuario final que busca bajar de peso, sin perder la seriedad y profesionalismo que espera el segmento de nutricionistas. Se evita el humor irreverente o un tono excesivamente formal/corporativo.
+
+Como referencia de Design System se toma como base [Material Design 3 / el sistema de diseño que decidan usar], sobre el cual se realizan adaptaciones de color y tipografía acordes a la identidad de marca descrita.
+
+### 4.1.2. Web Style Guidelines
+
+En esta sección se explican e ilustran las decisiones sobre los estándares visuales y de interacción para las interfaces web responsivas de VitaControl.
+
+- **Grid system:** se define una grilla de 12 columnas para desktop, que colapsa a 4 columnas en dispositivos móviles, garantizando consistencia en el alineamiento de los elementos.
+- **Breakpoints:** se establecen los puntos de quiebre estándar (móvil: hasta 480px, tablet: 481px–1024px, desktop: desde 1025px) para adaptar la disposición de contenido.
+- **Componentes de interacción:** botones, campos de formulario, tarjetas de contenido y elementos de navegación siguen un estilo consistente en cuanto a bordes redondeados, sombras suaves y estados (hover, active, disabled), coherente con la identidad visual definida en el punto 4.1.1.
+- **Accesibilidad:** se busca un contraste de color que cumpla al menos el nivel AA de WCAG, considerando que parte del segmento de nutricionistas (como Marisol López, con poca experiencia tecnológica) requiere una interfaz clara y fácil de leer.
+
+## 4.2. Information Architecture
+
+En esta sección el equipo plantea las decisiones y el sustento que dirigen la manera cómo se organizará el contenido en las experiencias web de VitaControl, tanto en el Landing Page como en la Web Application. Estas propuestas están orientadas a que los visitantes y usuarios se adapten con facilidad a la funcionalidad del producto y puedan encontrar todo lo que necesiten sin esfuerzo, considerando las diferencias de necesidades entre el segmento de usuarios finales y el segmento de nutricionistas.
+
+### 4.2.1. Organization Systems
+
+Para el **Landing Page**, se aplica una organización **jerárquica (visual hierarchy)**, presentando primero la propuesta de valor general, seguida de funcionalidades, testimonios/beneficios y finalmente la llamada a la acción (registro), guiando al visitante de lo general a lo específico.
+
+Para la **Web Application**, se combina organización **secuencial (step-by-step)** en flujos como el registro de comidas o la creación de un plan nutricional donde el usuario avanza por pasos definidos, con organización **matricial** en vistas como el dashboard de seguimiento, donde el usuario puede acceder a distintas secciones (progreso, plan alimenticio, citas con nutricionista) sin un orden obligatorio.
+
+En cuanto a esquemas de categorización de contenido, se prioriza la organización **según audiencia (grupos de usuarios)**, separando claramente las vistas y funcionalidades destinadas al segmento de usuarios finales de las destinadas a nutricionistas. Dentro del contenido nutricional (por ejemplo, recetas o planes), se aplica adicionalmente una categorización **por tópicos** (tipo de dieta, objetivo, tiempo de preparación).
+
+### 4.2.2. Labeling Systems
+
+Se busca representar los datos con el mínimo número de palabras posible, evitando confusión para los visitantes y usuarios. Algunas etiquetas propuestas:
+
+| Etiqueta | Asociación en la mente del usuario |
+|---|---|
+| "Mi Plan" | Plan nutricional personalizado asignado al usuario |
+| "Progreso" | Historial y gráficos de avance (peso, medidas) |
+| "Nutricionista" | Sección de conexión/consulta con un profesional |
+| "Comidas" | Registro diario de alimentación |
+| "Pacientes" (vista nutricionista) | Listado y seguimiento de pacientes asignados |
+| "Agenda" (vista nutricionista) | Programación de citas y videollamadas |
+
+Cada etiqueta se mantiene consistente en toda la plataforma (mismo nombre en menú, encabezados y notificaciones), evitando sinónimos que generen confusión (por ejemplo, no alternar entre "Comidas" y "Alimentación").
+
+### 4.2.3. SEO Tags and Meta Tags
+
+| Página | Title | Meta Description | Keywords | Author |
+|---|---|---|---|---|
+| Landing Page (home) | VitaControl \| Controla tu peso con planes nutricionales personalizados | Alcanza tus objetivos de salud con planes de alimentación personalizados por IA y conexión directa con nutricionistas certificados. | control de peso, nutrición personalizada, app de dietas, nutricionista online Perú | Equipo VitaControl |
+| Página de registro/planes | Planes VitaControl \| Elige tu plan nutricional | Descubre los planes de VitaControl adaptados a tus objetivos, presupuesto y estilo de vida. | planes nutricionales, dietas personalizadas, precios VitaControl | Equipo VitaControl |
+| Página para nutricionistas | VitaControl para Nutricionistas \| Amplía tu consulta digital | Centraliza la información de tus pacientes y ofrece consultas virtuales con VitaControl. | plataforma para nutricionistas, consulta nutricional virtual, gestión de pacientes | Equipo VitaControl |
+
+### 4.2.4. Searching Systems
+
+Dado que el catálogo de contenido de VitaControl (recetas, planes, artículos) puede crecer con el tiempo, se incluye un buscador dentro de la Web Application con las siguientes características:
+
+- **Alcance:** búsqueda dentro de recetas/planes de alimentación y, en la vista de nutricionista, búsqueda de pacientes por nombre.
+- **Filtros disponibles:** por tipo de dieta (baja en calorías, vegetariana, etc.), tiempo de preparación y nivel calórico, para el segmento de usuarios finales; por estado del paciente (activo/inactivo) y última fecha de seguimiento, para el segmento de nutricionistas.
+- **Presentación de resultados:** los resultados se muestran en formato de tarjetas (cards) con imagen, nombre y datos clave (calorías, tiempo), permitiendo comparar opciones rápidamente sin necesidad de abrir cada elemento.
+- **Estado vacío:** cuando una búsqueda no arroja resultados, se sugieren alternativas relacionadas en lugar de dejar la pantalla en blanco, evitando que el usuario se sienta perdido.
+
+### 4.2.5. Navigation Systems
+
+Se definen las siguientes técnicas de navegación para guiar a los usuarios a través del Landing Page y la Web Application:
+
+- **Navegación global (Web Application):** un menú lateral (sidebar) persistente con acceso directo a las secciones principales (Mi Plan, Progreso, Comidas, Nutricionista/Pacientes según el rol), permitiendo moverse entre secciones sin perder el contexto.
+- **Navegación por pestañas:** dentro de secciones con múltiples vistas relacionadas (por ejemplo, "Progreso" con pestañas de Peso, Medidas y Alimentación), para evitar sobrecargar el menú principal.
+- **Breadcrumbs:** utilizados en flujos de varios pasos (como la creación de un plan nutricional) para que el usuario sepa en qué paso se encuentra y pueda regresar fácilmente.
+- **Navegación del Landing Page:** un menú superior fijo (sticky header) con anclas hacia las secciones internas de la página (Beneficios, Planes, Testimonios, Contacto) y un botón de llamada a la acción siempre visible ("Empieza gratis").
+- **Navegación diferenciada por rol:** al iniciar sesión, el sistema redirige automáticamente al usuario a la vista correspondiente a su rol (usuario final o nutricionista), evitando que cada segmento tenga que navegar manualmente hasta su sección relevante.
 # NutriApp Integral
 
 ## 4.5. Web Applications Prototyping
