@@ -451,6 +451,44 @@ Reyna es una persona que busca reducir y controlar su peso principalmente para s
 - **Resistencia/temor tecnológico:** Marisol tiene poca experiencia con nuevas tecnologías y teme que una herramienta digital termine promoviendo el sedentarismo de sus pacientes al reducir las citas presenciales.
 - **Funcionalidades deseadas:** en conjunto, el segmento apunta a una herramienta que centralice la información clínica y facilite la elaboración de planes nutricionales, con funciones adicionales como programación de citas, recordatorios, videollamadas y seguimiento gráfico del progreso.
 
+## 2.3 Needfinding
+
+### 2.3.1 User Personas
+
+Persona que quiere reducir su peso
+
+![UserPersona-1](assets/images/UserPersona1.jpeg)
+
+Nutricionista que busca generar ingresos extra
+
+![UserPersona-2](assets/images/UserPersona2.jpeg)
+
+### 2.3.2 User Task Matrix
+
+Este User Task Matrix explica las tareas principales que los User Personas realizan para intentar cumplir sus objetivos, sin evaluar la existencia de nuestra solución. Se han considerado a los arquetipos que representan nuestros dos segmentos objetivos: el User Persona 1 (Personas que quieran reducir su peso) y el User Persona 2 (Nutricionistas que buscan generar ingresos extra).
+
+| Tareas Identificadas                                      | User Persona 1 (Persona buscando bajar de peso) |                 | User Persona 2 (Nutricionista) |                 |
+|:----------------------------------------------------------|:-----------------------------------------------:|:---------------:|:------------------------------:|:---------------:|
+|                                                           |                 **Frecuencia**                  | **Importancia** |         **Frecuencia**         | **Importancia** |
+| Planificar comidas y alimentación diaria/semanal          |                 Frecuentemente                  |      Alta       |            Siempre             |      Alta       |
+| Buscar información, rutinas o dietas en redes sociales    |                 Frecuentemente                  |      Media      |            Rara vez            |      Baja       |
+| Registrar o calcular macronutrientes / calorías           |                     A veces                     |      Alta       |         Frecuentemente         |      Alta       |
+| Realizar rutinas de actividad física                      |                     A veces                     |      Alta       |            Rara vez            |      Baja       |
+| Evaluar progreso físico (medirse, pesarse)                |                 Frecuentemente                  |      Alta       |            Siempre             |      Alta       |
+| Gestionar el historial clínico e información de pacientes |                    Rara vez                     |      Baja       |            Siempre             |      Alta       |
+| Realizar seguimiento continuo de hábitos                  |                     A veces                     |      Alta       |         Frecuentemente         |      Alta       |
+| Buscar formas de optimizar el tiempo diario               |                     Siempre                     |      Alta       |            Siempre             |      Alta       |
+
+**Análisis de tareas:**
+Las tareas con mayor frecuencia e importancia para ambos segmentos tratan sobre la planificación de la alimentación y sobre la evaluación del progreso físico. Sin embargo, las perspectivas son distintas, el User Persona 1 realiza estas tareas para su propio bienestar y con una frecuencia inconsistente debido a su falta de tiempo, y el User Persona 2 las realiza como parte de su servicio profesional para sus pacientes.
+La diferencia está que para el nutricionista, organizar historiales y hacer seguimiento es una tarea diaria y de alta importancia que le consume mucho tiempo, mientras que para para una persona común es una tarea casi inexistente. Por otro lado, la búsqueda de motivación y rutinas en redes sociales es frecuente para el segmento 1, pero irrelevante para el segmento 2.
+
+### 2.3.3 User Journey Mapping
+
+### 2.3.4 Empathy Mapping
+
+## 2.4 Big Picture EventStorming
+
 ## 2.5 Ubiquitious Language
 
 ### Introducción
