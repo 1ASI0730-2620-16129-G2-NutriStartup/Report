@@ -515,6 +515,14 @@ En esta sección se elaboran los User Journey Maps en As-Is, imitando la experie
 
 ### 2.3.4 Empathy Mapping
 
+## Usuario
+
+![Empathy Map Usuario](assets/images/empathy-map-seg1.png)
+
+## Nutricionista
+
+![Empathy Map Nutricionista](assets/images/empathy-map-seg2.png)
+
 ## 2.4 Big Picture EventStorming
 
 ## 2.5 Ubiquitious Language
