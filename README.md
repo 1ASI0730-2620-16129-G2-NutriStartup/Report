@@ -797,6 +797,42 @@ Se presentan los Mock-ups del Landing Page de NutriApp, en su versión de escrit
 ![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-1.png)
 ![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-2.png)
 
+## 4.4. Web Applications UX/UI Design
+
+El diseño de la Web Application está enfocado en la usabilidad diaria, la retención y el cumplimiento de tareas específicas para nuestros dos segmentos objetivo. 
+
+### 4.4.1. Web Applications Wireframes
+
+Se evidencia la aplicación de principios de diseño inclusivo y una arquitectura de la información pensada en la comodidad de cada tipo de usuario.
+
+**Wireframes para el Segmento 1:**
+Dado que el usuario común registrará sus comidas, verificará sus rutinas diarias y monitoreará su peso desde su celular en diversos momentos del día, la experiencia para este segmento se ha diseñado bajo un enfoque móvil.
+*   Dashboard Diario: Un panel principal que muestra el resumen del día. Incluye contenedores para gráficos y un listado de las comidas sugeridas.
+*   Vista de Progreso: Se muestra un gráfico de líneas para mostrar la tendencia de pérdida de peso en el tiempo, una funcionalidad clave descubierta en las entrevistas para evitar que el usuario abandone el proceso.
+
+**Wireframes para el Segmento 2:**
+Los nutricionistas utilizarán la plataforma como una herramienta de trabajo, por lo que su interfaz prioriza Desktop para procesar mayor cantidad de información.
+*   Dashboard Profesional: Incluye un menú lateral izquierdo y un área central con una tabla de datos donde figuran todos los pacientes activos.
+*   Detalle del Paciente: Un esquema estructurado en pestañas que le permite al nutricionista revisar el historial de la persona, editar su plan de alimentación y revisar las estadísticas que calcula la aplicación.
+
+![Web App Wireframes - Usuario Mobile](assets/images/wireframe-webapp-mobile.png)
+![Web App Wireframes - Nutricionista Desktop - Dashboard](assets/images/wireframe-webapp-desktop-dashboard.png)
+![Web App Wireframes - Nutricionista Desktop - Paciente](assets/images/wireframe-webapp-desktop-paciente.png)
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+**Segmento 1:**
+
+![Wireflow Diagram - Segmento 1](assets/images/wireflow-diagram-seg1.png)
+
+**Segmento 2:**
+
+![Wireflow Diagram - Segmento 1](assets/images/wireflow-diagram-seg2.png)
+
+### 4.4.3. Web Applications Mock-ups
+
+![Web App Mockup Mobile](assets/images/mockup-webapp-mobile.png)
+
 ## 4.5. Web Applications Prototyping
 
 ### Introducción y criterios de diseño
