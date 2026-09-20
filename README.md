@@ -237,14 +237,6 @@ Actualmente, existen aplicaciones orientadas al control del peso y hábitos salu
 * Se ofrecerá una versión premium con elementos complementarios, como funcionalidades ampliadas de personalización.
 * Se podrá monetizarse por medio de alianzas con nutricionistas, gimnasios o servicios de bienestar integrados a la plataforma.
 
-
-## 5.2. Product Implementation & Deployment
-
-### 5.2.1. Sprint Backlogs
-
-#### Sprint 1
-
-##### Sprint Planning
 ### 2.1.1. Análisis competitivo
 
 En esta sección se describirán a nuestros competidores principales (MyFitnessPal, Lifesum y Noom) comparando la propuesta de nuestro startup VitaControl. El objetivo es identificar fortalezas y debilidades para establecer nuestra ventaja competitiva en el mercado.
@@ -1280,6 +1272,14 @@ Ruta de referencia: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Landi
 la aplicación web del proyecto se ha desplegado utilizando GitHub Pages, lo que permite alojar el sitio web de manera gratuita y sencilla directamente desde el repositorio de GitHub:
 
 Ruta de referencia:
+
+## 5.2. Product Implementation & Deployment
+
+### 5.2.1. Sprint Backlogs
+
+#### Sprint 1
+
+##### Sprint Planning
 
 
 </div>
