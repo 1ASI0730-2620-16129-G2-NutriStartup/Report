@@ -72,6 +72,7 @@
 | 8.0     | 17/09/2026  | Waldo Alonso Portal Inga                  | Se anadió la entrevista 2 del segmento 2.                                                                                                   |
 | 9.0     | 17/09/2026  | Alejandro Franklin Mendoza Vergara        | Se anadió la entrevista 3 del segmento 2 y la sección de Ubiquitious Language.                                                              |
 | 10.0    | 18/09/2026  | Poly Gabriel Alcantara Baldeon            | Se anadió la entrevista 2 del segmento 1 y la sección de Análisis de entrevistas.                                                           |
+| 11.0    | 19/09/2026  | Alejandro Franklin Mendoza Vergara        | Se añadió la sección de Software Configuration Management.                                                                                  |
 
 ## Contenido
 
