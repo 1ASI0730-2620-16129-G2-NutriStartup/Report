@@ -787,6 +787,8 @@ Ahora se presentará la propuesta de diseño de interfaz de usuario UI para el L
 
 Se ha decidió un diseño limpio, accesible y centrado en el usuario, garantizando que la estructura visual facilite la lectura de información y se genere confianza con nuestros servicios.
 
+[Enlace del Figma](https://www.figma.com/design/FiooxTSiD1Qo51M1spWB3b/Untitled?node-id=0-1&t=KkhtUXG3jjruWljb-1)
+
 ### 4.3.1. Landing Page Wireframe
 
 Se presentan los wireframes elaborados para el Landing Page para navegadores de escritorio y para dispositivos móviles, asegurando el enfoque en diseño responsivo e inclusivo.
@@ -886,10 +888,6 @@ El prototipo considera los dos segmentos objetivos identificados durante la inve
 
 **Uso responsable de la inteligencia artificial:** Las recomendaciones generadas mediante inteligencia artificial funcionan como una herramienta de apoyo. Estas no reemplazan el diagnóstico, la evaluación ni el criterio profesional del nutricionista.
 
-> **PENDIENTE: Imagen del prototipo general de NutriApp Integral.**  
-> **Motivo:** Primero deben diseñarse y conectar en Figma las pantallas definitivas de ambos roles.  
-> **Imagen requerida:** Vista general de todos los frames del prototipo, incluyendo las pantallas del paciente y del nutricionista.
-
 ### Flujos de interacción cubiertos por el prototipo
 
 El prototipo de **NutriApp Integral** debe representar los siguientes flujos principales:
@@ -898,41 +896,25 @@ El prototipo de **NutriApp Integral** debe representar los siguientes flujos pri
 
 El usuario crea una cuenta, inicia sesión y completa su perfil con información como edad, peso, talla, objetivo, preferencias alimentarias, restricciones, disponibilidad de tiempo y presupuesto. Después de validar los datos, la plataforma crea su perfil nutricional y muestra el panel principal.
 
-> **PENDIENTE: Imagen del flujo de registro y configuración del perfil.**  
-> **Motivo:** Se requieren las pantallas conectadas en Figma para representar correctamente la navegación.  
-> **Imagen requerida:** Creación de cuenta → inicio de sesión → registro de datos personales → selección de objetivo → registro de preferencias → confirmación del perfil → panel principal.
+![Prototyping - Flujo 1](assets/images/flujo1.png)
 
 #### Flujo 2 — Generación y consulta del plan nutricional
 
 El usuario solicita un plan alimenticio de acuerdo con su perfil y objetivo. El sistema procesa la información registrada y propone un plan semanal personalizado. El usuario puede revisar las comidas recomendadas, reemplazar opciones disponibles y solicitar la evaluación de un nutricionista.
 
-> **PENDIENTE: Imagen del flujo de generación del plan nutricional.**  
-> **Motivo:** Todavía debe elaborarse el prototipo visual de las recomendaciones y del plan semanal.  
-> **Imagen requerida:** Panel principal → solicitud de plan → configuración de preferencias → plan generado → detalle de comidas → solicitud de revisión profesional.
-
 #### Flujo 3 — Registro y visualización del progreso
 
 El usuario registra periódicamente su peso, medidas corporales, alimentación y actividad física. La plataforma procesa los datos y presenta gráficos que permiten comparar los resultados con la meta establecida.
 
-> **PENDIENTE: Imagen del flujo de seguimiento del progreso.**  
-> **Motivo:** Se necesitan las pantallas finales de registro de avances y visualización de estadísticas.  
-> **Imagen requerida:** Panel principal → registrar progreso → ingresar peso y medidas → guardar registro → visualizar gráficos e indicadores.
+![Prototyping - Flujo 3](assets/images/wireflow-diagram-seg1.png)
 
 #### Flujo 4 — Reserva y atención de una consulta nutricional
 
 El usuario revisa los perfiles de los nutricionistas disponibles, selecciona uno y consulta sus horarios. Luego reserva una cita y recibe una confirmación. El nutricionista puede revisar la solicitud, acceder a la información autorizada del paciente y realizar el seguimiento correspondiente.
 
-> **PENDIENTE: Imagen del flujo de reserva de consulta.**  
-> **Motivo:** Todavía deben conectarse las pantallas correspondientes al paciente y al nutricionista.  
-> **Imagen requerida:** Lista de nutricionistas → perfil profesional → horarios disponibles → confirmación de reserva → agenda del nutricionista → atención o seguimiento.
-
 #### Flujo 5 — Gestión y seguimiento de pacientes
 
 El nutricionista visualiza a sus pacientes, consulta sus registros, revisa su evolución y crea o modifica sus planes nutricionales. También puede enviar recomendaciones y recordatorios para mejorar la constancia del paciente.
-
-> **PENDIENTE: Imagen del flujo de gestión de pacientes.**  
-> **Motivo:** Se requiere diseñar el panel profesional y sus módulos de seguimiento.  
-> **Imagen requerida:** Panel del nutricionista → lista de pacientes → perfil del paciente → historial de progreso → creación o actualización del plan → envío de recomendación.
 
 ## 4.6. Domain-Driven Software Architecture
 
