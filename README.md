@@ -1,4 +1,4 @@
-v<div style="font-size: 16px; line-height: 1.65;">
+<div style="font-size: 16px; line-height: 1.65;">
 
 <br/>
 <div align="center">
