@@ -667,6 +667,17 @@ En esta sección se explican e ilustran las decisiones sobre los estándares vis
 - **Componentes de interacción:** botones, campos de formulario, tarjetas de contenido y elementos de navegación siguen un estilo consistente en cuanto a bordes redondeados, sombras suaves y estados (hover, active, disabled), coherente con la identidad visual definida en el punto 4.1.1.
 - **Accesibilidad:** se busca un contraste de color que cumpla al menos el nivel AA de WCAG, considerando que parte del segmento de nutricionistas (como Marisol López, con poca experiencia tecnológica) requiere una interfaz clara y fácil de leer.
 
+## 4.2. Information Architecture
+
+En esta sección el equipo plantea las decisiones y el sustento que dirigen la manera cómo se organizará el contenido en las experiencias web de VitaControl, tanto en el Landing Page como en la Web Application. Estas propuestas están orientadas a que los visitantes y usuarios se adapten con facilidad a la funcionalidad del producto y puedan encontrar todo lo que necesiten sin esfuerzo, considerando las diferencias de necesidades entre el segmento de usuarios finales y el segmento de nutricionistas.
+
+### 4.2.1. Organization Systems
+
+Para el **Landing Page**, se aplica una organización **jerárquica (visual hierarchy)**, presentando primero la propuesta de valor general, seguida de funcionalidades, testimonios/beneficios y finalmente la llamada a la acción (registro), guiando al visitante de lo general a lo específico.
+
+Para la **Web Application**, se combina organización **secuencial (step-by-step)** en flujos como el registro de comidas o la creación de un plan nutricional —donde el usuario avanza por pasos definidos—, con organización **matricial** en vistas como el dashboard de seguimiento, donde el usuario puede acceder a distintas secciones (progreso, plan alimenticio, citas con nutricionista) sin un orden obligatorio.
+
+En cuanto a esquemas de categorización de contenido, se prioriza la organización **según audiencia (grupos de usuarios)**, separando claramente las vistas y funcionalidades destinadas al segmento de usuarios finales de las destinadas a nutricionistas. Dentro del contenido nutricional (por ejemplo, recetas o planes), se aplica adicionalmente una categorización **por tópicos** (tipo de dieta, objetivo, tiempo de preparación).
 
 # Capítulo V: Product Implementation
 
