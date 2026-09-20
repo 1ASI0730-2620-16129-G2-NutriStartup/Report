@@ -750,7 +750,52 @@ Se definen las siguientes técnicas de navegación para guiar a los usuarios a t
 - **Navegación del Landing Page:** un menú superior fijo (sticky header) con anclas hacia las secciones internas de la página (Beneficios, Planes, Testimonios, Contacto) y un botón de llamada a la acción siempre visible ("Empieza gratis").
 - **Navegación diferenciada por rol:** al iniciar sesión, el sistema redirige automáticamente al usuario a la vista correspondiente a su rol (usuario final o nutricionista), evitando que cada segmento tenga que navegar manualmente hasta su sección relevante.
 
-# NutriApp Integral
+## 4.3. Landing Page UI Design
+
+Ahora se presentará la propuesta de diseño de interfaz de usuario UI para el Landing Page de NutriApp. Esta propuesta reflejan las decisiones de Information Architecture y Style Guidelines que anteriormente se definieron. Este diseño tiene como objetivo comunicar nuestra propuesta de valor tanto a las personas que buscan reducir su peso como a los nutricionistas, guiándolos hacia los Call to Action para que se registren o interactúen con la plataforma.
+
+Se ha decidió un diseño limpio, accesible y centrado en el usuario, garantizando que la estructura visual facilite la lectura de información y se genere confianza con nuestros servicios.
+
+### 4.3.1. Landing Page Wireframe
+
+Se presentan los wireframes elaborados para el Landing Page para navegadores de escritorio y para dispositivos móviles, asegurando el enfoque en diseño responsivo e inclusivo.
+
+**Wireframe para Desktop:**
+Se presenta la información mediante una jerarquía visual clara.
+*   Header: Permite el acceso rápido a las páginas principales identificadas en la arquitectura: Beneficios, Funciones, Progreso, Nosotros, Contacto. 
+*   Hero Section: Presenta el mensaje principal de VitaControl junto con un botón de llamada a la acción para captar la atención del visitante.
+*   Secciones de Contenido: Se distribuyen en bloques horizontales (como la sección de "Funciones" y "Contacto"), utilizando contenedores amplios para facilitar la lectura.
+*   Footer: Contiene los enlaces a los términos y condiciones, así como la información de contacto.
+
+![Landing Page Wireframe - Desktop](assets/images/wireframe-desktop-home.png)
+
+![Landing Page Wireframe - Desktop](assets/images/wireframe-desktop-funcional.png)
+
+**Wireframe para Mobile:**
+Se ha aplicado el principio de accesibilidad y diseño inclusivo.
+*   Navegación Colapsable: El menú superior se transforma en un icono de hamburguesa.
+*   Distribución Vertical: Las secciones informativas sobre alimentación y rutinas se apilan verticalmente. Los textos se han modificado de tamaño para mantener su legibilidad sin necesidad de hacer zoom.
+*   Botones Táctiles: Los Call to Action tienen un tamaño mínimo adecuado para ser presionados fácilmente, facilitando la conversión de los usuarios desde sus celulares.
+
+![Landing Page Wireframe - Mobile](assets/images/wireframe-mobile-home.png)
+
+![Landing Page Wireframe - Mobile](assets/images/wireframe-mobile-funcional.png)
+
+### 4.3.2. Landing Page Mock-up
+
+Se presentan los Mock-ups del Landing Page de NutriApp, en su versión de escritorio y para dispositivos móviles.
+
+**Aplicación de Principios de Diseño y Arquitectura:**
+*   Identidad Visual y Style Guidelines: Se han reemplazado los bloques grises por imágenes representativas de hábitos saludables y se ha aplicado la paleta de colores de VitaControl.
+*   Arquitectura de la Información: Se mantiene la estructura navegable del Header.
+*   Diseño Inclusivo y Accesibilidad: Se ha garantizado un alto contraste entre los textos y los fondos para facilitar la legibilidad. Asimismo, el botón Call to Action destaca visualmente sobre el resto de elementos y cuenta con un tamaño óptimo para la interacción táctil en la versión móvil.
+*   Adaptabilidad: Las tarjetas de la sección Nuestros Servicios, que en Desktop se muestran en una cuadrícula horizontal, se apilan verticalmente en la vista Mobile, respetando la jerarquía visual.
+
+![Landing Page Mock-up - Desktop](assets/images/mockup-desktop-1.png)
+![Landing Page Mock-up - Desktop](assets/images/mockup-desktop-2.png)
+
+![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-1.png)
+![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-2.png)
 
 ## 4.5. Web Applications Prototyping
 
