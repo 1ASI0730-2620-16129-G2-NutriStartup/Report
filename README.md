@@ -675,9 +675,32 @@ En esta sección el equipo plantea las decisiones y el sustento que dirigen la m
 
 Para el **Landing Page**, se aplica una organización **jerárquica (visual hierarchy)**, presentando primero la propuesta de valor general, seguida de funcionalidades, testimonios/beneficios y finalmente la llamada a la acción (registro), guiando al visitante de lo general a lo específico.
 
-Para la **Web Application**, se combina organización **secuencial (step-by-step)** en flujos como el registro de comidas o la creación de un plan nutricional —donde el usuario avanza por pasos definidos—, con organización **matricial** en vistas como el dashboard de seguimiento, donde el usuario puede acceder a distintas secciones (progreso, plan alimenticio, citas con nutricionista) sin un orden obligatorio.
+Para la **Web Application**, se combina organización **secuencial (step-by-step)** en flujos como el registro de comidas o la creación de un plan nutricional donde el usuario avanza por pasos definidos, con organización **matricial** en vistas como el dashboard de seguimiento, donde el usuario puede acceder a distintas secciones (progreso, plan alimenticio, citas con nutricionista) sin un orden obligatorio.
 
 En cuanto a esquemas de categorización de contenido, se prioriza la organización **según audiencia (grupos de usuarios)**, separando claramente las vistas y funcionalidades destinadas al segmento de usuarios finales de las destinadas a nutricionistas. Dentro del contenido nutricional (por ejemplo, recetas o planes), se aplica adicionalmente una categorización **por tópicos** (tipo de dieta, objetivo, tiempo de preparación).
+
+### 4.2.2. Labeling Systems
+
+Se busca representar los datos con el mínimo número de palabras posible, evitando confusión para los visitantes y usuarios. Algunas etiquetas propuestas:
+
+| Etiqueta | Asociación en la mente del usuario |
+|---|---|
+| "Mi Plan" | Plan nutricional personalizado asignado al usuario |
+| "Progreso" | Historial y gráficos de avance (peso, medidas) |
+| "Nutricionista" | Sección de conexión/consulta con un profesional |
+| "Comidas" | Registro diario de alimentación |
+| "Pacientes" (vista nutricionista) | Listado y seguimiento de pacientes asignados |
+| "Agenda" (vista nutricionista) | Programación de citas y videollamadas |
+
+Cada etiqueta se mantiene consistente en toda la plataforma (mismo nombre en menú, encabezados y notificaciones), evitando sinónimos que generen confusión (por ejemplo, no alternar entre "Comidas" y "Alimentación").
+
+### 4.2.3. SEO Tags and Meta Tags
+
+| Página | Title | Meta Description | Keywords | Author |
+|---|---|---|---|---|
+| Landing Page (home) | VitaControl \| Controla tu peso con planes nutricionales personalizados | Alcanza tus objetivos de salud con planes de alimentación personalizados por IA y conexión directa con nutricionistas certificados. | control de peso, nutrición personalizada, app de dietas, nutricionista online Perú | Equipo VitaControl |
+| Página de registro/planes | Planes VitaControl \| Elige tu plan nutricional | Descubre los planes de VitaControl adaptados a tus objetivos, presupuesto y estilo de vida. | planes nutricionales, dietas personalizadas, precios VitaControl | Equipo VitaControl |
+| Página para nutricionistas | VitaControl para Nutricionistas \| Amplía tu consulta digital | Centraliza la información de tus pacientes y ofrece consultas virtuales con VitaControl. | plataforma para nutricionistas, consulta nutricional virtual, gestión de pacientes | Equipo VitaControl |
 
 # Capítulo V: Product Implementation
 
