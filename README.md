@@ -702,6 +702,24 @@ Cada etiqueta se mantiene consistente en toda la plataforma (mismo nombre en men
 | Página de registro/planes | Planes VitaControl \| Elige tu plan nutricional | Descubre los planes de VitaControl adaptados a tus objetivos, presupuesto y estilo de vida. | planes nutricionales, dietas personalizadas, precios VitaControl | Equipo VitaControl |
 | Página para nutricionistas | VitaControl para Nutricionistas \| Amplía tu consulta digital | Centraliza la información de tus pacientes y ofrece consultas virtuales con VitaControl. | plataforma para nutricionistas, consulta nutricional virtual, gestión de pacientes | Equipo VitaControl |
 
+### 4.2.4. Searching Systems
+
+Dado que el catálogo de contenido de VitaControl (recetas, planes, artículos) puede crecer con el tiempo, se incluye un buscador dentro de la Web Application con las siguientes características:
+
+- **Alcance:** búsqueda dentro de recetas/planes de alimentación y, en la vista de nutricionista, búsqueda de pacientes por nombre.
+- **Filtros disponibles:** por tipo de dieta (baja en calorías, vegetariana, etc.), tiempo de preparación y nivel calórico, para el segmento de usuarios finales; por estado del paciente (activo/inactivo) y última fecha de seguimiento, para el segmento de nutricionistas.
+- **Presentación de resultados:** los resultados se muestran en formato de tarjetas (cards) con imagen, nombre y datos clave (calorías, tiempo), permitiendo comparar opciones rápidamente sin necesidad de abrir cada elemento.
+- **Estado vacío:** cuando una búsqueda no arroja resultados, se sugieren alternativas relacionadas en lugar de dejar la pantalla en blanco, evitando que el usuario se sienta perdido.
+
+### 4.2.5. Navigation Systems
+
+Se definen las siguientes técnicas de navegación para guiar a los usuarios a través del Landing Page y la Web Application:
+
+- **Navegación global (Web Application):** un menú lateral (sidebar) persistente con acceso directo a las secciones principales (Mi Plan, Progreso, Comidas, Nutricionista/Pacientes según el rol), permitiendo moverse entre secciones sin perder el contexto.
+- **Navegación por pestañas:** dentro de secciones con múltiples vistas relacionadas (por ejemplo, "Progreso" con pestañas de Peso, Medidas y Alimentación), para evitar sobrecargar el menú principal.
+- **Breadcrumbs:** utilizados en flujos de varios pasos (como la creación de un plan nutricional) para que el usuario sepa en qué paso se encuentra y pueda regresar fácilmente.
+- **Navegación del Landing Page:** un menú superior fijo (sticky header) con anclas hacia las secciones internas de la página (Beneficios, Planes, Testimonios, Contacto) y un botón de llamada a la acción siempre visible ("Empieza gratis").
+- **Navegación diferenciada por rol:** al iniciar sesión, el sistema redirige automáticamente al usuario a la vista correspondiente a su rol (usuario final o nutricionista), evitando que cada segmento tenga que navegar manualmente hasta su sección relevante.
 # Capítulo V: Product Implementation
 
 ## 5.1. Software Configuration Management
