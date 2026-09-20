@@ -640,6 +640,24 @@ En esta sección se presenta el Impact Mapping desarrollado para VitaControl, co
 
 ## 3.3 Product Backlog
 
+## 4.1. Style Guidelines
+
+En esta sección el equipo sienta las bases para contar con un repositorio central y organizado de uso común, que incluye assets, tipografías, paleta de colores y componentes visuales reutilizables. El objetivo es mantener una presentación consistente y enfocada en toda la experiencia digital de VitaControl (NutriApp Integral), tanto en el Landing Page como en la aplicación web.
+
+### 4.1.1. General Style Guidelines
+
+**Branding:** VitaControl busca transmitir cercanía, motivación y confianza profesional al mismo tiempo, ya que atiende a dos segmentos con necesidades distintas: personas que buscan controlar su peso de forma sostenible, y nutricionistas que requieren una herramienta seria y confiable para su ejercicio profesional. El logo y la identidad visual se apoyan en formas orgánicas y redondeadas que evocan bienestar y salud, evitando un estilo clínico o frío que aleje al segmento de usuarios finales.
+
+**Typography:** Se propone una tipografía sans-serif (por ejemplo, Poppins o Inter) para títulos y textos de interfaz, priorizando legibilidad en pantallas móviles y una sensación moderna y accesible. Se recomienda un máximo de dos familias tipográficas: una para títulos/encabezados (con mayor peso, semibold/bold) y otra para texto de cuerpo (regular), evitando sobrecargar la jerarquía visual.
+
+**Colors:** La paleta principal se basa en tonos verdes (asociados a salud, bienestar y nutrición) como color primario, complementados con un color secundario cálido (naranja o amarillo suave) para llamadas a la acción y elementos de motivación/progreso. Se define además una escala de grises neutros para textos y fondos, y un color de alerta/error (rojo) reservado para validaciones y mensajes críticos.
+
+**Spacing:** Se adopta un sistema de espaciado basado en múltiplos de 8px (8, 16, 24, 32...) para mantener consistencia entre componentes, tanto en el Landing Page como en la Web Application, facilitando además el diseño responsive.
+
+**Tono de comunicación:** VitaControl adopta un tono predominantemente **Entusiasta pero Sereno**, y **Casual pero Respetuoso**, buscando un punto intermedio entre ambos segmentos objetivo: cercano y motivador para el usuario final que busca bajar de peso, sin perder la seriedad y profesionalismo que espera el segmento de nutricionistas. Se evita el humor irreverente o un tono excesivamente formal/corporativo.
+
+Como referencia de Design System se toma como base [Material Design 3 / el sistema de diseño que decidan usar], sobre el cual se realizan adaptaciones de color y tipografía acordes a la identidad de marca descrita.
+
 # Capítulo V: Product Implementation
 
 ## 5.1. Software Configuration Management
