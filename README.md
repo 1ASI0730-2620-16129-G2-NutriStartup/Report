@@ -1216,6 +1216,14 @@ El Design-Level EventStorming de **NutriApp Integral** permite representar los c
 - **4.6.3. Software Architecture Container Diagrams**
 - **4.6.4. Software Architecture Components Diagrams**
 
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagrams
+
 # Capítulo V: Product Implementation
 
 ## 5.1. Software Configuration Management
@@ -1395,5 +1403,18 @@ Ruta de referencia:
 
 ##### Sprint Planning
 
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployement Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el sprint 1, el equipo desarrollo la 1ra versión de la Landing Page mediante la plataforma de GitHub, aplicando el flujo de trabajo GitFlow junto con Conventional Commits y Semantic Versioning para mantener trazabilidad y orden en el desarrollo.
+
+Organización GitHub del equipo: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/LandingPage.git
+
+![Contributors 1](assets/images/contributors1.png)
 
 </div>
