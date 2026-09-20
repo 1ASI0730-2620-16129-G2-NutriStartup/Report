@@ -640,6 +640,42 @@ En esta sección se presenta el Impact Mapping desarrollado para VitaControl, co
 ![Impact Mapping 2](assets/images/IM2.jpeg)
 
 ## 3.3 Product Backlog
+
+| # Orden | User Story ID | Título                                               | Descripción                                                                                                                                                    | Story Points |
+|---------|---------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1       | US-06         | Registro de usuario                                  | Como visitante, quiero crear una cuenta proporcionando mi información personal para utilizar VitaControl de manera personalizada.                              | 3            |
+| 2       | US-07         | Inicio de sesión                                     | Como usuario, quiero iniciar sesión para acceder a la información asociada con mi cuenta.                                                                      | 2            |
+| 3       | US-08         | Gestión del perfil personal                          | Como usuario, quiero registrar y actualizar mis características y preferencias para recibir recomendaciones adaptadas a mis necesidades.                       | 5            |
+| 4       | US-10         | Definición de objetivos                              | Como usuario, quiero establecer objetivos de alimentación y actividad física para orientar mi progreso.                                                        | 3            |
+| 5       | US-09         | Registro de hábitos                                  | Como usuario, quiero registrar mis hábitos de alimentación y actividad física para realizar un seguimiento de mi comportamiento.                               | 5            |
+| 6       | US-13         | Registro de alimentación                             | Como usuario, quiero registrar los alimentos que consumo para realizar un seguimiento de mi alimentación.                                                      | 3            |
+| 7       | US-14         | Registro de actividad física                         | Como usuario, quiero registrar mis actividades físicas para realizar un seguimiento de mis hábitos.                                                            | 3            |
+| 8       | US-11         | Consulta del progreso                                | Como usuario, quiero consultar mi progreso para conocer cómo evolucionan mis hábitos y objetivos.                                                              | 5            |
+| 9       | US-15         | Recomendaciones de alimentación                      | Como usuario, quiero recibir recomendaciones alimenticias personalizadas para adaptar mi alimentación a mis objetivos y características.                       | 5            |
+| 10      | US-16         | Recomendaciones de ejercicio                         | Como usuario, quiero recibir recomendaciones de actividad física personalizadas para realizar actividades acordes con mis objetivos y características.         | 5            |
+| 11      | US-17         | Generación de recomendaciones mediante IA            | Como usuario, quiero recibir recomendaciones generadas mediante inteligencia artificial para obtener sugerencias adaptadas a mis características y objetivos.  | 8            |
+| 12      | US-18         | Adaptación de recomendaciones                        | Como usuario, quiero que las recomendaciones se adapten a los cambios de mi información y preferencias para recibir sugerencias cada vez más personalizadas.   | 8            |
+| 13      | US-12         | Recordatorios de hábitos                             | Como usuario, quiero recibir recordatorios relacionados con mis objetivos para mantener la constancia de mis hábitos saludables.                               | 3            |
+| 14      | US-24         | Acceso al plan gratuito                              | Como usuario, quiero acceder a las funcionalidades disponibles en el plan gratuito para utilizar VitaControl sin contratar una suscripción.                    | 2            |
+| 15      | US-25         | Suscripción premium                                  | Como usuario, quiero suscribirme al plan premium para acceder a funcionalidades adicionales de personalización y seguimiento.                                  | 5            |
+| 16      | US-01         | Información general de VitaControl                   | Como visitante, quiero conocer información general de VitaControl para comprender el propósito y beneficio de la plataforma.                                   | 2            |
+| 17      | US-02         | Presentación de funcionalidades                      | Como visitante, quiero conocer las funcionalidades de VitaControl para identificar cómo puede ayudarme a mejorar mis hábitos saludables.                       | 2            |
+| 18      | US-03         | Información para personas que desean reducir su peso | Como visitante interesado en reducir mi peso, quiero conocer cómo VitaControl puede ayudarme para evaluar si la plataforma responde a mis necesidades.         | 2            |
+| 19      | US-04         | Información para nutricistas                         | Como nutricista, quiero conocer las funcionalidades dirigidas a profesionales para evaluar cómo VitaControl puede apoyar mi trabajo.                           | 2            |
+| 20      | US-05         | Acceso a la plataforma                               | Como visitante, quiero acceder a la plataforma desde la página principal para utilizar sus funcionalidades.                                                    | 2            |
+| 21      | US-19         | Registro de pacientes                                | Como nutricista, quiero registrar pacientes para gestionar su información nutricional dentro de la plataforma.                                                 | 5            |
+| 22      | US-20         | Consulta de información nutricional                  | Como nutricista, quiero consultar la información nutricional de mis pacientes para realizar un seguimiento adecuado.                                           | 5            |
+| 23      | US-21         | Elaboración de plan nutricional                      | Como nutricista, quiero elaborar planes nutricionales para proporcionar recomendaciones acordes con las necesidades de mis pacientes.                          | 8            |
+| 24      | US-22         | Seguimiento del paciente                             | Como nutricista, quiero realizar seguimiento de mis pacientes para conocer su evolución y ajustar sus planes nutricionales.                                    | 8            |
+| 25      | US-23         | Consultas digitales                                  | Como nutricista, quiero realizar consultas mediante la plataforma para atender a mis pacientes de manera digital.                                              | 8            |
+| 19      | US-04         | Información para nutricionistas                      | Como nutricionista, quiero conocer las funcionalidades dirigidas a profesionales para evaluar cómo VitaControl puede apoyar mi trabajo.                        | 2            |
+| 21      | US-19         | Registro de pacientes                                | Como nutricionista, quiero registrar pacientes para gestionar su información nutricional dentro de la plataforma.                                              | 5            |
+| 22      | US-20         | Consulta de información nutricional                  | Como nutricionista, quiero consultar la información nutricional de mis pacientes para realizar un seguimiento adecuado.                                        | 5            |
+| 23      | US-21         | Elaboración de plan nutricional                      | Como nutricionista, quiero elaborar planes nutricionales para proporcionar recomendaciones acordes con las necesidades de mis pacientes.                       | 8            |
+| 24      | US-22         | Seguimiento del paciente                             | Como nutricionista, quiero realizar seguimiento de mis pacientes para conocer su evolución y ajustar sus planes nutricionales.                                 | 8            |
+| 25      | US-23         | Consultas digitales                                  | Como nutricionista, quiero realizar consultas mediante la plataforma para atender a mis pacientes de manera digital.                                           | 8            |
+
+
 ## 4.1. Style Guidelines
 
 En esta sección el equipo sienta las bases para contar con un repositorio central y organizado de uso común, que incluye assets, tipografías, paleta de colores y componentes visuales reutilizables. El objetivo es mantener una presentación consistente y enfocada en toda la experiencia digital de VitaControl (NutriApp Integral), tanto en el Landing Page como en la aplicación web.
@@ -1073,48 +1109,6 @@ El Design-Level EventStorming de **NutriApp Integral** permite representar los c
 - **4.6.2. Software Architecture Context Diagram**
 - **4.6.3. Software Architecture Container Diagrams**
 - **4.6.4. Software Architecture Components Diagrams**
-
-
-
-
-
-
-
-## Product Backlog
-
-| # Orden | User Story ID | Título                                               | Descripción                                                                                                                                                    | Story Points |
-|---------|---------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| 1       | US-06         | Registro de usuario                                  | Como visitante, quiero crear una cuenta proporcionando mi información personal para utilizar VitaControl de manera personalizada.                              | 3            |
-| 2       | US-07         | Inicio de sesión                                     | Como usuario, quiero iniciar sesión para acceder a la información asociada con mi cuenta.                                                                      | 2            |
-| 3       | US-08         | Gestión del perfil personal                          | Como usuario, quiero registrar y actualizar mis características y preferencias para recibir recomendaciones adaptadas a mis necesidades.                       | 5            |
-| 4       | US-10         | Definición de objetivos                              | Como usuario, quiero establecer objetivos de alimentación y actividad física para orientar mi progreso.                                                        | 3            |
-| 5       | US-09         | Registro de hábitos                                  | Como usuario, quiero registrar mis hábitos de alimentación y actividad física para realizar un seguimiento de mi comportamiento.                               | 5            |
-| 6       | US-13         | Registro de alimentación                             | Como usuario, quiero registrar los alimentos que consumo para realizar un seguimiento de mi alimentación.                                                      | 3            |
-| 7       | US-14         | Registro de actividad física                         | Como usuario, quiero registrar mis actividades físicas para realizar un seguimiento de mis hábitos.                                                            | 3            |
-| 8       | US-11         | Consulta del progreso                                | Como usuario, quiero consultar mi progreso para conocer cómo evolucionan mis hábitos y objetivos.                                                              | 5            |
-| 9       | US-15         | Recomendaciones de alimentación                      | Como usuario, quiero recibir recomendaciones alimenticias personalizadas para adaptar mi alimentación a mis objetivos y características.                       | 5            |
-| 10      | US-16         | Recomendaciones de ejercicio                         | Como usuario, quiero recibir recomendaciones de actividad física personalizadas para realizar actividades acordes con mis objetivos y características.         | 5            |
-| 11      | US-17         | Generación de recomendaciones mediante IA            | Como usuario, quiero recibir recomendaciones generadas mediante inteligencia artificial para obtener sugerencias adaptadas a mis características y objetivos.  | 8            |
-| 12      | US-18         | Adaptación de recomendaciones                        | Como usuario, quiero que las recomendaciones se adapten a los cambios de mi información y preferencias para recibir sugerencias cada vez más personalizadas.   | 8            |
-| 13      | US-12         | Recordatorios de hábitos                             | Como usuario, quiero recibir recordatorios relacionados con mis objetivos para mantener la constancia de mis hábitos saludables.                               | 3            |
-| 14      | US-24         | Acceso al plan gratuito                              | Como usuario, quiero acceder a las funcionalidades disponibles en el plan gratuito para utilizar VitaControl sin contratar una suscripción.                    | 2            |
-| 15      | US-25         | Suscripción premium                                  | Como usuario, quiero suscribirme al plan premium para acceder a funcionalidades adicionales de personalización y seguimiento.                                  | 5            |
-| 16      | US-01         | Información general de VitaControl                   | Como visitante, quiero conocer información general de VitaControl para comprender el propósito y beneficio de la plataforma.                                   | 2            |
-| 17      | US-02         | Presentación de funcionalidades                      | Como visitante, quiero conocer las funcionalidades de VitaControl para identificar cómo puede ayudarme a mejorar mis hábitos saludables.                       | 2            |
-| 18      | US-03         | Información para personas que desean reducir su peso | Como visitante interesado en reducir mi peso, quiero conocer cómo VitaControl puede ayudarme para evaluar si la plataforma responde a mis necesidades.         | 2            |
-| 19      | US-04         | Información para nutricistas                         | Como nutricista, quiero conocer las funcionalidades dirigidas a profesionales para evaluar cómo VitaControl puede apoyar mi trabajo.                           | 2            |
-| 20      | US-05         | Acceso a la plataforma                               | Como visitante, quiero acceder a la plataforma desde la página principal para utilizar sus funcionalidades.                                                    | 2            |
-| 21      | US-19         | Registro de pacientes                                | Como nutricista, quiero registrar pacientes para gestionar su información nutricional dentro de la plataforma.                                                 | 5            |
-| 22      | US-20         | Consulta de información nutricional                  | Como nutricista, quiero consultar la información nutricional de mis pacientes para realizar un seguimiento adecuado.                                           | 5            |
-| 23      | US-21         | Elaboración de plan nutricional                      | Como nutricista, quiero elaborar planes nutricionales para proporcionar recomendaciones acordes con las necesidades de mis pacientes.                          | 8            |
-| 24      | US-22         | Seguimiento del paciente                             | Como nutricista, quiero realizar seguimiento de mis pacientes para conocer su evolución y ajustar sus planes nutricionales.                                    | 8            |
-| 25      | US-23         | Consultas digitales                                  | Como nutricista, quiero realizar consultas mediante la plataforma para atender a mis pacientes de manera digital.                                              | 8            |
-| 19      | US-04         | Información para nutricionistas                      | Como nutricionista, quiero conocer las funcionalidades dirigidas a profesionales para evaluar cómo VitaControl puede apoyar mi trabajo.                        | 2            |
-| 21      | US-19         | Registro de pacientes                                | Como nutricionista, quiero registrar pacientes para gestionar su información nutricional dentro de la plataforma.                                              | 5            |
-| 22      | US-20         | Consulta de información nutricional                  | Como nutricionista, quiero consultar la información nutricional de mis pacientes para realizar un seguimiento adecuado.                                        | 5            |
-| 23      | US-21         | Elaboración de plan nutricional                      | Como nutricionista, quiero elaborar planes nutricionales para proporcionar recomendaciones acordes con las necesidades de mis pacientes.                       | 8            |
-| 24      | US-22         | Seguimiento del paciente                             | Como nutricionista, quiero realizar seguimiento de mis pacientes para conocer su evolución y ajustar sus planes nutricionales.                                 | 8            |
-| 25      | US-23         | Consultas digitales                                  | Como nutricionista, quiero realizar consultas mediante la plataforma para atender a mis pacientes de manera digital.                                           | 8            |
 
 # Capítulo V: Product Implementation
 
