@@ -64,18 +64,19 @@
 |---------|-------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.0     | 07/09/2026  | Waldo Alonso Portal Inga                  | Se añadió la descripción de la Startup, la sección perfiles de integrantes, el solution profile y los segmentos objetivo.                   |
 | 2.0     | 11/09/2026  | Gabriel Alejandro Vilchez Vite            | Se actualizó la sección de los perfiles de los integrantes y se añadió los objetivos y restricciones que delimitan el alcance del proyecto. |
-| 3.0     | 12/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de competidores competidores.                                                                                          |
+| 3.0     | 12/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de competidores.                                                                                                       |
 | 4.0     | 13/09/2026  | Waldo Alonso Portal Inga                  | Se añadió la sección de entrevistas, especificamente el diseño de las entrevistas.                                                          |
 | 5.0     | 15/09/2026  | Poly Gabriel Alcantara Baldeon            | Se anadió la sección de estrategias y tácticas frente a competidores.                                                                       |
 | 6.0     | 15/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de registro de entrevistas.                                                                                            |
 | 7.0     | 16/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se anadió la entrevista 1 del segmento 1.                                                                                                   |
 | 8.0     | 17/09/2026  | Waldo Alonso Portal Inga                  | Se anadió la entrevista 2 del segmento 2.                                                                                                   |
 | 9.0     | 17/09/2026  | Alejandro Franklin Mendoza Vergara        | Se anadió la entrevista 3 del segmento 2 y la sección de Ubiquitious Language.                                                              |
-| 10.0    | 18/09/2026  | Poly Gabriel Alcantara Baldeon            | Se anadió la entrevista 2 del segmento 1 y la sección de Análisis de entrevistas.                                                           |
-| 11.0    | 19/09/2026  | Alejandro Franklin Mendoza Vergara        | Se añadió la sección de Software Configuration Management.                                                                                  |
-| 12.0    | 19/09/2026  | Waldo Alonso Portal Inga                  | Se añadió los User Persona.                                                                                                                 |
-| 13.0    | 19/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se añadió la sección de User Task Matrix, al mismo tiempo que añadio los User Persona al repositorio.                                       |
-| 14.0    | 20/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió el Impact Mapping y el Product Backlog.                                                                                           |
+| 10.0    | 17/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadieron los User Stories.                                                                                                              |
+| 11.0    | 18/09/2026  | Poly Gabriel Alcantara Baldeon            | Se anadió la entrevista 2 del segmento 1 y la sección de Análisis de entrevistas.                                                           |
+| 12.0    | 19/09/2026  | Alejandro Franklin Mendoza Vergara        | Se añadió la sección de Software Configuration Management.                                                                                  |
+| 13.0    | 19/09/2026  | Waldo Alonso Portal Inga                  | Se añadió los User Persona.                                                                                                                 |
+| 14.0    | 19/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se añadió la sección de User Task Matrix, al mismo tiempo que añadio los User Persona al repositorio.                                       |
+| 15.0    | 20/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió el Impact Mapping y el Product Backlog.                                                                                           |
 
 ## Contenido
 
@@ -163,10 +164,10 @@
 
 ## Student Outcome
 
-| Criterio Específico                                                                                      | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
-|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| **5.c1.** Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara:Para este Av1 realice gran parte del capitulo 5, entrevistas y parte del capitulo 2. Gran parte de mi trabajo se vió respaldado por el equipo y a diversas ayudas que se brindó, además del liderazgo del team leader. <br/>- Giordano Sebastian Del Ángel Trejo Espejo                                                                            | **AV1**<br>  |
-| **5.c2.** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara:Para este Av1 realice gran parte del capitulo 5, entrevistas y parte del capitulo 2. Todo se logró gracias a las metas establecidas por el equipo para cada parte del trabajo, dónde nos ayudamos mutuamente y logré desarrollar nuevas habilidades relacionadas a las partes dirigidas hacia mi. <br/>- Giordano Sebastian Del Ángel Trejo Espejo | **AV1**<br>  |
+| Criterio Específico                                                                                      | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Conclusiones |
+|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| **5.c1.** Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: En el Av1, realice algunas tareas como definir los objetivos, las restricciones del proyecto y los competidores, al mismo tiempo que realice una entrevista y añadi los User Stories, el Impact Mapping y el Product Backlog. También ayude a organizar a mi equipo, al mismo tiempo que resolvia algunas dudas. <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara:Para este Av1 realice gran parte del capitulo 5, entrevistas y parte del capitulo 2. Gran parte de mi trabajo se vió respaldado por el equipo y a diversas ayudas que se brindó, además del liderazgo del team leader. <br/>- Giordano Sebastian Del Ángel Trejo Espejo | **AV1**<br>  |
+| **5.c2.** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **AV1**<br>- Waldo Alonso Portal Inga: <br>- Gabriel Alejandro Vilchez Vite: Durante el Av1, todos mis compañeros y yo calaboramos entre nosotros para lograr nuestros objetivos, Al mismo tiempo, logramos avanzar bastantes cosas gracias a nuestras metas establecidas. <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara:Para este Av1 realice gran parte del capitulo 5, entrevistas y parte del capitulo 2. Todo se logró gracias a las metas establecidas por el equipo para cada parte del trabajo, dónde nos ayudamos mutuamente y logré desarrollar nuevas habilidades relacionadas a las partes dirigidas hacia mi. <br/>- Giordano Sebastian Del Ángel Trejo Espejo                                         | **AV1**<br>  |
 <div style="page-break-before: always;"></div>
 
 # Capítulo I: Introducción
@@ -175,7 +176,7 @@
 
 ### 1.1.1 Descripción de la Startup
 
-VitaControl es una startup que se centra en el bienestar y el cuidado de la salud física y mental que tiene como objetivo ayudar a las personas en la construcción de hábitos saludables y mantenerlos en el tiempo a través de una plataforma digital personalizada. La solución que se ofrece consiste en un conjunto de herramientas de seguimiento, recomendaciones adaptativas y funcionalidades para la alimentación y la actividad física con la cual los usuarios podrán recibir acompañamiento a medida que se ajusta a los usuarios, a medida que sus objetivos, necesidades y características vayan evolucionando.
+NutriStartup es una startup que se centra en el bienestar y el cuidado de la salud física y mental que tiene como objetivo ayudar a las personas en la construcción de hábitos saludables y mantenerlos en el tiempo a través de una plataforma digital personalizada. La solución que se ofrece consiste en un conjunto de herramientas de seguimiento, recomendaciones adaptativas y funcionalidades para la alimentación y la actividad física con la cual los usuarios podrán recibir acompañamiento a medida que se ajusta a los usuarios, a medida que sus objetivos, necesidades y características vayan evolucionando.
 
 **Misión**
 
@@ -239,10 +240,10 @@ Actualmente, existen aplicaciones orientadas al control del peso y hábitos salu
 
 ### 2.1.1. Análisis competitivo
 
-En esta sección se describirán a nuestros competidores principales (MyFitnessPal, Lifesum y Noom) comparando la propuesta de nuestro startup VitaControl. El objetivo es identificar fortalezas y debilidades para establecer nuestra ventaja competitiva en el mercado.
+En esta sección se describirán a nuestros competidores principales (MyFitnessPal, Lifesum y Noom) comparando la propuesta de nuestro startup NutriStartup. El objetivo es identificar fortalezas y debilidades para establecer nuestra ventaja competitiva en el mercado.
 
 
-|                              | MyFitnessPal                                                                         | Lifesum                                                                                              | Noom                                                                                              | VitaControl                                                                                                                |
+|                              | MyFitnessPal                                                                         | Lifesum                                                                                              | Noom                                                                                              | NutriApp Integral                                                                                                          |
 |------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | **Perfil**                   | Aplicación móvil enfocada en la nutrición, la salud y la actividad física.           | Aplicación móvil centrada en mejorar la alimentación y llevar un estilo de vida equilibrado.         | Aplicación móvil enfocada en la perdida de peso mediante un enfoque psicológico.                  | Plataforma digital (web y móvil) orientada al bienestar físico mediante IA y conexión con profesionales.                   |
 | **Ventaja competitiva**      | Base de datos extensa para el conteo riguroso de calorías y macronutrientes.         | Diseño amigable enfocado en planes de alimentación y control rápido de carbohidratos e hidratación.  | Apoyo psicológico para promover un estilo de vida sostenible a largo plazo con lecciones breves.  | Recomendaciones con IA y un modelo de dos lados que conecta a usuarios con nutricionistas reales.                          |
@@ -275,7 +276,7 @@ A continuación, se realiza el análisis de cada uno de los competidores analiza
 *   **Oportunidades:** Aumento del interés en la salud mental vinculada a los trastornos alimenticios y el sobrepeso.
 *   **Amenazas:** Otras aplicaciones de salud integrando módulos de mindfulness o psicología en sus plataformas.
 
-**4. VitaControl**
+**4. NutriApp Integral**
 *   **Fortalezas:** Implementación de IA adaptativa para generar recomendaciones dinámicas y un ecosistema que conecta al usuario directamente con un nutricionista real.
 *   **Debilidades:** Al ser una startup de reciente creación, carece inicialmente de una base de datos de usuarios activa y reconocimiento de marca en el mercado.
 *   **Oportunidades:** Existe una necesidad desatendida en el segmento de profesionales nutricionistas que requieren herramientas digitales modernas para gestionar pacientes y ganar ingresos extra.
@@ -283,16 +284,16 @@ A continuación, se realiza el análisis de cada uno de los competidores analiza
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-A partir del análisis competitivo realizado para VitaControl (NutriApp Integral) y sus competidores directos (MyFitnessPal, Lifesum y Noom), se definen las estrategias y tácticas preliminares para afrontar las fortalezas de la competencia, aprovechar sus debilidades, y responder al contexto de oportunidades y amenazas del mercado.
+A partir del análisis competitivo realizado para NutriStartup (NutriApp Integral) y sus competidores directos (MyFitnessPal, Lifesum y Noom), se definen las estrategias y tácticas preliminares para afrontar las fortalezas de la competencia, aprovechar sus debilidades, y responder al contexto de oportunidades y amenazas del mercado.
 
 #### Estrategias frente a las fortalezas y debilidades de cada competidor
 
-| Competidor                 | Fortaleza clave del competidor                                                                 | Estrategia para afrontarla                                                                                                            | Debilidad clave del competidor                                                                                   | Táctica para aprovecharla                                                                                                            |
-|----------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **VitaControl (nosotros)** | Personalización con IA y conexión directa entre usuario y nutricionista dentro de una sola app | Consolidar este diferenciador como eje central del producto y de la comunicación de marca                                             | Al ser una startup nueva, no cuenta con la base de usuarios ni el reconocimiento de marca de MyFitnessPal o Noom | Enfocar el crecimiento inicial en nichos específicos (universitarios, nutricionistas independientes) antes de competir a gran escala |
-| **MyFitnessPal**           | Base de datos de alimentos muy extensa y alto reconocimiento de marca                          | No competir en volumen de datos; enfocarse en una propuesta de valor distinta (acompañamiento profesional real, no solo autoregistro) | Su plan premium es costoso (USD 19.99/mes ≈ S/ 67) y no conecta al usuario con un nutricionista real             | Incluir seguimiento con nutricionista dentro del plan básico, sin el sobrecosto de MyFitnessPal Premium                              |
-| **Lifesum**                | App gratuita, con buena experiencia de usuario en planes de alimentación personalizados        | Igualar la gratuidad en el plan básico, pero diferenciarse por la calidad de la personalización                                       | No utiliza inteligencia artificial ni conecta con profesionales de salud                                         | Usar recomendaciones dinámicas con IA desde el primer uso, algo que Lifesum no ofrece                                                |
-| **Noom**                   | Enfoque psicológico validado y contenido educativo diario que genera hábito                    | Incorporar micro-contenido educativo similar, pero adaptado al contexto nutricional/local                                             | No ofrece herramientas para que un nutricionista gestione varios pacientes a la vez                              | Captar al segmento de nutricionistas con un módulo de gestión de cartera de pacientes, vacío que Noom no cubre                       |
+| Competidor                        | Fortaleza clave del competidor                                                                 | Estrategia para afrontarla                                                                                                            | Debilidad clave del competidor                                                                                   | Táctica para aprovecharla                                                                                                            |
+|-----------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| **NutriApp Integral (nosotros)**  | Personalización con IA y conexión directa entre usuario y nutricionista dentro de una sola app | Consolidar este diferenciador como eje central del producto y de la comunicación de marca                                             | Al ser una startup nueva, no cuenta con la base de usuarios ni el reconocimiento de marca de MyFitnessPal o Noom | Enfocar el crecimiento inicial en nichos específicos (universitarios, nutricionistas independientes) antes de competir a gran escala |
+| **MyFitnessPal**                  | Base de datos de alimentos muy extensa y alto reconocimiento de marca                          | No competir en volumen de datos; enfocarse en una propuesta de valor distinta (acompañamiento profesional real, no solo autoregistro) | Su plan premium es costoso (USD 19.99/mes ≈ S/ 67) y no conecta al usuario con un nutricionista real             | Incluir seguimiento con nutricionista dentro del plan básico, sin el sobrecosto de MyFitnessPal Premium                              |
+| **Lifesum**                       | App gratuita, con buena experiencia de usuario en planes de alimentación personalizados        | Igualar la gratuidad en el plan básico, pero diferenciarse por la calidad de la personalización                                       | No utiliza inteligencia artificial ni conecta con profesionales de salud                                         | Usar recomendaciones dinámicas con IA desde el primer uso, algo que Lifesum no ofrece                                                |
+| **Noom**                          | Enfoque psicológico validado y contenido educativo diario que genera hábito                    | Incorporar micro-contenido educativo similar, pero adaptado al contexto nutricional/local                                             | No ofrece herramientas para que un nutricionista gestione varios pacientes a la vez                              | Captar al segmento de nutricionistas con un módulo de gestión de cartera de pacientes, vacío que Noom no cubre                       |
 #### Estrategias frente a oportunidades y amenazas del entorno competitivo
 
 | Tipo        | Descripción                                                                                                                | Estrategia de VitaControl                                                                                                                   |
@@ -498,27 +499,27 @@ La diferencia está que para el nutricionista, organizar historiales y hacer seg
 
 ### Introducción
 
-El siguiente glosario define los términos clave del dominio de bienestar y cuidado de la salud de VitaControl. Su propósito es establecer un lenguaje común entre todos los stakeholders, evitando ambigüedades y facilitando la comunicación durante el análisis, diseño y desarrollo de la plataforma.
+El siguiente glosario define los términos clave del dominio de bienestar y cuidado de la salud de NutriApp Integral. Su propósito es establecer un lenguaje común entre todos los stakeholders, evitando ambigüedades y facilitando la comunicación durante el análisis, diseño y desarrollo de la plataforma.
 
 ### Glosario
 
-**User (Usuario):** Persona que utiliza VitaControl para mejorar sus hábitos y cuidar su bienestar físico y mental.
+**User (Usuario):** Persona que utiliza NutriApp Integral para mejorar sus hábitos y cuidar su bienestar físico y mental.
 
 **Healthy Habit (Hábito Saludable):** Comportamiento positivo relacionado con la alimentación, actividad física o bienestar que el usuario busca incorporar y mantener en su vida diaria.
 
-**Goal (Objetivo):** Resultado que el usuario desea alcanzar mediante el uso de VitaControl, como mejorar su alimentación, aumentar su actividad física o controlar su peso.
+**Goal (Objetivo):** Resultado que el usuario desea alcanzar mediante el uso de NutriApp Integral, como mejorar su alimentación, aumentar su actividad física o controlar su peso.
 
 **Personalized Plan (Plan Personalizado):** Conjunto de actividades, recomendaciones y metas adaptadas a las características, necesidades y objetivos de cada usuario.
 
 **Profile (Perfil):** Conjunto de información personal y características del usuario utilizadas para personalizar su experiencia dentro de la plataforma.
 
-**Physical Activity (Actividad Física):** Ejercicio o movimiento realizado por el usuario y registrado en VitaControl.
+**Physical Activity (Actividad Física):** Ejercicio o movimiento realizado por el usuario y registrado en NutriApp Integral.
 
 **Food Intake (Consumo de Alimentos):** Registro de los alimentos y comidas consumidos por el usuario durante el día.
 
 **Nutrition (Alimentación):** Información relacionada con los alimentos, comidas y hábitos alimenticios del usuario.
 
-**Recommendation (Recomendación):** Sugerencia proporcionada por VitaControl de acuerdo con los objetivos, hábitos, características y progreso del usuario.
+**Recommendation (Recomendación):** Sugerencia proporcionada por NutriApp Integral de acuerdo con los objetivos, hábitos, características y progreso del usuario.
 
 **Progress (Progreso):** Evolución del usuario respecto al cumplimiento de sus objetivos y hábitos saludables.
 
@@ -530,11 +531,11 @@ El siguiente glosario define los términos clave del dominio de bienestar y cuid
 
 **Food Record (Registro de Alimentación):** Información registrada por el usuario sobre los alimentos o comidas que ha consumido.
 
-**Reminder (Recordatorio):** Aviso generado por VitaControl para ayudar al usuario a cumplir sus actividades, hábitos u objetivos establecidos.
+**Reminder (Recordatorio):** Aviso generado por NutriApp Integral para ayudar al usuario a cumplir sus actividades, hábitos u objetivos establecidos.
 
 **Notification (Notificación):** Mensaje enviado por la plataforma para informar al usuario sobre recordatorios, recomendaciones, avances o cambios relacionados con su actividad.
 
-**Personalization (Personalización):** Proceso mediante el cual VitaControl adapta sus recomendaciones y funcionalidades según las características, necesidades, objetivos y evolución del usuario.
+**Personalization (Personalización):** Proceso mediante el cual NutriApp Integral adapta sus recomendaciones y funcionalidades según las características, necesidades, objetivos y evolución del usuario.
 
 **Adaptive Recommendation (Recomendación Adaptativa):** Recomendación que puede cambiar de acuerdo con el progreso, comportamiento y necesidades actuales del usuario.
 
@@ -550,23 +551,23 @@ El siguiente glosario define los términos clave del dominio de bienestar y cuid
 
 **Achievement (Logro):** Resultado obtenido por el usuario al cumplir una meta, mantener un hábito o alcanzar un determinado nivel de progreso.
 
-**Dashboard (Panel de Control):** Espacio principal de VitaControl donde el usuario puede visualizar sus objetivos, hábitos, actividades, progreso y recomendaciones.
+**Dashboard (Panel de Control):** Espacio principal de NutriApp Integral donde el usuario puede visualizar sus objetivos, hábitos, actividades, progreso y recomendaciones.
 
 **User Progress (Progreso del Usuario):** Información que permite visualizar los avances del usuario respecto a sus objetivos y hábitos saludables.
 
 **Health Data (Datos de Salud):** Información proporcionada o registrada por el usuario relacionada con su bienestar, actividad física, alimentación y otros indicadores utilizados para personalizar la experiencia.
 
-**Goal Completion (Cumplimiento del Objetivo):** Momento en el que el usuario alcanza el resultado establecido como meta dentro de VitaControl.
+**Goal Completion (Cumplimiento del Objetivo):** Momento en el que el usuario alcanza el resultado establecido como meta dentro de NutriApp Integral.
 
 **Habit Completion (Cumplimiento del Hábito):** Registro que indica que el usuario realizó una acción correspondiente a uno de sus hábitos establecidos.
 
-**Motivation (Motivación):** Elementos y funcionalidades utilizadas por VitaControl para incentivar al usuario a mantener la constancia y continuar con sus hábitos saludables.
+**Motivation (Motivación):** Elementos y funcionalidades utilizadas por NutriApp Integral para incentivar al usuario a mantener la constancia y continuar con sus hábitos saludables.
 
 **User Feedback (Retroalimentación del Usuario):** Información proporcionada por el usuario sobre sus hábitos, recomendaciones, experiencia o percepción de la plataforma, que puede utilizarse para mejorar la personalización.
 
 **Evolution (Evolución):** Cambios que presentan los objetivos, necesidades, hábitos y progreso del usuario a lo largo del tiempo.
 
-**VitaControl Platform (Plataforma VitaControl):** Sistema digital que integra las herramientas de seguimiento, alimentación, actividad física, recomendaciones y gestión de hábitos saludables.
+**NutriApp Integral Platform (Plataforma NutriApp Integral):** Sistema digital que integra las herramientas de seguimiento, alimentación, actividad física, recomendaciones y gestión de hábitos saludables.
 
 **Personalized Experience (Experiencia Personalizada):** Experiencia que recibe cada usuario a partir de recomendaciones y funcionalidades adaptadas a sus características y necesidades.
 
@@ -577,7 +578,7 @@ El siguiente glosario define los términos clave del dominio de bienestar y cuid
 
 ## 3.1 User Stories
 
-Esta sección muestra los requisitos funcionales de VitaControl a través de un agrupado de Epics y User Stories que poseen en cuenta las necesidades desde la investigación, las entrevistas y el análisis de los segmentos o los grupos identificados. Las historias contemplan las funcionalidades más importantes de la plataforma respecto a las personas que quieren reducir su peso y su salud, junto con la de los nutricionistas que desean gestionar pacientes y completar su recorrido profesional. También se incluyen User Stories del sitio web estático de la plataforma (Landing Page) enfocadas a los visitados de los segmentos o grupos identificados, junto con Technical Stories vinculadas al desarrollo del RESTful API. Todas las User Stories cuentan con una serie de criterios de aceptación construidas conforme a la estructura del Given-When-Then, dando la opción para validar que estamos cumpliendo los requisitos.
+Esta sección muestra los requisitos funcionales de NutriApp Integral a través de un agrupado de Epics y User Stories que poseen en cuenta las necesidades desde la investigación, las entrevistas y el análisis de los segmentos o los grupos identificados. Las historias contemplan las funcionalidades más importantes de la plataforma respecto a las personas que quieren reducir su peso y su salud, junto con la de los nutricionistas que desean gestionar pacientes y completar su recorrido profesional. También se incluyen User Stories del sitio web estático de la plataforma (Landing Page) enfocadas a los visitados de los segmentos o grupos identificados, junto con Technical Stories vinculadas al desarrollo del RESTful API. Todas las User Stories cuentan con una serie de criterios de aceptación construidas conforme a la estructura del Given-When-Then, dando la opción para validar que estamos cumpliendo los requisitos.
 
 | **Epic / Story ID** | **Título**                                           | **Descripción**                                                                                                                                                            | **Criterios de aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Relacionado con (Epic ID)** |
 |---------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
