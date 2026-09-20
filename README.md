@@ -489,7 +489,29 @@ Este User Task Matrix explica las tareas principales que los User Personas reali
 Las tareas con mayor frecuencia e importancia para ambos segmentos tratan sobre la planificación de la alimentación y sobre la evaluación del progreso físico. Sin embargo, las perspectivas son distintas, el User Persona 1 realiza estas tareas para su propio bienestar y con una frecuencia inconsistente debido a su falta de tiempo, y el User Persona 2 las realiza como parte de su servicio profesional para sus pacientes.
 La diferencia está que para el nutricionista, organizar historiales y hacer seguimiento es una tarea diaria y de alta importancia que le consume mucho tiempo, mientras que para para una persona común es una tarea casi inexistente. Por otro lado, la búsqueda de motivación y rutinas en redes sociales es frecuente para el segmento 1, pero irrelevante para el segmento 2.
 
-### 2.3.3 User Journey Mapping
+### 2.3.3. User Journey Mapping
+
+En esta sección se elaboran los User Journey Maps en As-Is, imitando la experiencia de cada segmento objetivo al intentar cumplir sus metas sin la existencia de nuestra plataforma.
+- **Personas que quieran reducir su peso**
+
+| | Etapa 1 | Etapa 2 | Etapa 3 | Etapa 4 | Etapa 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Title** | Motivación y búsqueda inicial | Planificación de la rutina | Ejecución y seguimiento | Enfrentamiento a obstáculos | Abandono o estancamiento |
+| **User Goals** | Encontrar un plan de dieta y ejercicios adecuado | Organizar sus comidas y horarios para entrenar | Registrar su progreso físico y cumplir sus metas | Mantener el hábito a pesar de los cambios de horario | Recuperar la motivación |
+| **Process** | Busca dietas, consejos y rutinas en redes sociales o internet | Compra comida y trata de hacer un espacio en su agenda de estudio y/o trabajo | Sigue la dieta, se pesa en una báscula y anota sus resultados en notas o apps desconectadas | Omite entrenamientos o come comida rápida debido a la falta de tiempo o estrés | Deja de registrar su peso y abandona la rutina |
+| **Problems** | Exceso de información genérica y confusa que no se adapta a su realidad | Falta de conocimientos de cocina y presupuesto limitado para armar comidas | El registro manual es tedioso, olvida anotar sus comidas y los resultados son lentos | Culpa por romper la dieta, rutinas inflexibles que no se adaptan a su día a día | Efecto rebote, frustración por no ver resultados rápidos y falta de apoyo |
+| **Experience** | Expectativa / Motivación | Abrumado | Frustración / Ansiedad | Desmotivación / Culpa | Decepción |
+| **Ideas / Opportunities** | App que genere un plan personalizado basado en edad, peso y nivel físico | IA que sugiera comidas rápidas según los gustos y presupuesto del usuario | Interfaz rápida para registrar peso y calorías con recordatorios automáticos | Rutinas que se adapten automáticamente si el usuario tiene menos tiempo un día | Gráficos visuales de tendencia a largo plazo para mantener la motivación |
+- **Nutricionistas que quieran generar un ingreso extra**
+
+| | Etapa 1 | Etapa 2 | Etapa 3 | Etapa 4 | Etapa 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Title** | Consulta y evaluación inicial | Elaboración del plan nutricional | Seguimiento del paciente | Ajuste de la dieta | Retención del paciente |
+| **User Goals** | Recopilar el historial clínico y evaluar el estado físico del paciente | Entregar una dieta personalizada y precisa | Verificar si el paciente está cumpliendo el plan asignado | Adaptar la dieta según los nuevos resultados de peso | Lograr que el paciente continúe con el servicio a largo plazo |
+| **Process** | Realiza la consulta y toma apuntes manuales sobre hábitos | Calcula requerimientos calóricos y macros, redacta un documento y lo envía por WhatsApp | Espera a que el paciente reporte su peso semanal o le envía mensajes preguntando | Pide el nuevo peso, recalcula los macros manualmente y arma un nuevo PDF | Intenta programar la siguiente consulta de control |
+| **Problems** | Información dispersa en historias clínicas de papel o archivos de Excel básicos | Proceso lento y repetitivo que limita la cantidad de pacientes que puede atender al día | Los pacientes no responden, mienten o abandonan el registro; falta de datos reales | Dificultad para gestionar múltiples planes simultáneamente sin confundirse | El paciente abandona el tratamiento por falta de motivación o seguimiento constante |
+| **Experience** | Atención | Sobrecarga / Cansancio | Incertidumbre | Estrés | Frustración / Pérdida de ingresos |
+| **Ideas / Opportunities** | Plataforma centralizada para gestionar historias clínicas de forma digital | Herramientas automatizadas para calcular calorías y crear plantillas de dietas | Dashboard compartido donde el profesional vea en tiempo real lo que registra el paciente | Alertas automáticas de progreso y sistema rápido para editar planes existentes | Generación de reportes claros de logros para enviárselos al paciente y fidelizarlo |
 
 ### 2.3.4 Empathy Mapping
 
