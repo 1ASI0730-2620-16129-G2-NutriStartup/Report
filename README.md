@@ -866,6 +866,10 @@ Los nutricionistas utilizarán la plataforma como una herramienta de trabajo, po
 
 ![Web App Mockup Mobile](assets/images/mockup-webapp-mobile.png)
 
+### 4.4.4. Web Applications User Flow Diagrams
+
+![Web App UserFlow 1](assets/images/userflow-diagram-1.png)
+
 ## 4.5. Web Applications Prototyping
 
 ### Introducción y criterios de diseño
