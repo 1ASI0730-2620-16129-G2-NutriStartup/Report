@@ -242,14 +242,17 @@ Actualmente, existen aplicaciones orientadas al control del peso y hábitos salu
 * Se ofrecerá una versión premium con elementos complementarios, como funcionalidades ampliadas de personalización.
 * Se podrá monetizarse por medio de alianzas con nutricionistas, gimnasios o servicios de bienestar integrados a la plataforma.
 
+# Capítulo II: Requirements Elicitation & Analysis
 
-## 5.2. Product Implementation & Deployment
+## 2.1 Competidores
 
-### 5.2.1. Sprint Backlogs
+Hay muchas plataformas digitales en el mercado que pretenden mejorar la alimentación, controlar el peso y ayudar a tener unos hábitos más saludables. Estas plataformas tienen funciones como seguimiento de hábitos, planes de alimentación, recomendaciones personalizadas y monitoreo del progreso. Por ello, se darán a conocer y estudiarán los principales competidores de VitaControl. Se analizarán sus características, propuesta de valor y modelo de negocio. Lo que se busca es descubrir puntos de diferencia y elementos que ayuden a diseñar la solución.
 
-#### Sprint 1
+**MyFitnessPal:** Es una aplicación móvil que sirve para la nutrición, la salud y la actividad física. Dentro de la aplicación, se puede registrar las comidas diarias para controlar las calorías, se puede registrar los macronutrientes, se puede tener metas personalizadas, entre otras cosas. La aplicación cuenta con una versión gratuita y una versión premium de 19.99 dolares (67.13 soles).
 
-##### Sprint Planning
+**Lifesum:** Es una aplicación móvil que permite ayudar a los usuarios a mejorar su alimentación, a perder peso y a llevar un estilo de vida más equilibrado. Esta aplicación ofrece funciones que permiten controlar la ingesta de carbohidratos, tener planes de alimentación personalizados, registros de hidratación y evaluar el progreso del usuario. Esta aplicación es gratuita.
+
+**Noom:** Es una aplicación móvil enfocada en la perdida de peso y el cambio de hábitos. Esta aplicación apuesta por un enfoque psicológico que ayudan a promover un estilo de vida sostenible a largo plazo, mientras que registra lo que consume el usuario, al mismo tiempo que le ofrece lecciones diarias breves. Esta aplicación es gratuita.
 
 ### 2.1.1. Análisis competitivo
 
