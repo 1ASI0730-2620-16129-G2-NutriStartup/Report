@@ -1415,6 +1415,24 @@ Ruta de referencia:
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
+### 5.2.1.5. Execution Evidence for Sprint Review.
+
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1, el alcance del equipo se limitó exclusivamente a la implementación de la Landing Page estática de VitalTrek, desarrollada con HTML, CSS y JavaScript vanilla. En esta iteración no se implementaron Web Services ni endpoints de API REST, por lo que no aplica documentación de servicios con OpenAPI para este sprint.
+
+La implementación de endpoints y su documentación corresponderá a sprints posteriores, una vez que el equipo avance hacia el desarrollo de la Web Application y el Web Service de la plataforma.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
