@@ -647,8 +647,6 @@ En esta sección se presenta el Impact Mapping desarrollado para NutriApp, con e
 
 En esta sección se presenta el Product Backlog de NutriApp Integral, donde se organizan los User Stories identificados para el desarrollo de la solución. Cada User Story cuenta con una estimación de esfuerzo mediante Story Points y una prioridad dentro del orden de implementación. Además, se presenta una tabla que resume la información principal de cada User Story, siguiendo la estructura establecida para el Product Backlog.
 
-Para acceder al Product Backlog: [Product Backlog - Trello](https://trello.com/b/a2InWiNJ/product-backlog)
-
 | # Orden | User Story ID | Título                                               | Descripción                                                                                                                                                    | Story Points |
 |---------|---------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | 1       | US-06         | Registro de usuario                                  | Como visitante, quiero crear una cuenta proporcionando mi información personal para utilizar NutriApp Integral de manera personalizada.                        | 3            |
@@ -682,6 +680,10 @@ Para acceder al Product Backlog: [Product Backlog - Trello](https://trello.com/b
 | 23      | US-21         | Elaboración de plan nutricional                      | Como nutricionista, quiero elaborar planes nutricionales para proporcionar recomendaciones acordes con las necesidades de mis pacientes.                       | 8            |
 | 24      | US-22         | Seguimiento del paciente                             | Como nutricionista, quiero realizar seguimiento de mis pacientes para conocer su evolución y ajustar sus planes nutricionales.                                 | 8            |
 | 25      | US-23         | Consultas digitales                                  | Como nutricionista, quiero realizar consultas mediante la plataforma para atender a mis pacientes de manera digital.                                           | 8            |
+
+Para acceder al Product Backlog: [Product Backlog - Trello](https://trello.com/b/a2InWiNJ/product-backlog)
+
+<img src="assets/images/trello.png">
 
 ## 4.5. Web Applications Prototyping
 
