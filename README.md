@@ -1413,5 +1413,26 @@ la aplicación web del proyecto se ha desplegado utilizando GitHub Pages, lo que
 
 Ruta de referencia:
 
+## 5.2. Landing Page, Services & Applications Implementation
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+## Video About-the-Team
+
+# Bibliografía
+
+# Anexos
 
 </div>
