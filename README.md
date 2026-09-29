@@ -1431,7 +1431,19 @@ La implementación de endpoints y su documentación corresponderá a sprints pos
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+Durante el Sprint 1, el equipo Conecta utilizó GitHub como plataforma central de colaboración y control de versiones, aplicando el flujo de trabajo GitFlow junto con Conventional Commits y Semantic Versioning para mantener trazabilidad y orden en el desarrollo.
 
+**Organización GitHub del equipo:** https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Report.git
+
+**Flujo de trabajo aplicado:**
+* Cada integrante trabajó en ramas individuales siguiendo la convención `feature/chapter{number}`, creadas desde la rama develop.
+* Los cambios se integraron a develop mediante Pull Requests, requiriendo al menos una revisión y aprobación de otro integrante antes del merge.
+* Los mensajes de commit siguieron el estándar Conventional Commits (`feat:`, `fix:`, `docs:`, `style:`, etc.), garantizando trazabilidad por funcionalidad.
+* Al finalizar el sprint, develop fue fusionada a main para el despliegue en GitHub Pages.
+
+<img src="assets/images/contributors1.png">
+
+<img src="assets/images/colaborators1.png">
 
 ## 5.3. Validation Interviews
 
