@@ -75,6 +75,9 @@
 | 11.0    | 19/09/2026  | Alejandro Franklin Mendoza Vergara         | Se añadió la sección de Software Configuration Management.                                                                                  |
 | 12.0    | 19/09/2026  | Waldo Alonso Portal Inga                   | Se añadió los User Persona.                                                                                                                 |
 | 13.0    | 19/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo  | Se añadió la sección de User Task Matrix, al mismo tiempo que añadio los User Persona al repositorio.                                       |
+| 14.0    | 19/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo  | Se añadió la sección de User Task Matrix, al mismo tiempo que añadio los User Persona al repositorio.                                                                                                 |
+| 15.0    | 20/09/2026  | Gabriel Alejandro Vilchez Vite             | Se añadió el Impact Mapping y el Product Backlog.                                                                                                                                                     |
+| 16.0    | 20/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo  | Se anadió los Wireframes, los Mock-ups y el UI Design de la Landing Page y de las Web Application, al mismo tiempo que se agrego las secciones de los User Journey Mapping y de los Empathy Mapping.  |
 
 ## Contenido
 
