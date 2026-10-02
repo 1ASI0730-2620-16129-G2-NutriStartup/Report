@@ -80,7 +80,8 @@
 | 16.0    | 20/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se anadió los Wireframes, los Mock-ups y el UI Design de la Landing Page y de las Web Application, al mismo tiempo que se agrego las secciones de los User Journey Mapping y de los Empathy Mapping. |
 | 17.0    | 20/09/2026  | Waldo Alonso Portal Inga                  | Se añadió la sección de Web Applications Prototyping.                                                                                                                                                |
 | 18.0    | 29/09/2026  | Gabriel Alejandro Vilchez Vite            | Se actualizó la sección de Product Backlog.                                                                                                                                                          |
-| 19.0    | 30/09/2026  | Gabriel Alejandro Vilchez Vite            | Se actualizó los User Stories y el Product Backlog.                                                                                                                                                  |
+| 19.0    | 01/10/2026  | Gabriel Alejandro Vilchez Vite            | Se actualizó los User Stories y el Product Backlog.                                                                                                                                                  |
+| 20.0    | 02/10/2026  | Alejandro Franklin Mendoza Vergara        | Se añadió el Big Picture EventStorming.                                                                                                                                                              |
 
 ## Contenido
 
