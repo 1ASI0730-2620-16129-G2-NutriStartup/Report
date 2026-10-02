@@ -733,9 +733,9 @@ Esta sección muestra los requisitos funcionales de NutriApp a través de un agr
 
 En esta sección se presenta el Impact Mapping desarrollado para NutriApp, con el propósito de relacionar los objetivos del negocio con los User Personas, los impactos esperados, los entregables y las User Stories asociadas. Este análisis permite identificar cómo las funcionalidades propuestas pueden contribuir al cumplimiento de los objetivos definidos para cada segmento de usuarios, manteniendo una relación clara entre las necesidades identificadas y los requisitos del producto.
 
-![Impact Mapping 1](assets/images/IM1.jpeg)
+![Impact Mapping 1](assets/images/IM1.png)
 
-![Impact Mapping 2](assets/images/IM2.jpeg)
+![Impact Mapping 2](assets/images/IM2.png)
 
 ## 3.3 Product Backlog
 
