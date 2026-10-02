@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">
-  <img src="assets/images/upc-logoo.png" alt="UPC Logo" width="80">
+  <img src="assets/images/upc-logo.png" alt="UPC Logo" width="80">
 </div>
 <br/>
 <h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h3>
@@ -202,7 +202,7 @@ Ser una solución referente en el cuidado de la salud física ,promoviendo estil
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
 | **Alejandro Franklin Mendoza Vergara - U202312343** <br>   Mi nombre es Alejandro Mendoza y soy estudiante de la carrera de Ingeniería de Software. Actualmente tengo experiencia en C++ y Python. Estoy interesado en seguir aprendiendo sobre diferentes lenguajes de programación y en la creación de distintas aplicaciones web y móviles, por lo que intento dar todo de mí para tener buenos resultados.                                                                      | <img src="assets/images/alejandro_foto.jpeg" heigh="500" width="400"> |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
-| **Poly Gabriel Alcantara baldeon - u202418250** <br/>  Soy estudiante de la carrera de Ingeniería de Software. Me considero un profesional en formación, orientado al aprendizaje continuo y a la construcción de sistemas eficientes y seguros. Cuento con bases sólidas en lenguajes de programación como C#, Java y Python. Mi enfoque se centra en crear y proteger, buscando desarrollar soluciones funcionales con especial interés en la seguridad e integridad del código.  | <img src="assets/images/Poly - foto.jpeg" heigh="500" width="400">                           |                                                                      |                                                                       |
+| **Poly Gabriel Alcantara baldeon - u202418250** <br/>  Soy estudiante de la carrera de Ingeniería de Software. Me considero un profesional en formación, orientado al aprendizaje continuo y a la construcción de sistemas eficientes y seguros. Cuento con bases sólidas en lenguajes de programación como C#, Java y Python. Mi enfoque se centra en crear y proteger, buscando desarrollar soluciones funcionales con especial interés en la seguridad e integridad del código.  | <img src="assets/images/poly_foto.jpeg" heigh="500" width="400">      |
 
 ## 1.2 Solution Profile
 
