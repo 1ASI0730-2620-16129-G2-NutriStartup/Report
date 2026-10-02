@@ -601,6 +601,15 @@ La diferencia está que para el nutricionista, organizar historiales y hacer seg
 
 ## 2.4 Big Picture EventStorming
 
+| Fase | Eventos de dominio | Actores | Sistemas externos | Hotspots |
+|---|---|---|---|---|
+| 1. Acceso | Cuenta registrada, Sesión iniciada, Rol asignado, Perfil completado | Visitante, Paciente, Nutricionista, Administrador | - | ¿Cómo verificar las credenciales de los nutricionistas? |
+| 2. Planificación | Objetivo definido, Plan solicitado, Plan IA generado, Plan aprobado, Plan actualizado | Paciente, Nutricionista | Servicio de IA | La IA no debe reemplazar el criterio del nutricionista. ¿Qué modelo de IA se usará? |
+| 3. Seguimiento | Comida registrada, Actividad guardada, Peso registrado, Aviso enviado, Meta alcanzada | Paciente | Servicio de notificaciones | Abandono después de las primeras semanas. ¿Con qué frecuencia se enviarán los recordatorios? |
+| 4. Atención | Paciente vinculado, Cita reservada, Cita reprogramada, Cita cancelada, Consulta realizada, Plan ajustado | Paciente, Nutricionista | Servicio de videollamada | Riesgo de reducir las citas presenciales. Seguridad de los datos. ¿Qué política se aplica a la cancelación tardía? |
+| 5. Monetización | Premium contratado, Pago procesado, Comisión calculada | Paciente, Nutricionista | Pasarela de pagos | ¿Pagos en línea y cálculo de la comisión? |
+
+
 ## 2.5 Ubiquitious Language
 
 ### Introducción
