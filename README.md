@@ -1023,9 +1023,7 @@ El Design-Level EventStorming de **NutriApp Integral** permite representar los c
 - ¿Se utilizará autenticación mediante Google?
 - ¿Cómo se validarán las credenciales profesionales de los nutricionistas?
 
-> **PENDIENTE: Imagen del EventStorming de Identity and Access Management.**  
-> **Motivo:** La información anterior debe organizarse visualmente en Miro, FigJam o Figma.  
-> **Imagen requerida:** Propósito, clasificación, roles, comunicación entrante y saliente, lenguaje ubicuo, decisiones, supuestos, métricas y preguntas abiertas.
+![EventStorming IdentityBC](assets/images/eventstorming-identityBC.png)
 
 #### 2. User Profile Management
 
@@ -1074,9 +1072,7 @@ El Design-Level EventStorming de **NutriApp Integral** permite representar los c
 - ¿Los pacientes podrán ocultar determinados datos?
 - ¿Cada cuánto tiempo se solicitará actualizar el peso y las medidas?
 
-> **PENDIENTE: Imagen del EventStorming de User Profile Management.**  
-> **Motivo:** Debe construirse la representación visual del dominio a partir de los elementos definidos.  
-> **Imagen requerida:** Comandos, eventos, conceptos y decisiones relacionados con los perfiles de pacientes y nutricionistas.
+![EventStorming ProfileBC](assets/images/eventstorming-profileBC.png)
 
 #### 3. Nutrition Plan Management
 
@@ -1126,9 +1122,7 @@ El Design-Level EventStorming de **NutriApp Integral** permite representar los c
 - ¿Qué información nutricional será necesaria para generar los planes?
 - ¿Cómo se advertirá al usuario que una recomendación no reemplaza una consulta profesional?
 
-> **PENDIENTE: Imagen del EventStorming de Nutrition Plan Management.**  
-> **Motivo:** Los comandos, eventos y reglas deben trasladarse a un tablero visual.  
-> **Imagen requerida:** Proceso desde la solicitud del plan hasta su generación, revisión, aprobación y actualización.
+![EventStorming PlanBC](assets/images/eventstorming-planBC.png)
 
 #### 4. Progress Monitoring
 
