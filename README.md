@@ -60,28 +60,29 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                                     | Descripción de modificación                                                                                                                                                                          |
-|---------|-------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 07/09/2026  | Waldo Alonso Portal Inga                  | Se añadió la descripción de la Startup, la sección perfiles de integrantes, el solution profile y los segmentos objetivo.                                                                            |
-| 2.0     | 11/09/2026  | Gabriel Alejandro Vilchez Vite            | Se actualizó la sección de los perfiles de los integrantes y se añadió los objetivos y restricciones que delimitan el alcance del proyecto.                                                          |
-| 3.0     | 12/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de competidores competidores.                                                                                                                                                   |
-| 4.0     | 13/09/2026  | Waldo Alonso Portal Inga                  | Se añadió la sección de entrevistas, especificamente el diseño de las entrevistas.                                                                                                                   |
-| 5.0     | 15/09/2026  | Poly Gabriel Alcantara Baldeon            | Se anadió la sección de estrategias y tácticas frente a competidores.                                                                                                                                |
-| 6.0     | 15/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de registro de entrevistas.                                                                                                                                                     |
-| 7.0     | 16/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se anadió la entrevista 1 del segmento 1.                                                                                                                                                            |
-| 8.0     | 17/09/2026  | Waldo Alonso Portal Inga                  | Se anadió la entrevista 2 del segmento 2.                                                                                                                                                            |
-| 9.0     | 17/09/2026  | Alejandro Franklin Mendoza Vergara        | Se anadió la entrevista 3 del segmento 2 y la sección de Ubiquitious Language.                                                                                                                       |
-| 10.0    | 18/09/2026  | Poly Gabriel Alcantara Baldeon            | Se anadió la entrevista 2 del segmento 1 y la sección de Análisis de entrevistas.                                                                                                                    |
-| 11.0    | 19/09/2026  | Alejandro Franklin Mendoza Vergara        | Se añadió la sección de Software Configuration Management.                                                                                                                                           |
-| 12.0    | 19/09/2026  | Waldo Alonso Portal Inga                  | Se añadió los User Persona.                                                                                                                                                                          |
-| 13.0    | 19/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se añadió la sección de User Task Matrix, al mismo tiempo que añadio los User Persona al repositorio.                                                                                                |
-| 14.0    | 19/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se añadió la sección de User Task Matrix, al mismo tiempo que añadio los User Persona al repositorio.                                                                                                |
-| 15.0    | 20/09/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió el Impact Mapping y el Product Backlog.                                                                                                                                                    |
-| 16.0    | 20/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se anadió los Wireframes, los Mock-ups y el UI Design de la Landing Page y de las Web Application, al mismo tiempo que se agrego las secciones de los User Journey Mapping y de los Empathy Mapping. |
-| 17.0    | 20/09/2026  | Waldo Alonso Portal Inga                  | Se añadió la sección de Web Applications Prototyping.                                                                                                                                                |
-| 18.0    | 29/09/2026  | Gabriel Alejandro Vilchez Vite            | Se actualizó la sección de Product Backlog.                                                                                                                                                          |
-| 19.0    | 01/10/2026  | Gabriel Alejandro Vilchez Vite            | Se actualizó los User Stories y el Product Backlog.                                                                                                                                                  |
-| 20.0    | 02/10/2026  | Alejandro Franklin Mendoza Vergara        | Se añadió el Big Picture EventStorming.                                                                                                                                                              |
+| Versión | Fecha       | Autor                                      | Descripción de modificación                                                                                                                                                                          |
+|---------|-------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 07/09/2026  | Waldo Alonso Portal Inga                   | Se añadió la descripción de la Startup, la sección perfiles de integrantes, el solution profile y los segmentos objetivo.                                                                            |
+| 2.0     | 11/09/2026  | Gabriel Alejandro Vilchez Vite             | Se actualizó la sección de los perfiles de los integrantes y se añadió los objetivos y restricciones que delimitan el alcance del proyecto.                                                          |
+| 3.0     | 12/09/2026  | Gabriel Alejandro Vilchez Vite             | Se añadió la sección de competidores competidores.                                                                                                                                                   |
+| 4.0     | 13/09/2026  | Waldo Alonso Portal Inga                   | Se añadió la sección de entrevistas, especificamente el diseño de las entrevistas.                                                                                                                   |
+| 5.0     | 15/09/2026  | Poly Gabriel Alcantara Baldeon             | Se anadió la sección de estrategias y tácticas frente a competidores.                                                                                                                                |
+| 6.0     | 15/09/2026  | Gabriel Alejandro Vilchez Vite             | Se añadió la sección de registro de entrevistas.                                                                                                                                                     |
+| 7.0     | 16/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo  | Se anadió la entrevista 1 del segmento 1.                                                                                                                                                            |
+| 8.0     | 17/09/2026  | Waldo Alonso Portal Inga                   | Se anadió la entrevista 2 del segmento 2.                                                                                                                                                            |
+| 9.0     | 17/09/2026  | Alejandro Franklin Mendoza Vergara         | Se anadió la entrevista 3 del segmento 2 y la sección de Ubiquitious Language.                                                                                                                       |
+| 10.0    | 18/09/2026  | Poly Gabriel Alcantara Baldeon             | Se anadió la entrevista 2 del segmento 1 y la sección de Análisis de entrevistas.                                                                                                                    |
+| 11.0    | 19/09/2026  | Alejandro Franklin Mendoza Vergara         | Se añadió la sección de Software Configuration Management.                                                                                                                                           |
+| 12.0    | 19/09/2026  | Waldo Alonso Portal Inga                   | Se añadió los User Persona.                                                                                                                                                                          |
+| 13.0    | 19/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo  | Se añadió la sección de User Task Matrix, al mismo tiempo que añadio los User Persona al repositorio.                                                                                                |
+| 14.0    | 19/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo  | Se añadió la sección de User Task Matrix, al mismo tiempo que añadio los User Persona al repositorio.                                                                                                |
+| 15.0    | 20/09/2026  | Gabriel Alejandro Vilchez Vite             | Se añadió el Impact Mapping y el Product Backlog.                                                                                                                                                    |
+| 16.0    | 20/09/2026  | Giordano Sebastian Del Ángel Trejo Espejo  | Se anadió los Wireframes, los Mock-ups y el UI Design de la Landing Page y de las Web Application, al mismo tiempo que se agrego las secciones de los User Journey Mapping y de los Empathy Mapping. |
+| 17.0    | 20/09/2026  | Waldo Alonso Portal Inga                   | Se añadió la sección de Web Applications Prototyping.                                                                                                                                                |
+| 18.0    | 29/09/2026  | Gabriel Alejandro Vilchez Vite             | Se actualizó la sección de Product Backlog.                                                                                                                                                          |
+| 19.0    | 01/10/2026  | Gabriel Alejandro Vilchez Vite             | Se actualizó los User Stories y el Product Backlog.                                                                                                                                                  |
+| 20.0    | 02/10/2026  | Alejandro Franklin Mendoza Vergara         | Se añadió el Big Picture EventStorming.                                                                                                                                                              |
+| 21.0    | 03/10/2026  | Giordano Sebastian Del Ángel Trejo Espejo  | Se añadío los Design-Level EventStorming.                                                                                                                                                            |
 
 ## Contenido
 
@@ -1244,7 +1245,15 @@ El Design-Level EventStorming de **NutriApp Integral** permite representar los c
 
 ## 4.7. Software Object-Oriented Design
 
+En esta sección, presentaremos con mayor detalle cómo se encuentran estructurados los componentes de nuestro sistema y cómo se relacionan dentro de cada bounded context. Para ello, se mostrarán los Class Diagrams que permiten representar la organización interna de las principales partes del software.
+
 ### 4.7.1. Class Diagrams
+
+A continuación, presentaremos la estructura interna de los componentes que conforman nuestro sistema, mostrando cómo se organizan sus clases y cómo se relacionan entre sí para representar las principales funcionalidades de cada Bounded Context.
+
+* **Shared BC:** Agrupa los componentes y servicios transversales reutilizados por toda la aplicación. Incluye **Layout**, **LanguageSwitcher** y **FooterContent** como componentes de presentación comunes, junto con **BaseApi**, **BaseEndpoint** e **iamInterceptor** como infraestructura base que extienden las APIs específicas de cada bounded context .
+
+<img src="assets/images/shared-uml.png">
 
 ## 4.8. Database Design
 
