@@ -1460,21 +1460,33 @@ Ruta de referencia:
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
-### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta sección, vamos a explicar el proceso de implementación, pruebas, documentación y despliegue del Landing Page, Web Services y Frontend Web Applications.
 
+### 5.2.1. Sprint 1
 
+#### 5.2.1.1. Sprint Planning 1
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+#### 5.2.1.3. Sprint Backlog 1
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 1, el equipo completó la implementación de la Landing Page de NutriApp Integral. Se implementaron todas las secciones comprometidas en el Sprint Backlog: . La landing page fue desplegada en GitHub Pages al cierre del sprint.
+
+A continuación se presentan capturas de las principales vistas implementadas:
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 1, el alcance del equipo se limitó exclusivamente a la implementación de la Landing Page estática de VitalTrek, desarrollada con HTML, CSS y JavaScript vanilla. En esta iteración no se implementaron Web Services ni endpoints de API REST, por lo que no aplica documentación de servicios con OpenAPI para este sprint.
 
 La implementación de endpoints y su documentación corresponderá a sprints posteriores, una vez que el equipo avance hacia el desarrollo de la Web Application y el Web Service de la plataforma.
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-
-
-### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 1, el equipo Conecta utilizó GitHub como plataforma central de colaboración y control de versiones, aplicando el flujo de trabajo GitFlow junto con Conventional Commits y Semantic Versioning para mantener trazabilidad y orden en el desarrollo.
 
