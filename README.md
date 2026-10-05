@@ -1282,6 +1282,10 @@ A continuación, presentaremos el diseño de las bases de datos que respaldan la
 
 ### 4.8.1. Database Diagrams
 
+El diseño de base de datos de NutriApp Integral está estructurado en cinco bounded contexts, siguiendo los principios de Domain-Driven Design para favorecer la modularidad, escalabilidad y mantenibilidad del sistema. Cada contexto —Identity and Access Management, User Profile Management, Nutrition Plan Management, Progress Monitoring y Appointment Management— gestiona de forma independiente la persistencia de información correspondiente a una parte específica del sistema, desde la gestión de usuarios y perfiles hasta la administración de planes nutricionales, seguimiento del progreso y gestión de citas.
+
+<img src="assets/images/database-uml.png">
+
 # Capítulo V: Product Implementation
 
 ## 5.1. Software Configuration Management
