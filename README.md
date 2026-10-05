@@ -1258,7 +1258,7 @@ A continuación, presentaremos la estructura interna de los componentes que conf
 
 * **Identity and Access Management BC:** Agrupa las funcionalidades relacionadas con la gestión de usuarios y el acceso seguro a la aplicación. Incluye **User**, **SignInCommand** y **SignUpCommand** como elementos principales del dominio, junto con los componentes de infraestructura y aplicación encargados del registro, inicio de sesión, autenticación y gestión de sesiones. En presentación, incorpora las interfaces necesarias para el registro y autenticación de los usuarios.
 
-<img src="assets/images/iam-uml.jpg">
+<img src="assets/images/iam-uml.png">
 
 * **User Profile Management BC:** Agrupa las funcionalidades relacionadas con la gestión de la información personal y profesional de los usuarios, sus objetivos nutricionales, preferencias y restricciones alimentarias. Incluye **UserProfile**, **Goal**, **Preference** y **Restriction** como elementos principales del dominio, junto con los componentes de infraestructura y aplicación encargados de gestionar los perfiles, objetivos, preferencias y restricciones. En presentación, incorpora las interfaces necesarias para actualizar el perfil, gestionar objetivos, preferencias y restricciones de los usuarios.
 
@@ -1268,7 +1268,7 @@ A continuación, presentaremos la estructura interna de los componentes que conf
 
 <img src="assets/images/nutrition-uml.png">
 
-* **Progress Monitoring BC:** Agrupa las funcionalidades relacionadas con el registro y seguimiento del progreso, los hábitos y los objetivos nutricionales de los usuarios. Incluye **ProgressRecord**, **HabitRecord** y **ProgressGoal** como elementos principales del dominio, junto con los componentes de infraestructura y aplicación encargados de gestionar los registros de progreso, hábitos y metas. En presentación, incorpora las interfaces necesarias para visualizar el progreso, registrar avances, realizar el seguimiento de hábitos y consultar el estado de los objetivos.
+* **Progress Monitoring BC:** Agrupa las funcionalidades relacionadas con el registro y seguimiento del progreso, los hábitos y los objetivos nutricionales de los usuarios. Incluye **ProgressRecord** y **HabitRecord** como elementos principales del dominio, junto con los componentes de infraestructura y aplicación encargados de gestionar los registros de progreso, hábitos y metas. En presentación, incorpora las interfaces necesarias para visualizar el progreso, registrar avances, realizar el seguimiento de hábitos y consultar el estado de los objetivos.
 
 <img src="assets/images/progress-uml.png">
 
