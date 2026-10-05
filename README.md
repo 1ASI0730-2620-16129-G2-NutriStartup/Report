@@ -1278,6 +1278,8 @@ A continuación, presentaremos la estructura interna de los componentes que conf
 
 ## 4.8. Database Design
 
+A continuación, presentaremos el diseño de las bases de datos que respaldan las principales funcionalidades de nuestro sistema. Para ello, se mostrarán los Database Diagrams correspondientes a cada bounded context, representando la organización de las entidades, sus atributos y las relaciones que existen entre ellas. Estos diagramas permiten visualizar cómo se estructura y distribuye la información dentro de cada contexto, manteniendo una separación clara de responsabilidades y facilitando la comprensión de la persistencia de datos del sistema.
+
 ### 4.8.1. Database Diagrams
 
 # Capítulo V: Product Implementation
