@@ -84,6 +84,7 @@
 | 20.0    | 02/10/2026  | Alejandro Franklin Mendoza Vergara        | Se añadió el Big Picture EventStorming.                                                                                                                                                              |
 | 21.0    | 03/10/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se añadío los Design-Level EventStorming.                                                                                                                                                            |
 | 22.0    | 03/10/2026  | Gabriel Alejandro Vilchez Vite            | Se anadió la sección de Class Diagramams.                                                                                                                                                            |
+| 23.0    | 05/10/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de Database Design.                                                                                                                                                             |
 
 ## Contenido
 
