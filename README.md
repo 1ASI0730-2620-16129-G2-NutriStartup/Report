@@ -49,7 +49,7 @@
       </tr>
       <tr>
         <td align="center" >U202312343</td>
-        <td align="center" >Alejandro Franklin, Mendoza Vergara</td>
+        <td align="center" >Alejandro Franklin Mendoza Vergara</td>
       </tr>
     </tbody>
   </table>
@@ -1532,6 +1532,8 @@ Esto permite establecer responsabilidades claras y facilitar la coordinación y 
 | Mendoza Vergara, Alejandro Franklin     | AlexBoo578          | L                                                    | L                                                 | C                                                            | C                                                        |
 
 #### 5.2.1.3. Sprint Backlog 1
+
+En esta sección se presenta el **Sprint Backlog 1 de NutriApp Integral**, elaborado a partir del objetivo establecido para el primer sprint: implementar las funcionalidades básicas de registro, autenticación y configuración inicial del perfil del usuario. El Sprint Backlog incluye las **User Stories US-06, US-07, US-08 y US-10**, junto con los respectivos Work-items o Tasks derivados de su descomposición, permitiendo organizar las actividades necesarias para completar las funcionalidades comprometidas durante el sprint. Asimismo, se presenta el Board utilizado para gestionar el trabajo del Sprint 1 y su correspondiente URL pública.
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
