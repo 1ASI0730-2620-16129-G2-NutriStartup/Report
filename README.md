@@ -1517,6 +1517,20 @@ A continuación, presentaremos los principales aspectos considerados durante el 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** correspondiente al Sprint 1 de NutriApp Integral, con el propósito de identificar los líderes y colaboradores responsables de los principales aspectos comprendidos dentro del alcance del sprint.
+
+Los aspectos considerados para este sprint son: Registro de Usuario, Inicio de Sesión, Gestión del Perfil Personal y Definición de Objetivos.
+
+Esto permite establecer responsabilidades claras y facilitar la coordinación y comunicación entre los integrantes del equipo durante el desarrollo de las User Stories seleccionadas (US-06, US-07, US-08, US-10).
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | Registro de Usuario<br>Leader (L) / Collaborator (C) | Inicio de Sesión<br>Leader (L) / Collaborator (C) | Gestión del Perfil<br>Personal Leader (L) / Collaborator (C) | Definición de Objetivos<br>Leader (L) / Collaborator (C) |
+|-----------------------------------------|---------------------|------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------|
+| Alcantara Baldeon, Poly Gabriel         | GAALBA02            | C                                                    | C                                                 | C                                                            | C                                                        |
+| Portal Inga, Waldo Alonso               | apiw-07             | C                                                    | C                                                 | L                                                            | C                                                        |
+| Ángel Trejo Espejo, Giordano Sebastian  | giorgiorgiorgior    | C                                                    | C                                                 | C                                                            | L                                                        |
+| Vilchez Vite, Gabriel Alejandro         | GZ-99               | C                                                    | C                                                 | C                                                            | C                                                        |
+| Mendoza Vergara, Alejandro Franklin     | AlexBoo578          | L                                                    | L                                                 | C                                                            | C                                                        |
+
 #### 5.2.1.3. Sprint Backlog 1
 
 #### 5.2.1.4. Development Evidence for Sprint Review
