@@ -1274,15 +1274,17 @@ El Design-Level EventStorming de **NutriApp Integral** permite representar los c
 > **Motivo:** Las reglas de reserva y atención deben representarse mediante un tablero visual.  
 > **Imagen requerida:** Publicación de horarios, reserva, confirmación, reprogramación, cancelación, atención y seguimiento.
 
-- **4.6.2. Software Architecture Context Diagram**
-- **4.6.3. Software Architecture Container Diagrams**
-- **4.6.4. Software Architecture Components Diagrams**
-
 ### 4.6.2. Software Architecture Context Diagram
+
+  ![Context Diagram](assets/images/d_context.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+  ![Container Diagram](assets/images/d_containers.png)
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+  ![Container Diagram](assets/images/d_components.png)
 
 ## 4.7. Software Object-Oriented Design
 
