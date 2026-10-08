@@ -199,7 +199,7 @@ Ser una solución referente en el cuidado de la salud física ,promoviendo estil
 
 | Nombre y descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Foto                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
+| **Giordano Sebastian Trejo Espejo - U202316162** <br> Soy un estudiante de Ingeniería de software interesado en aprender más sobre bases de datos SQL y NoSQL, tengo experiencia en desarrollo de software con C++ y Python, actualmente tengo 21 años y espero aprender y mejorar mis habilidades.                                                                                                                                                                                           | <img src="assets/images/GiordanoTrejo.jpeg" heigh="500" width="400">      |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
 | **Waldo Alonso Portal Inga - U202412447** <br> Soy estudiante de la carrera de Ingeniería de Software. Me considero una persona capaz, responsable y comprometida con mis objetivos académicos y personales. Siempre estoy motivado por los desafíos y busco siempre aportar valor en los equipos de trabajo en los que participo. Manejo la programación en C++ y Java, cuento con experiencia en la edición de video y/o imágenes                                                 | <img src="assets/images/waldo_foto.jpg" heigh="500" width="400">      |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
@@ -207,7 +207,7 @@ Ser una solución referente en el cuidado de la salud física ,promoviendo estil
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
 | **Alejandro Franklin Mendoza Vergara - U202312343** <br>   Mi nombre es Alejandro Mendoza y soy estudiante de la carrera de Ingeniería de Software. Actualmente tengo experiencia en C++ y Python. Estoy interesado en seguir aprendiendo sobre diferentes lenguajes de programación y en la creación de distintas aplicaciones web y móviles, por lo que intento dar todo de mí para tener buenos resultados.                                                                      | <img src="assets/images/alejandro_foto.jpeg" heigh="500" width="400"> |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
-| **Poly Gabriel Alcantara baldeon - u202418250** <br/>  Soy estudiante de la carrera de Ingeniería de Software. Me considero un profesional en formación, orientado al aprendizaje continuo y a la construcción de sistemas eficientes y seguros. Cuento con bases sólidas en lenguajes de programación como C#, Java y Python. Mi enfoque se centra en crear y proteger, buscando desarrollar soluciones funcionales con especial interés en la seguridad e integridad del código.  | <img src="assets/images/poly_foto.jpeg" heigh="500" width="400">      |
+| **Poly Gabriel Alcantara baldeon - u202418250** <br/>  Soy estudiante de la carrera de Ingeniería de Software. Me considero un profesional en formación, orientado al aprendizaje continuo y a la construcción de sistemas eficientes y seguros. Cuento con bases sólidas en lenguajes de programación como C#, Java y Python. Mi enfoque se centra en crear y proteger, buscando desarrollar soluciones funcionales con especial interés en la seguridad e integridad del código.  | <img src="assets/images/Poly - foto.jpeg" heigh="500" width="400">    |                                                                      |                                                                       |
 
 ## 1.2 Solution Profile
 
@@ -918,19 +918,92 @@ Se definen las siguientes técnicas de navegación para guiar a los usuarios a t
 
 ## 4.3. Landing Page UI Design
 
+Ahora se presentará la propuesta de diseño de interfaz de usuario UI para el Landing Page de NutriApp. Esta propuesta reflejan las decisiones de Information Architecture y Style Guidelines que anteriormente se definieron. Este diseño tiene como objetivo comunicar nuestra propuesta de valor tanto a las personas que buscan reducir su peso como a los nutricionistas, guiándolos hacia los Call to Action para que se registren o interactúen con la plataforma.
+
+Se ha decidió un diseño limpio, accesible y centrado en el usuario, garantizando que la estructura visual facilite la lectura de información y se genere confianza con nuestros servicios.
+
+[Enlace del Figma](https://www.figma.com/design/FiooxTSiD1Qo51M1spWB3b/Untitled?node-id=0-1&t=KkhtUXG3jjruWljb-1)
+
 ### 4.3.1. Landing Page Wireframe
+
+Se presentan los wireframes elaborados para el Landing Page para navegadores de escritorio y para dispositivos móviles, asegurando el enfoque en diseño responsivo e inclusivo.
+
+**Wireframe para Desktop:**
+Se presenta la información mediante una jerarquía visual clara.
+*   Header: Permite el acceso rápido a las páginas principales identificadas en la arquitectura: Beneficios, Funciones, Progreso, Nosotros, Contacto. 
+*   Hero Section: Presenta el mensaje principal de VitaControl junto con un botón de llamada a la acción para captar la atención del visitante.
+*   Secciones de Contenido: Se distribuyen en bloques horizontales (como la sección de "Funciones" y "Contacto"), utilizando contenedores amplios para facilitar la lectura.
+*   Footer: Contiene los enlaces a los términos y condiciones, así como la información de contacto.
+
+![Landing Page Wireframe - Desktop](assets/images/wireframe-desktop-home.png)
+
+![Landing Page Wireframe - Desktop](assets/images/wireframe-desktop-funcional.png)
+
+**Wireframe para Mobile:**
+Se ha aplicado el principio de accesibilidad y diseño inclusivo.
+*   Navegación Colapsable: El menú superior se transforma en un icono de hamburguesa.
+*   Distribución Vertical: Las secciones informativas sobre alimentación y rutinas se apilan verticalmente. Los textos se han modificado de tamaño para mantener su legibilidad sin necesidad de hacer zoom.
+*   Botones Táctiles: Los Call to Action tienen un tamaño mínimo adecuado para ser presionados fácilmente, facilitando la conversión de los usuarios desde sus celulares.
+
+![Landing Page Wireframe - Mobile](assets/images/wireframe-mobile-home.png)
+
+![Landing Page Wireframe - Mobile](assets/images/wireframe-mobile-funcional.png)
 
 ### 4.3.2. Landing Page Mock-up
 
+Se presentan los Mock-ups del Landing Page de NutriApp, en su versión de escritorio y para dispositivos móviles.
+
+**Aplicación de Principios de Diseño y Arquitectura:**
+*   Identidad Visual y Style Guidelines: Se han reemplazado los bloques grises por imágenes representativas de hábitos saludables y se ha aplicado la paleta de colores de VitaControl.
+*   Arquitectura de la Información: Se mantiene la estructura navegable del Header.
+*   Diseño Inclusivo y Accesibilidad: Se ha garantizado un alto contraste entre los textos y los fondos para facilitar la legibilidad. Asimismo, el botón Call to Action destaca visualmente sobre el resto de elementos y cuenta con un tamaño óptimo para la interacción táctil en la versión móvil.
+*   Adaptabilidad: Las tarjetas de la sección Nuestros Servicios, que en Desktop se muestran en una cuadrícula horizontal, se apilan verticalmente en la vista Mobile, respetando la jerarquía visual.
+
+![Landing Page Mock-up - Desktop](assets/images/mockup-desktop-1.png)
+![Landing Page Mock-up - Desktop](assets/images/mockup-desktop-2.png)
+
+![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-1.png)
+![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-2.png)
+
 ## 4.4. Web Applications UX/UI Design
+
+El diseño de la Web Application está enfocado en la usabilidad diaria, la retención y el cumplimiento de tareas específicas para nuestros dos segmentos objetivo. 
 
 ### 4.4.1. Web Applications Wireframes
 
+Se evidencia la aplicación de principios de diseño inclusivo y una arquitectura de la información pensada en la comodidad de cada tipo de usuario.
+
+**Wireframes para el Segmento 1:**
+Dado que el usuario común registrará sus comidas, verificará sus rutinas diarias y monitoreará su peso desde su celular en diversos momentos del día, la experiencia para este segmento se ha diseñado bajo un enfoque móvil.
+*   Dashboard Diario: Un panel principal que muestra el resumen del día. Incluye contenedores para gráficos y un listado de las comidas sugeridas.
+*   Vista de Progreso: Se muestra un gráfico de líneas para mostrar la tendencia de pérdida de peso en el tiempo, una funcionalidad clave descubierta en las entrevistas para evitar que el usuario abandone el proceso.
+
+**Wireframes para el Segmento 2:**
+Los nutricionistas utilizarán la plataforma como una herramienta de trabajo, por lo que su interfaz prioriza Desktop para procesar mayor cantidad de información.
+*   Dashboard Profesional: Incluye un menú lateral izquierdo y un área central con una tabla de datos donde figuran todos los pacientes activos.
+*   Detalle del Paciente: Un esquema estructurado en pestañas que le permite al nutricionista revisar el historial de la persona, editar su plan de alimentación y revisar las estadísticas que calcula la aplicación.
+
+![Web App Wireframes - Usuario Mobile](assets/images/wireframe-webapp-mobile.png)
+![Web App Wireframes - Nutricionista Desktop - Dashboard](assets/images/wireframe-webapp-desktop-dashboard.png)
+![Web App Wireframes - Nutricionista Desktop - Paciente](assets/images/wireframe-webapp-desktop-paciente.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+**Segmento 1:**
+
+![Wireflow Diagram - Segmento 1](assets/images/wireflow-diagram-seg1.png)
+
+**Segmento 2:**
+
+![Wireflow Diagram - Segmento 1](assets/images/wireflow-diagram-seg2.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
+![Web App Mockup Mobile](assets/images/mockup-webapp-mobile.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+![Web App UserFlow 1](assets/images/userflow-diagram-1.png)
 
 ## 4.5. Web Applications Prototyping
 
