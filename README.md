@@ -1702,6 +1702,25 @@ A continuación, presentaremos los principales aspectos considerados durante el 
 | **Sprint 2 Velocity**                 | 13 Story Points                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Sum of Story Points for Sprint 2**  | 13 Story Points                                                                                                                                                                                                                                                                                                                                                                                  |
 
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) correspondiente al Sprint 2 de NutriApp Integral, con el propósito de identificar a los líderes y colaboradores responsables de los principales aspectos comprendidos dentro del alcance del sprint.
+
+Los aspectos considerados para este sprint son: Registro de Usuario, Inicio de Sesión, Gestión del Perfil Personal y Definición de Objetivos, los cuales se relacionan principalmente con los bounded contexts de Identity and Access Management y User Profile Management.
+
+Esta matriz permite establecer responsabilidades claras y facilitar la coordinación y comunicación entre los integrantes del equipo durante el desarrollo de las User Stories seleccionadas (US-06, US-07, US-08 y US-10).
+
+| **Team Member (Last Name, First Name)**  | **GitHub Username**   | Identity & Access (Login/Register) | User Profile Management (Profile) | Nutrition Plan Management (Nutrition Plans) | Progress Monitoring (Progress Tracking) | Appointment Management (Appointments) |
+|------------------------------------------|-----------------------|------------------------------------|-----------------------------------|---------------------------------------------|-----------------------------------------|---------------------------------------|
+| Alcantara Baldeon, Poly Gabriel          | GAALBA02              | L                                  | C                                 | C                                           | L                                       | C                                     |
+| Portal Inga, Waldo Alonso                | apiw-07               | C                                  | C                                 | C                                           | C                                       | C                                     |
+| Ángel Trejo Espejo, Giordano Sebastian   | giorgiorgiorgior      | C                                  | L                                 | C                                           | C                                       | C                                     |
+| Vilchez Vite, Gabriel Alejandro          | GZ-99                 | C                                  | C                                 | L                                           | C                                       | C                                     |
+| Mendoza Vergara, Alejandro Franklin      | AlexBoo578            | C                                  | C                                 | C                                           | C                                       | L                                     |
+
+**Leyenda:** L = Leader (líder responsable del aspecto); C = Collaborator (colaborador).
+
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
