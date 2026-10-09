@@ -1737,6 +1737,22 @@ Esta matriz permite establecer responsabilidades claras y facilitar la coordinac
 
 # Conclusiones
 
+1. **El problema es real y va más allá de la información.** Las entrevistas mostraron que las personas que quieren bajar de peso no fallan por falta de conocimiento, sino por la dificultad de mantener la constancia. La falta de tiempo, los cambios de horario y la desmotivación por no ver resultados rápidos son las razones por las que abandonan sus dietas y rutinas. Esto confirmó que NutriApp Integral debe enfocarse en acompañar al usuario día a día, y no solo en darle planes.
+
+2. **Los nutricionistas también necesitan una herramienta.** Los profesionales entrevistados coinciden en que organizar la información de sus pacientes es complicado, ya que hoy la tienen repartida entre WhatsApp, hojas de cálculo y documentos. Además, notan que muchos pacientes dejan de registrar sus avances después de las primeras semanas. Esto demuestra que el proyecto responde a una necesidad concreta de ambos lados, y no solo del usuario final.
+
+3. **Tenemos una oportunidad clara frente a la competencia.** MyFitnessPal, Lifesum y Noom son aplicaciones conocidas, pero ninguna conecta al usuario con un nutricionista real dentro de la misma plataforma. Esa unión entre recomendaciones inteligentes y acompañamiento profesional es lo que puede diferenciar a NutriApp Integral en el mercado.
+
+4. **La inteligencia artificial debe apoyar, no reemplazar.** Tanto usuarios como nutricionistas valoraron las recomendaciones personalizadas, pero una de las profesionales dejó claro que la tecnología no debe sustituir el criterio del especialista. Por eso, el proyecto plantea que las sugerencias de la IA sean una ayuda sujeta a revisión profesional, lo que da más confianza a la plataforma.
+
+5. **Escuchar a los usuarios orientó el diseño.** Las entrevistas, los User Personas, los mapas de recorrido y de empatía permitieron entender qué espera cada segmento. De ahí surgieron decisiones concretas, como pensar la experiencia del usuario principalmente para el celular, y la del nutricionista para computadora, y mostrar gráficos de progreso para mantener la motivación.
+
+6. **Una interfaz clara y sencilla es parte de la solución.** Algunos entrevistados tienen poca experiencia con la tecnología, por lo que se cuidó que el diseño fuera fácil de leer, con etiquetas simples, buen contraste y menús consistentes. Esto ayuda a que más personas puedan usar la plataforma sin dificultad desde el primer día.
+
+7. **Dividir el sistema en partes ordenadas facilita el trabajo.** El proyecto se organizó en cinco áreas: acceso de usuarios, perfiles, planes nutricionales, seguimiento del progreso y citas. Esta separación permite que cada integrante se concentre en una parte sin entorpecer a los demás, y hace que el producto pueda crecer de manera ordenada.
+
+8. **El trabajo en equipo fue clave para avanzar.** Cada integrante asumió responsabilidades distintas, se ayudó con las dudas de los demás y siguió un flujo de trabajo común para ordenar los cambios. Gracias a esta colaboración se pudo completar la parte de investigación, requisitos y diseño, que deja una base sólida para la etapa de desarrollo.
+
 ## Conclusiones y recomendaciones
 
 ## Video About-the-Team
