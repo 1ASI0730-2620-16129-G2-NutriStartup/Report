@@ -1808,11 +1808,36 @@ En esta sección se presenta el **Sprint Backlog 2 de NutriApp Integral**, elabo
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-#### 5.2.2.5. 
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
-#### 5.2.2.6. 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-#### 5.2.2.7. 
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+![Landing Page 1](assets/images/lpf-1.jpg)
+
+![Landing Page 2](assets/images/lpf-2.jpg)
+
+![Landing Page 3](assets/images/lpf-3.jpg)
+
+![Landing Page 4](assets/images/lpf-4.jpg)
+
+![Landing Page 5](assets/images/lpf-5.jpg)
+
+![Front End 1](assets/images/fren-1.jpg)
+
+![Front End 2](assets/images/fren-2.jpg)
+
+![Front End 3](assets/images/fren-3.jpg)
+
+![Front End 4](assets/images/fren-4.jpg)
+
+![Front End 5](assets/images/fren-5.jpg)
+
+![Front End 6](assets/images/fren-6.jpg)
+
+![Front End 7](assets/images/fren-7.jpg)
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -1836,8 +1861,6 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 
 8. **El trabajo en equipo fue clave para avanzar.** Cada integrante asumió responsabilidades distintas, se ayudó con las dudas de los demás y siguió un flujo de trabajo común para ordenar los cambios. Gracias a esta colaboración se pudo completar la parte de investigación, requisitos y diseño, que deja una base sólida para la etapa de desarrollo.
 
-## Conclusiones y recomendaciones
-
 ## Video About-the-Team
 
 # Bibliografía
@@ -1856,8 +1879,8 @@ Aplicación Frontend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Fro
 
 **Anexo Evidencias de desliegue**
 
-URL de Landing Page: 
+URL de Landing Page: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/LandingPage
 
-URL del Frontend:
+URL del Frontend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
 
 </div>
