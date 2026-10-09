@@ -1877,10 +1877,4 @@ Landign Page: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Ap
 
 Aplicación Frontend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
 
-**Anexo Evidencias de desliegue**
-
-URL de Landing Page: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/LandingPage
-
-URL del Frontend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
-
 </div>
