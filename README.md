@@ -1657,7 +1657,7 @@ A continuación se presentan capturas de las principales vistas implementadas:
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-Durante el Sprint 1, el alcance del equipo se limitó exclusivamente a la implementación de la Landing Page estática de VitalTrek, desarrollada con HTML, CSS y JavaScript vanilla. En esta iteración no se implementaron Web Services ni endpoints de API REST, por lo que no aplica documentación de servicios con OpenAPI para este sprint.
+Durante el Sprint 1, el alcance del equipo se limitó exclusivamente a la implementación de la Landing Page estática de NutriApp, desarrollada con HTML, CSS y JavaScript. En esta iteración no se implementaron Web Services ni endpoints de API REST, por lo que no aplica documentación de servicios con OpenAPI para este sprint.
 
 La implementación de endpoints y su documentación corresponderá a sprints posteriores, una vez que el equipo avance hacia el desarrollo de la Web Application y el Web Service de la plataforma.
 
@@ -1675,9 +1675,12 @@ Durante el Sprint 1, el equipo Conecta utilizó GitHub como plataforma central d
 * Los mensajes de commit siguieron el estándar Conventional Commits (`feat:`, `fix:`, `docs:`, `style:`, etc.), garantizando trazabilidad por funcionalidad.
 * Al finalizar el sprint, develop fue fusionada a main para el despliegue en GitHub Pages.
 
-<img src="assets/images/contributors1.png">
 
-<img src="assets/images/colaborators1.png">
+![Contribuidores sprint 1](assets/images/contributors1.png)
+
+
+![Colaboradores sprint 1](assets/images/colaborators1.png)
+
 
 ### 5.2.2. Sprint 2
 
@@ -1720,6 +1723,17 @@ Esta matriz permite establecer responsabilidades claras y facilitar la coordinac
 
 **Leyenda:** L = Leader (líder responsable del aspecto); C = Collaborator (colaborador).
 
+#### 5.2.2.3. Sprint Backlog 2
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+#### 5.2.2.5. 
+
+#### 5.2.2.6. 
+
+#### 5.2.2.7. 
+
+#### 5.2.2.8. 
 
 # Conclusiones
 
