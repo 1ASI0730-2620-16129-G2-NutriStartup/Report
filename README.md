@@ -1846,4 +1846,28 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 
 # Anexos
 
+Anexo A. Videos de Exposiciones
+
+Exposición AV1: 
+
+Exposición TB1: 
+
+Anexo B. Repositorios del proyecto
+
+Reporte del Proyecto: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Report
+
+Landign Page: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
+
+Aplicación Frontend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
+
+Anexo C. Evidencias de desarrollo y colaboración
+
+
+
+Anexo D. Evidencias de desliegue
+
+URL de Landing Page: 
+
+URL del Frontend:
+
 </div>
