@@ -1735,76 +1735,76 @@ En esta sección se presenta el **Sprint Backlog 2 de NutriApp Integral**, elabo
 
 **User Stories del Sprint 2**
 
-| # | User Story ID | User Story Title | Bounded Context | Story Points |
-|---|---------------|------------------|-----------------|-------------:|
-| 1 | US-06 | Registro de usuario | Identity and Access Management | 3 |
-| 2 | US-07 | Inicio de sesión | Identity and Access Management | 2 |
-| 3 | US-08 | Gestión del perfil personal | User Profile Management | 5 |
-| 4 | US-10 | Definición de objetivos | User Profile Management | 3 |
-| 5 | US-09 | Registro de hábitos | Progress Monitoring | 5 |
-| 6 | US-13 | Registro de alimentación | Progress Monitoring | 3 |
-| 7 | US-14 | Registro de actividad física | Progress Monitoring | 3 |
-| 8 | US-11 | Consulta del progreso | Progress Monitoring | 5 |
-| 9 | US-15 | Recomendaciones de alimentación | Nutrition Plan Management | 5 |
-| 10 | US-16 | Recomendaciones de ejercicio | Nutrition Plan Management | 5 |
-| 11 | US-21 | Elaboración de plan nutricional | Nutrition Plan Management | 8 |
-| 12 | US-23 | Reserva de consulta digital | Appointment Management | 8 |
-| 13 | US-24 | Registro de consulta digital | Appointment Management | 5 |
+| #   | User Story ID | User Story Title                | Bounded Context                | Story Points |
+|-----|---------------|---------------------------------|--------------------------------|-------------:|
+| 1   | US-06         | Registro de usuario             | Identity and Access Management |            3 |
+| 2   | US-07         | Inicio de sesión                | Identity and Access Management |            2 |
+| 3   | US-08         | Gestión del perfil personal     | User Profile Management        |            5 |
+| 4   | US-10         | Definición de objetivos         | User Profile Management        |            3 |
+| 5   | US-09         | Registro de hábitos             | Progress Monitoring            |            5 |
+| 6   | US-13         | Registro de alimentación        | Progress Monitoring            |            3 |
+| 7   | US-14         | Registro de actividad física    | Progress Monitoring            |            3 |
+| 8   | US-11         | Consulta del progreso           | Progress Monitoring            |            5 |
+| 9   | US-15         | Recomendaciones de alimentación | Nutrition Plan Management      |            5 |
+| 10  | US-16         | Recomendaciones de ejercicio    | Nutrition Plan Management      |            5 |
+| 11  | US-21         | Elaboración de plan nutricional | Nutrition Plan Management      |            8 |
+| 12  | US-23         | Reserva de consulta digital     | Appointment Management         |            8 |
+| 13  | US-24         | Registro de consulta digital    | Appointment Management         |           5  |
 
 **Work-items / Tasks**
 
-| User Story ID | User Story Title | Work-Item / Task ID | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
-|---------------|------------------|---------------------|------------------------|-------------|-------------------:|-------------|--------|
-| US-06 | Registro de usuario | T01 | Diseñar formulario de registro | Diseñar la interfaz para que los visitantes puedan crear una cuenta en NutriApp Integral. | 3 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-06 | Registro de usuario | T02 | Implementar registro y validaciones | Desarrollar el registro de la cuenta y validar que los datos ingresados sean correctos. | 5 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-06 | Registro de usuario | T03 | Probar registro de usuario | Verificar que el registro funcione y que se rechacen los datos inválidos. | 2 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-07 | Inicio de sesión | T04 | Diseñar formulario de inicio de sesión | Diseñar la interfaz para que los usuarios ingresen sus credenciales. | 2 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-07 | Inicio de sesión | T05 | Implementar autenticación | Validar las credenciales y permitir el acceso a la plataforma cuando sean correctas. | 4 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-07 | Inicio de sesión | T06 | Probar inicio de sesión | Verificar el acceso con credenciales válidas y el rechazo de las incorrectas. | 1 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-08 | Gestión del perfil personal | T07 | Diseñar interfaz del perfil | Diseñar la interfaz para visualizar y editar la información personal y las preferencias. | 3 | Ángel Trejo Espejo, Giordano Sebastian | To Do |
-| US-08 | Gestión del perfil personal | T08 | Gestionar datos y preferencias | Implementar el registro y la actualización de los datos personales y preferencias del usuario. | 6 | Ángel Trejo Espejo, Giordano Sebastian | To Do |
-| US-08 | Gestión del perfil personal | T09 | Probar gestión del perfil | Verificar que la información se guarde y se actualice correctamente. | 2 | Ángel Trejo Espejo, Giordano Sebastian | To Do |
-| US-10 | Definición de objetivos | T10 | Diseñar interfaz de objetivos | Diseñar la interfaz para establecer objetivos de alimentación y actividad física. | 2 | Ángel Trejo Espejo, Giordano Sebastian | To Do |
-| US-10 | Definición de objetivos | T11 | Registrar y validar objetivos | Implementar el registro, la validación y el almacenamiento de los objetivos del usuario. | 4 | Ángel Trejo Espejo, Giordano Sebastian | To Do |
-| US-10 | Definición de objetivos | T12 | Probar definición de objetivos | Verificar que los objetivos puedan registrarse y consultarse correctamente. | 1 | Ángel Trejo Espejo, Giordano Sebastian | To Do |
-| US-09 | Registro de hábitos | T13 | Diseñar interfaz de hábitos | Diseñar la interfaz para registrar los hábitos de alimentación y actividad física. | 3 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-09 | Registro de hábitos | T14 | Implementar registro de hábitos | Desarrollar el registro y la consulta de hábitos por periodo. | 5 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-09 | Registro de hábitos | T15 | Probar registro de hábitos | Verificar que los hábitos se almacenen y consulten correctamente. | 2 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-13 | Registro de alimentación | T16 | Diseñar interfaz de alimentación | Diseñar el formulario y la lista de alimentos consumidos. | 2 | Portal Inga, Waldo Alonso | To Do |
-| US-13 | Registro de alimentación | T17 | Implementar registro de alimentación | Desarrollar el registro y la consulta de alimentos por periodo, con validación de datos. | 4 | Portal Inga, Waldo Alonso | To Do |
-| US-13 | Registro de alimentación | T18 | Probar registro de alimentación | Verificar el registro correcto y el rechazo de datos incompletos. | 1 | Portal Inga, Waldo Alonso | To Do |
-| US-14 | Registro de actividad física | T19 | Diseñar interfaz de actividad física | Diseñar el formulario y la lista de actividades realizadas. | 2 | Portal Inga, Waldo Alonso | To Do |
-| US-14 | Registro de actividad física | T20 | Implementar registro de actividad física | Desarrollar el registro y la consulta de actividades por periodo, con validación de datos. | 4 | Portal Inga, Waldo Alonso | To Do |
-| US-14 | Registro de actividad física | T21 | Probar registro de actividad física | Verificar el registro correcto y el rechazo de datos incompletos. | 1 | Portal Inga, Waldo Alonso | To Do |
-| US-11 | Consulta del progreso | T22 | Diseñar vista de progreso | Diseñar la interfaz con los gráficos de evolución respecto a los objetivos. | 3 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-11 | Consulta del progreso | T23 | Implementar consulta del progreso | Mostrar el progreso a partir de los registros disponibles e informar cuando no haya datos suficientes. | 5 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-11 | Consulta del progreso | T24 | Probar consulta del progreso | Verificar los gráficos y el mensaje cuando no existan datos suficientes. | 2 | Alcantara Baldeon, Poly Gabriel | To Do |
-| US-15 | Recomendaciones de alimentación | T25 | Diseñar vista de recomendaciones alimenticias | Diseñar la interfaz que muestra las recomendaciones de alimentación personalizadas. | 2 | Vilchez Vite, Gabriel Alejandro | To Do |
-| US-15 | Recomendaciones de alimentación | T26 | Implementar recomendaciones alimenticias | Generar y mostrar recomendaciones según el perfil y los objetivos del usuario. | 5 | Vilchez Vite, Gabriel Alejandro | To Do |
-| US-15 | Recomendaciones de alimentación | T27 | Probar recomendaciones alimenticias | Verificar que las recomendaciones consideren la información actualizada del usuario. | 2 | Vilchez Vite, Gabriel Alejandro | To Do |
-| US-16 | Recomendaciones de ejercicio | T28 | Diseñar vista de recomendaciones de ejercicio | Diseñar la interfaz que muestra las recomendaciones de actividad física. | 2 | Portal Inga, Waldo Alonso | To Do |
-| US-16 | Recomendaciones de ejercicio | T29 | Implementar recomendaciones de ejercicio | Generar y mostrar recomendaciones según el perfil y los objetivos del usuario. | 5 | Portal Inga, Waldo Alonso | To Do |
-| US-16 | Recomendaciones de ejercicio | T30 | Probar recomendaciones de ejercicio | Verificar que las recomendaciones se actualicen cuando cambien los objetivos. | 2 | Portal Inga, Waldo Alonso | To Do |
-| US-21 | Elaboración de plan nutricional | T31 | Diseñar interfaz del plan nutricional | Diseñar la interfaz para que el nutricionista cree y edite planes para sus pacientes. | 3 | Vilchez Vite, Gabriel Alejandro | To Do |
-| US-21 | Elaboración de plan nutricional | T32 | Implementar creación y edición del plan | Desarrollar el registro y la modificación de planes, validando la información requerida. | 8 | Vilchez Vite, Gabriel Alejandro | To Do |
-| US-21 | Elaboración de plan nutricional | T33 | Probar elaboración del plan | Verificar el registro correcto del plan y el rechazo de planes incompletos. | 3 | Vilchez Vite, Gabriel Alejandro | To Do |
-| US-23 | Reserva de consulta digital | T34 | Diseñar vistas de disponibilidad y reserva | Diseñar la lista de horarios disponibles, el formulario de reserva y la lista de citas. | 3 | Mendoza Vergara, Alejandro Franklin | To Do |
-| US-23 | Reserva de consulta digital | T35 | Implementar gestión de citas | Desarrollar la consulta de disponibilidad, la reserva de citas, y su cancelación y eliminación. | 8 | Mendoza Vergara, Alejandro Franklin | To Do |
-| US-23 | Reserva de consulta digital | T36 | Probar reserva de citas | Verificar la reserva, la cancelación y la eliminación de citas, y el manejo de errores. | 3 | Mendoza Vergara, Alejandro Franklin | To Do |
-| US-24 | Registro de consulta digital | T37 | Diseñar formulario de consulta | Diseñar la interfaz para registrar las notas y recomendaciones de una consulta. | 2 | Mendoza Vergara, Alejandro Franklin | To Do |
-| US-24 | Registro de consulta digital | T38 | Implementar registro de consulta | Desarrollar el registro de la consulta asociada a una cita, con validación de datos. | 4 | Mendoza Vergara, Alejandro Franklin | To Do |
-| US-24 | Registro de consulta digital | T39 | Probar registro de consulta | Verificar que la consulta se almacene y que se rechacen los datos incompletos. | 2 | Mendoza Vergara, Alejandro Franklin | To Do |
+| User Story ID | User Story Title                | Work-Item / Task ID  | Work-Item / Task Title                        | Description                                                                                             | Estimation (Hours) | Assigned To                            | Status |
+|---------------|---------------------------------|----------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------:|----------------------------------------|--------|
+| US-06         | Registro de usuario             | T01                  | Diseñar formulario de registro                | Diseñar la interfaz para que los visitantes puedan crear una cuenta en NutriApp Integral.               |                  3 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-06         | Registro de usuario             | T02                  | Implementar registro y validaciones           | Desarrollar el registro de la cuenta y validar que los datos ingresados sean correctos.                 |                  5 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-06         | Registro de usuario             | T03                  | Probar registro de usuario                    | Verificar que el registro funcione y que se rechacen los datos inválidos.                               |                  2 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-07         | Inicio de sesión                | T04                  | Diseñar formulario de inicio de sesión        | Diseñar la interfaz para que los usuarios ingresen sus credenciales.                                    |                  2 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-07         | Inicio de sesión                | T05                  | Implementar autenticación                     | Validar las credenciales y permitir el acceso a la plataforma cuando sean correctas.                    |                  4 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-07         | Inicio de sesión                | T06                  | Probar inicio de sesión                       | Verificar el acceso con credenciales válidas y el rechazo de las incorrectas.                           |                  1 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-08         | Gestión del perfil personal     | T07                  | Diseñar interfaz del perfil                   | Diseñar la interfaz para visualizar y editar la información personal y las preferencias.                |                  3 | Ángel Trejo Espejo, Giordano Sebastian | To Do  |
+| US-08         | Gestión del perfil personal     | T08                  | Gestionar datos y preferencias                | Implementar el registro y la actualización de los datos personales y preferencias del usuario.          |                  6 | Ángel Trejo Espejo, Giordano Sebastian | To Do  |
+| US-08         | Gestión del perfil personal     | T09                  | Probar gestión del perfil                     | Verificar que la información se guarde y se actualice correctamente.                                    |                  2 | Ángel Trejo Espejo, Giordano Sebastian | To Do  |
+| US-10         | Definición de objetivos         | T10                  | Diseñar interfaz de objetivos                 | Diseñar la interfaz para establecer objetivos de alimentación y actividad física.                       |                  2 | Ángel Trejo Espejo, Giordano Sebastian | To Do  |
+| US-10         | Definición de objetivos         | T11                  | Registrar y validar objetivos                 | Implementar el registro, la validación y el almacenamiento de los objetivos del usuario.                |                  4 | Ángel Trejo Espejo, Giordano Sebastian | To Do  |
+| US-10         | Definición de objetivos         | T12                  | Probar definición de objetivos                | Verificar que los objetivos puedan registrarse y consultarse correctamente.                             |                  1 | Ángel Trejo Espejo, Giordano Sebastian | To Do  |
+| US-09         | Registro de hábitos             | T13                  | Diseñar interfaz de hábitos                   | Diseñar la interfaz para registrar los hábitos de alimentación y actividad física.                      |                  3 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-09         | Registro de hábitos             | T14                  | Implementar registro de hábitos               | Desarrollar el registro y la consulta de hábitos por periodo.                                           |                  5 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-09         | Registro de hábitos             | T15                  | Probar registro de hábitos                    | Verificar que los hábitos se almacenen y consulten correctamente.                                       |                  2 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-13         | Registro de alimentación        | T16                  | Diseñar interfaz de alimentación              | Diseñar el formulario y la lista de alimentos consumidos.                                               |                  2 | Portal Inga, Waldo Alonso              | To Do  |
+| US-13         | Registro de alimentación        | T17                  | Implementar registro de alimentación          | Desarrollar el registro y la consulta de alimentos por periodo, con validación de datos.                |                  4 | Portal Inga, Waldo Alonso              | To Do  |
+| US-13         | Registro de alimentación        | T18                  | Probar registro de alimentación               | Verificar el registro correcto y el rechazo de datos incompletos.                                       |                  1 | Portal Inga, Waldo Alonso              | To Do  |
+| US-14         | Registro de actividad física    | T19                  | Diseñar interfaz de actividad física          | Diseñar el formulario y la lista de actividades realizadas.                                             |                  2 | Portal Inga, Waldo Alonso              | To Do  |
+| US-14         | Registro de actividad física    | T20                  | Implementar registro de actividad física      | Desarrollar el registro y la consulta de actividades por periodo, con validación de datos.              |                  4 | Portal Inga, Waldo Alonso              | To Do  |
+| US-14         | Registro de actividad física    | T21                  | Probar registro de actividad física           | Verificar el registro correcto y el rechazo de datos incompletos.                                       |                  1 | Portal Inga, Waldo Alonso              | To Do  |
+| US-11         | Consulta del progreso           | T22                  | Diseñar vista de progreso                     | Diseñar la interfaz con los gráficos de evolución respecto a los objetivos.                             |                  3 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-11         | Consulta del progreso           | T23                  | Implementar consulta del progreso             | Mostrar el progreso a partir de los registros disponibles e informar cuando no haya datos suficientes.  |                  5 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-11         | Consulta del progreso           | T24                  | Probar consulta del progreso                  | Verificar los gráficos y el mensaje cuando no existan datos suficientes.                                |                  2 | Alcantara Baldeon, Poly Gabriel        | To Do  |
+| US-15         | Recomendaciones de alimentación | T25                  | Diseñar vista de recomendaciones alimenticias | Diseñar la interfaz que muestra las recomendaciones de alimentación personalizadas.                     |                  2 | Vilchez Vite, Gabriel Alejandro        | To Do  |
+| US-15         | Recomendaciones de alimentación | T26                  | Implementar recomendaciones alimenticias      | Generar y mostrar recomendaciones según el perfil y los objetivos del usuario.                          |                  5 | Vilchez Vite, Gabriel Alejandro        | To Do  |
+| US-15         | Recomendaciones de alimentación | T27                  | Probar recomendaciones alimenticias           | Verificar que las recomendaciones consideren la información actualizada del usuario.                    |                  2 | Vilchez Vite, Gabriel Alejandro        | To Do  |
+| US-16         | Recomendaciones de ejercicio    | T28                  | Diseñar vista de recomendaciones de ejercicio | Diseñar la interfaz que muestra las recomendaciones de actividad física.                                |                  2 | Portal Inga, Waldo Alonso              | To Do  |
+| US-16         | Recomendaciones de ejercicio    | T29                  | Implementar recomendaciones de ejercicio      | Generar y mostrar recomendaciones según el perfil y los objetivos del usuario.                          |                  5 | Portal Inga, Waldo Alonso              | To Do  |
+| US-16         | Recomendaciones de ejercicio    | T30                  | Probar recomendaciones de ejercicio           | Verificar que las recomendaciones se actualicen cuando cambien los objetivos.                           |                  2 | Portal Inga, Waldo Alonso              | To Do  |
+| US-21         | Elaboración de plan nutricional | T31                  | Diseñar interfaz del plan nutricional         | Diseñar la interfaz para que el nutricionista cree y edite planes para sus pacientes.                   |                  3 | Vilchez Vite, Gabriel Alejandro        | To Do  |
+| US-21         | Elaboración de plan nutricional | T32                  | Implementar creación y edición del plan       | Desarrollar el registro y la modificación de planes, validando la información requerida.                |                  8 | Vilchez Vite, Gabriel Alejandro        | To Do  |
+| US-21         | Elaboración de plan nutricional | T33                  | Probar elaboración del plan                   | Verificar el registro correcto del plan y el rechazo de planes incompletos.                             |                  3 | Vilchez Vite, Gabriel Alejandro        | To Do  |
+| US-23         | Reserva de consulta digital     | T34                  | Diseñar vistas de disponibilidad y reserva    | Diseñar la lista de horarios disponibles, el formulario de reserva y la lista de citas.                 |                  3 | Mendoza Vergara, Alejandro Franklin    | To Do  |
+| US-23         | Reserva de consulta digital     | T35                  | Implementar gestión de citas                  | Desarrollar la consulta de disponibilidad, la reserva de citas, y su cancelación y eliminación.         |                  8 | Mendoza Vergara, Alejandro Franklin    | To Do  |
+| US-23         | Reserva de consulta digital     | T36                  | Probar reserva de citas                       | Verificar la reserva, la cancelación y la eliminación de citas, y el manejo de errores.                 |                  3 | Mendoza Vergara, Alejandro Franklin    | To Do  |
+| US-24         | Registro de consulta digital    | T37                  | Diseñar formulario de consulta                | Diseñar la interfaz para registrar las notas y recomendaciones de una consulta.                         |                  2 | Mendoza Vergara, Alejandro Franklin    | To Do  |
+| US-24         | Registro de consulta digital    | T38                  | Implementar registro de consulta              | Desarrollar el registro de la consulta asociada a una cita, con validación de datos.                    |                  4 | Mendoza Vergara, Alejandro Franklin    | To Do  |
+| US-24         | Registro de consulta digital    | T39                  | Probar registro de consulta                   | Verificar que la consulta se almacene y que se rechacen los datos incompletos.                          |                  2 | Mendoza Vergara, Alejandro Franklin    | To Do  |
 
 **Resumen del Sprint Backlog 2**
 
-| Aspecto | Detalle |
-|---------|---------|
-| Sprint Goal | Implementar las funcionalidades principales de la plataforma en sus cinco bounded contexts: acceso de usuarios, perfil y objetivos, seguimiento del progreso, recomendaciones y planes nutricionales, y gestión de citas y consultas. |
-| User Stories incluidas | US-06, US-07, US-08, US-09, US-10, US-11, US-13, US-14, US-15, US-16, US-21, US-23 y US-24 |
-| Cantidad de User Stories | 13 |
-| Sum of Story Points | 60 Story Points |
-| Total de Work-items / Tasks | 39 |
-| Estimación total en horas | 123 horas |
+| Aspecto                     | Detalle                                                                                                                                                                                                                               |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Goal                 | Implementar las funcionalidades principales de la plataforma en sus cinco bounded contexts: acceso de usuarios, perfil y objetivos, seguimiento del progreso, recomendaciones y planes nutricionales, y gestión de citas y consultas. |
+| User Stories incluidas      | US-06, US-07, US-08, US-09, US-10, US-11, US-13, US-14, US-15, US-16, US-21, US-23 y US-24                                                                                                                                            |
+| Cantidad de User Stories    | 13                                                                                                                                                                                                                                    |
+| Sum of Story Points         | 60 Story Points                                                                                                                                                                                                                       |
+| Total de Work-items / Tasks | 39                                                                                                                                                                                                                                    |
+| Estimación total en horas   | 123 horas                                                                                                                                                                                                                             |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -1817,8 +1817,6 @@ En esta sección se presenta el **Sprint Backlog 2 de NutriApp Integral**, elabo
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
-
-
 
 # Conclusiones
 
@@ -1844,15 +1842,11 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 
 # Bibliografía
 
+
+
 # Anexos
 
-Anexo A. Videos de Exposiciones
-
-Exposición AV1: 
-
-Exposición TB1: 
-
-Anexo B. Repositorios del proyecto
+**Anexo Repositorios del proyecto**
 
 Reporte del Proyecto: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Report
 
@@ -1860,11 +1854,7 @@ Landign Page: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Ap
 
 Aplicación Frontend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
 
-Anexo C. Evidencias de desarrollo y colaboración
-
-
-
-Anexo D. Evidencias de desliegue
+**Anexo Evidencias de desliegue**
 
 URL de Landing Page: 
 
