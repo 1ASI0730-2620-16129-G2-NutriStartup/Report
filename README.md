@@ -86,6 +86,12 @@
 | 22.0    | 03/10/2026  | Gabriel Alejandro Vilchez Vite            | Se anadió la sección de Class Diagramams.                                                                                                                                                            |
 | 23.0    | 05/10/2026  | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de Database Design.                                                                                                                                                             |
 | 24.0    | 05/10/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se añadió el User Journey Mapping y se actualizó los Empathy Mapping.                                                                                                                                |
+| 25.0    | 06/10/2026  | Gabriel Alejandro Vilchez Vite            | Se añadio la sección del Sprint 1                                                                                                                                                                    |
+| 26.0    | 07/10/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se actualizó el Big Picture Event Storming y se añadió los C4 diagrams.                                                                                                                              |
+| 27.0    | 08/10/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se añadió la Landing Page UI Design y los Web Applications UX/UI Design.                                                                                                                             |
+| 28.0    | 08/10/2026  | Gabriel Alejandro Vilchez Vite            | Se empezo con el Sprint.                                                                                                                                                                             |
+| 29.0    | 09/10/2026  | Giordano Sebastian Del Ángel Trejo Espejo | Se actualizó el Sprint 1.                                                                                                                                                                            |
+| 30.0    | 09/10/2026  | Alejandro Franklin Mendoza Vergara        | Se añadió las conclusiones y el Sprint Backlog 2.                                                                                                                                                    |
 
 ## Contenido
 
