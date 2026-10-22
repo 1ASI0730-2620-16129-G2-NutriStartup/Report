@@ -968,21 +968,29 @@ Se presentan los Mock-ups del Landing Page de NutriApp, en su versión de escrit
 
 **Desktop:**
 
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-1.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-2.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-3.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-4.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-5.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-6.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-7.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-8.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-9.png)
-  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-10.png)
+  ![Landing Page Mock-up 1 - Desktop](assets/images/lp-mockup-desktop-1.png)
+  ![Landing Page Mock-up 2 - Desktop](assets/images/lp-mockup-desktop-2.png)
+  ![Landing Page Mock-up 3 - Desktop](assets/images/lp-mockup-desktop-3.png)
+  ![Landing Page Mock-up 4 - Desktop](assets/images/lp-mockup-desktop-4.png)
+  ![Landing Page Mock-up 5 - Desktop](assets/images/lp-mockup-desktop-5.png)
+  ![Landing Page Mock-up 6 - Desktop](assets/images/lp-mockup-desktop-6.png)
+  ![Landing Page Mock-up 7 - Desktop](assets/images/lp-mockup-desktop-7.png)
+  ![Landing Page Mock-up 8 - Desktop](assets/images/lp-mockup-desktop-8.png)
+  ![Landing Page Mock-up 9 - Desktop](assets/images/lp-mockup-desktop-9.png)
+  ![Landing Page Mock-up 10 - Desktop](assets/images/lp-mockup-desktop-10.png)
 
 **Mobile:**
 
-  ![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-1.png)
-  ![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-2.png)
+  ![Landing Page Mock-up 1 - Mobile](assets/images/lp-mockup-mobile-1.png)
+  ![Landing Page Mock-up 2 - Mobile](assets/images/lp-mockup-mobile-2.png)
+  ![Landing Page Mock-up 3 - Mobile](assets/images/lp-mockup-mobile-3.png)
+  ![Landing Page Mock-up 4 - Mobile](assets/images/lp-mockup-mobile-4.png)
+  ![Landing Page Mock-up 5 - Mobile](assets/images/lp-mockup-mobile-5.png)
+  ![Landing Page Mock-up 6 - Mobile](assets/images/lp-mockup-mobile-6.png)
+  ![Landing Page Mock-up 7 - Mobile](assets/images/lp-mockup-mobile-7.png)
+  ![Landing Page Mock-up 8 - Mobile](assets/images/lp-mockup-mobile-8.png)
+  ![Landing Page Mock-up 9 - Mobile](assets/images/lp-mockup-mobile-9.png)
+  ![Landing Page Mock-up 10 - Mobile](assets/images/lp-mockup-mobile-10.png)
 
 ## 4.4. Web Applications UX/UI Design
 
