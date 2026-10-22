@@ -966,11 +966,23 @@ Se presentan los Mock-ups del Landing Page de NutriApp, en su versión de escrit
 *   Diseño Inclusivo y Accesibilidad: Se ha garantizado un alto contraste entre los textos y los fondos para facilitar la legibilidad. Asimismo, el botón Call to Action destaca visualmente sobre el resto de elementos y cuenta con un tamaño óptimo para la interacción táctil en la versión móvil.
 *   Adaptabilidad: Las tarjetas de la sección Nuestros Servicios, que en Desktop se muestran en una cuadrícula horizontal, se apilan verticalmente en la vista Mobile, respetando la jerarquía visual.
 
-![Landing Page Mock-up - Desktop](assets/images/mockup-desktop-1.png)
-![Landing Page Mock-up - Desktop](assets/images/mockup-desktop-2.png)
+**Desktop:**
 
-![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-1.png)
-![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-2.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-1.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-2.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-3.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-4.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-5.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-6.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-7.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-8.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-9.png)
+  ![Landing Page Mock-up - Desktop](assets/images/lp-mockup-desktop-10.png)
+
+**Mobile:**
+
+  ![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-1.png)
+  ![Landing Page Mock-up - Mobile](assets/images/mockup-mobile-2.png)
 
 ## 4.4. Web Applications UX/UI Design
 
