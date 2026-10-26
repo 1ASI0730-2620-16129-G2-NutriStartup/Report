@@ -1652,18 +1652,17 @@ Los aspectos considerados para este sprint son: Registro de Usuario, Inicio de S
 | Vilchez Vite, Gabriel Alejandro         | GZ-99               | C                                                    | C                                                 | C                                                            | C                                                        |
 | Mendoza Vergara, Alejandro Franklin     | AlexBoo578          | L                                                    | L                                                 | C                                                            | C                                                        |
 
-| L = Leader (líder responsable del aspecto) | C = Collaborator (colaborador) |
-|--------------------------------------------|--------------------------------|
-
 #### 5.2.1.3. Sprint Backlog 1
 
 El Sprint Backlog 1 de NutriApp Integral se elaboró a partir del objetivo establecido durante la planificación del sprint: implementar las funcionalidades básicas de registro de usuarios, inicio de sesión, gestión del perfil personal y definición de objetivos. Para organizar el trabajo, se seleccionaron cuatro User Stories del Product Backlog, con un total de 13 Story Points, y se descompusieron en 16 tareas que permiten distribuir y realizar seguimiento de las actividades previstas.
 
 El tablero del Sprint 1 se utiliza para visualizar las tareas, sus responsables y su estado de avance. A continuación, se presenta la evidencia del tablero utilizado por el equipo.
 
-**Evidencia del Board del Sprint 1:** 
+**Evidencia del Board del Sprint 1:**
 
-**URL público del Board:**
+<img src="assets/images/Sprint_Backlog_1.png">
+
+**URL público del Board:** https://trello.com/b/NIxLJPxO/sprint-backlog-1
 
 | User Story ID | User Story Title            | Work-Item / Task ID | Work-Item / Task Title                 | Description                                                                                                    | Estimation (Hours) | Assigned To                             | Status  |
 |---------------|-----------------------------|---------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------:|-----------------------------------------|---------|
@@ -1723,12 +1722,9 @@ Durante el Sprint 1, el equipo Conecta utilizó GitHub como plataforma central d
 * Los mensajes de commit siguieron el estándar Conventional Commits (`feat:`, `fix:`, `docs:`, `style:`, etc.), garantizando trazabilidad por funcionalidad.
 * Al finalizar el sprint, develop fue fusionada a main para el despliegue en GitHub Pages.
 
-
 ![Contribuidores sprint 1](assets/images/contributors1.png)
 
-
 ![Colaboradores sprint 1](assets/images/colaborators1.png)
-
 
 ### 5.2.2. Sprint 2
 
