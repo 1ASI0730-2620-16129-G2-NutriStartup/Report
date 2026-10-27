@@ -1719,7 +1719,15 @@ Durante el Sprint 1, el equipo completó la implementación de la Landing Page d
 
 A continuación se presentan capturas de las principales vistas implementadas:
 
+<img src="assets/images/Execution_Evidence_For_Sprint_Review1.png">
 
+<img src="assets/images/Execution_Evidence_For_Sprint_Review2.png">
+
+<img src="assets/images/Execution_Evidence_For_Sprint_Review3.png">
+
+<img src="assets/images/Execution_Evidence_For_Sprint_Review4.png">
+
+<img src="assets/images/Execution_Evidence_For_Sprint_Review5.png">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
