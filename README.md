@@ -97,12 +97,50 @@
 | 33.0    | 26/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó el Sprint 1 y se añadio la sección de Development Evidence for Sprint Review 1.                                                                                                         |
 | 34.0    | 27/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó el Sprint 1 y se añadio la sección de Execution Evidence for Sprint Review 1.                                                                                                           |
 
+## Project Report Collaboration Insights
+
+En esta sección se presentan los principales aspectos relacionados con la colaboración y el trabajo en equipo durante el desarrollo del proyecto NutriApp Integral. Se analiza la participación de los integrantes, la coordinación de actividades y las contribuciones realizadas para alcanzar los objetivos establecidos en cada sprint. Asimismo, se consideran las evidencias de colaboración obtenidas a través de las herramientas de desarrollo y gestión del proyecto, con la finalidad de identificar fortalezas, oportunidades de mejora y aprendizajes que contribuyan a optimizar la organización, la comunicación y la productividad del equipo durante las siguientes iteraciones.
+
+**URL del Repositorio del Project Report:** https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Report
+
+### AV1: Contributions and Collaboration
+
+Durante la AV1, los integrantes del equipo contribuyeron al desarrollo de diferentes entregables relacionados con el análisis del problema, la definición de la solución, el diseño de la experiencia de usuario y la organización del proyecto. Las principales contribuciones individuales fueron las siguientes:
+
+* Poly Gabriel Alcantara Baldeon: Desarrollo las estrategias y tácticas frente a los competidores, al mismo tiempo que colaboro con el registro de entrevistas.
+* Waldo Alonso Portal Inga: Desarrolló la descripción del startup, el Solution Profile, los segmentos objetivo, el diseño de las entrevistas y los User Personas. Asimismo, colaboró en el registro de las entrevistas.
+* Giordano Sebastian del Ángel Trejo Espejo: Desarrolló el User Task Matrix, los User Personas, los Wireframes, los Mock-ups, el diseño de la interfaz de usuario (UI Design), los User Journey Maps y los Empathy Maps. También colaboró en el registro de las entrevistas.
+* Gabriel Alejandro Vilchez Vite: Desarrolló los objetivos y las restricciones del proyecto, las historias de usuario (User Stories), el Impact Mapping y el Product Backlog. Asimismo, participó en la elaboración y grabación del video de exposición y colaboró en el registro de las entrevistas.
+* Alejandro Franklin Mendoza Vergara: Desarrolló el glosario del Ubiquitous Language y la documentación de Software Configuration Management. Además, colaboró en el registro de las entrevistas.
+
+En conjunto, estas contribuciones permitieron distribuir las responsabilidades entre los integrantes y avanzar en los distintos entregables de la AV1. El registro de entrevistas constituyó una actividad colaborativa en la que participaron todos los miembros del equipo.
+
+**Evidencias de colaboración - AV1:**
+
+<img src="assets/images/Contributions_And_Collaboration1.png">
+
+<img src="assets/images/Contributions_And_Collaboration2.png">
+
+<img src="assets/images/Contributions_And_Collaboration3.png">
+
+<img src="assets/images/Contributions_And_Collaboration4.png">
+
+<img src="assets/images/Contributions_And_Collaboration5.png">
+
+<img src="assets/images/Contributions_And_Collaboration6.png">
+
+<img src="assets/images/Contributions_And_Collaboration7.png">
+
+<img src="assets/images/Contributions_And_Collaboration8.png">
+
+<img src="assets/images/Contributions_And_Collaboration9.png">
+
+<img src="assets/images/Contributions_And_Collaboration10.png">
+
 ## Contenido
 
 ### Tabla de contenidos
 
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
