@@ -1815,6 +1815,24 @@ Por lo tanto, para el Sprint 1, la evidencia correspondiente a esta sección con
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 1, el equipo desarrolló la Landing Page estática de NutriApp Integral utilizando HTML, CSS y JavaScript. El objetivo fue establecer la primera interfaz visual del producto y presentar su propuesta mediante una página web accesible para su revisión.
+
+Debido a que el alcance de esta iteración se limitó a una interfaz estática, la evidencia de implementación se centra en la ejecución y visualización de la Landing Page. En esta etapa no se incluyeron servicios web ni funcionalidades que dependieran de una API REST.
+
+**Evidencias del despliegue y ejecución del software**
+
+* **Landing Page ejecutada:**
+
+<img src="assets/images/Software_Deployment_Evidence_For_Sprint_Review1.png">
+
+* **Repositorio del proyecto:** https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
+
+* **Acceso a la aplicación:** https://nutriapp-integral-landingpage.firebaseapp.com/
+
+Estas evidencias permiten verificar el resultado visual del desarrollo y facilitan la revisión de los avances alcanzados durante el Sprint 1.
+
+En conclusión, el Sprint 1 permitió establecer la primera versión de la interfaz web de NutriApp Integral. Las evidencias presentadas deben reflejar el estado real de la implementación y el mecanismo utilizado para ejecutar o publicar la Landing Page durante esta iteración.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 1, el equipo Conecta utilizó GitHub como plataforma central de colaboración y control de versiones, aplicando el flujo de trabajo GitFlow junto con Conventional Commits y Semantic Versioning para mantener trazabilidad y orden en el desarrollo.
