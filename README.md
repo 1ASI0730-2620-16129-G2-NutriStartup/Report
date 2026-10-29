@@ -1801,9 +1801,17 @@ A continuación, se presentan capturas de las principales vistas implementadas:
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-Durante el Sprint 1, el alcance del equipo se limitó exclusivamente a la implementación de la Landing Page estática de NutriApp, desarrollada con HTML, CSS y JavaScript. En esta iteración no se implementaron Web Services ni endpoints de API REST, por lo que no aplica documentación de servicios con OpenAPI para este sprint.
+Durante el Sprint 1, el alcance del equipo se limitó exclusivamente a la implementación de la Landing Page estática de NutriApp Integral, desarrollada con HTML, CSS y JavaScript. En esta iteración no se implementaron Web Services ni endpoints de API REST, por lo que no aplica documentación de servicios con OpenAPI para este sprint.
 
 La implementación de endpoints y su documentación corresponderá a sprints posteriores, una vez que el equipo avance hacia el desarrollo de la Web Application y el Web Service de la plataforma.
+
+**Evidencias de documentación de servicios**
+
+Debido a que durante el Sprint 1 no se desarrollaron servicios web ni interfaces de programación de aplicaciones (API REST), no se generaron especificaciones OpenAPI ni documentación técnica de endpoints para presentar durante la Sprint Review. Esta situación corresponde al alcance funcional definido para la iteración y no implica la omisión de documentación de servicios implementados.
+
+En las siguientes iteraciones, cuando se incorporen servicios web, se documentarán sus endpoints, métodos HTTP, parámetros, estructuras de solicitud y respuesta, y posibles códigos de estado. Asimismo, se utilizará OpenAPI para facilitar la comprensión, validación y revisión de los servicios desarrollados.
+
+Por lo tanto, para el Sprint 1, la evidencia correspondiente a esta sección consiste en la identificación explícita de los servicios que aún no forman parte del alcance de la iteración y la planificación de su documentación para futuros sprints.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
