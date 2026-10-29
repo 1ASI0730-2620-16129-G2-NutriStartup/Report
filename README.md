@@ -137,6 +137,35 @@ En conjunto, estas contribuciones permitieron distribuir las responsabilidades e
 
 <img src="assets/images/Contributions_And_Collaboration10.png">
 
+### TB1: Contributions and Collaboration
+
+Durante la TB1, los integrantes del equipo contribuyeron a la elaboración y actualización del informe, así como a la preparación del video de presentación de NutriApp Integral. Estas actividades permitieron organizar los avances del proyecto, documentar el trabajo realizado y comunicar los resultados alcanzados. Las principales contribuciones individuales fueron las siguientes:
+
+* Poly Gabriel Alcantara Baldeon: Participó en las actividades relacionadas con la actualización del informe y la preparación del video de presentación. Asimismo, tuvo asignada la actualización de la Landing Page.
+* Giordano Sebastian Del Ángel Trejo Espejo: Contribuyó a la actualización del informe y a la elaboración del video de presentación. También participó en la documentación de los avances del proyecto y en la preparación de los diseños de la Landing Page y de la interfaz de usuario de la aplicación web.
+* Gabriel Alejandro Vilchez Vite: Contribuyó a la actualización del informe y participó en la elaboración y grabación del video de presentación, con el propósito de comunicar los avances y resultados del proyecto.
+* Alejandro Franklin Mendoza Vergara: Participó en la actualización del informe y en la preparación del video de presentación. También contribuyó a la documentación de los avances y a la actualización de la Landing Page.
+
+En conjunto, estas actividades permitieron consolidar la información de NutriApp Integral en el informe y preparar un recurso audiovisual para presentar el trabajo realizado. La coordinación entre los integrantes fue importante para organizar los contenidos, integrar los avances y comunicar de manera clara el estado del proyecto.
+
+**Evidencias de colaboración - TB1:**
+
+<img src="assets/images/Contributions_And_Collaboration11.png">
+
+<img src="assets/images/Contributions_And_Collaboration12.png">
+
+<img src="assets/images/Contributions_And_Collaboration13.png">
+
+<img src="assets/images/Contributions_And_Collaboration14.png">
+
+<img src="assets/images/Contributions_And_Collaboration15.png">
+
+<img src="assets/images/Contributions_And_Collaboration16.png">
+
+<img src="assets/images/Contributions_And_Collaboration17.png">
+
+<img src="assets/images/Contributions_And_Collaboration18.png">
+
 ## Contenido
 
 ### Tabla de contenidos
