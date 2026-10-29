@@ -183,7 +183,7 @@ En conjunto, estas actividades permitieron consolidar la información de NutriAp
             - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
             - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
     - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation-and-analysis)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
     - [2.1. Competidores](#21-competidores)
         - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
         - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -337,7 +337,7 @@ Muchas personas buscan mejorar su alimentación y estilo de vida, pero cambios d
 <br>Esto evidencia la necesidad de una solución que combine monitoreo, personalización e inteligencia adaptativa para apoyar decisiones saludables en el día a día.
 <br>¿Cómo podríamos diseñar NutriApp Integral para acompañar a los usuarios en la construcción y continuidad de hábitos saludables mediante recomendaciones contextuales y apoyo personalizado?
 
-#### 1.2.2.2 Lean UX Problem Assumptions
+#### 1.2.2.2 Lean UX Assumptions
 
 Después de analizar la problemática del sobrepeso, la obesidad y la dificultad para mantener hábitos saludables, se plantean algunos supuestos que nos permitirán proponer soluciones enfocadas en los usuarios. NutriApp Integral busca ayudar a las personas a mejorar su bienestar físico mediante una aplicación inteligente que brinde seguimiento constante, motivación y recomendaciones personalizadas.
 
@@ -405,7 +405,7 @@ Después de analizar la problemática del sobrepeso, la obesidad y la dificultad
 
 <img src="assets/images/Lean_UX_Canvas.png">
 
-## 1.3 Segmentos objetivos
+## 1.3 Segmentos objetivo
 
 **Segmento 1: Personas que quieran reducir su peso**
 
@@ -730,7 +730,7 @@ En esta sección se elaboran los User Journey Maps en As-Is, imitando la experie
   ![EventStorming Acceso](assets/images/est_atencion.jpg)
 
 
-## 2.5 Ubiquitious Language
+## 2.5 Ubiquitous Language
 
 ### Introducción
 
