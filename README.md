@@ -230,13 +230,13 @@ En conjunto, estas actividades permitieron consolidar la información de NutriAp
         - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.8. Database Design](#48-database-design)
         - [4.8.1. Database Diagrams](#481-database-diagrams)
-- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation-and-deployment)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
         - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
         - [5.1.2. Source Code Management](#512-source-code-management)
-        - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide-and-conventions)
+        - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
         - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services-and-applications-implementation)
+    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.3. Validation Interviews](#53-validation-interviews)
         - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
         - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1498,7 +1498,7 @@ El diseño de base de datos de NutriApp Integral está estructurado en cinco bou
 
 <img src="assets/images/database-uml.png">
 
-# Capítulo V: Product Implementation
+# Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
 
@@ -1996,7 +1996,13 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 
 8. **El trabajo en equipo fue clave para avanzar.** Cada integrante asumió responsabilidades distintas, se ayudó con las dudas de los demás y siguió un flujo de trabajo común para ordenar los cambios. Gracias a esta colaboración se pudo completar la parte de investigación, requisitos y diseño, que deja una base sólida para la etapa de desarrollo.
 
+## Conclusiones y recomendaciones
+
+
+
 ## Video About-the-Team
+
+
 
 # Bibliografía
 
