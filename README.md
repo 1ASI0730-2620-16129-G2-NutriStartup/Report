@@ -1987,6 +1987,22 @@ En esta sección se presenta el **Sprint Backlog 2 de NutriApp Integral**, elabo
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+Durante el Sprint 2, el equipo avanzó en la implementación de la aplicación frontend de NutriApp Integral, desarrollando las funcionalidades de sus cinco bounded contexts: Identity and Access Management, User Profile Management, Progress Monitoring, Nutrition Plan Management y Appointment Management. Cada bounded context se trabajó en una rama de funcionalidad propia siguiendo la arquitectura por capas (dominio, infraestructura, aplicación y presentación) definida en los diagramas de clases. Asimismo, se documentaron los commits y ramas utilizados, lo que asegura la trazabilidad del trabajo y la colaboración entre los miembros del equipo. A continuación, se presentan las evidencias de las principales contribuciones realizadas durante el Sprint.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/iam | `<hash>` | feat: implement iam sign-in and sign-up views | Implements the registration and login forms with frontend data validation, the authentication store and session handling for the Identity and Access Management bounded context | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/user-profile-management | `<hash>` | feat: implement patient profile and goals management | Implements the registration and update of personal data, preferences, restrictions and nutritional goals, including validations and the user profile store | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement habit record domain and api | Implements the HabitRecord and ProgressRecord entities, the assemblers and the API endpoints for registering and querying habits by period | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement food and physical activity records | Implements the forms and lists for registering food intake and physical activities, with validation of incomplete data | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement progress charts view | Implements the progress view with evolution charts against the user's goals and the message shown when there is not enough data | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/nutrition-plan-management | `<hash>` | feat: implement food recommendations view | Implements the generation and display of personalized food and exercise recommendations based on the user's profile and goals | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/nutrition-plan-management | `<hash>` | feat: implement nutrition plan creation and editing | Implements the NutritionPlan and MealPlan entities, the store and the views that allow the nutritionist to create, edit and validate nutritional plans | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/appointment-management | `<hash>` | feat: implement appointment availability and booking | Implements the availability query, the appointment booking flow and the appointment list following the layered architecture of the bounded context | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/appointment-management | `<hash>` | feat: implement appointment cancellation and consultation record | Implements the cancellation and deletion of appointments and the registration of consultation notes and recommendations associated with an appointment | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | develop | `<hash>` | chore: merge feature branches into develop | Integrates the five bounded context branches into develop and adapts the shared layout, routes and language switcher to the new modules | 2026-10-XX |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | main | `<hash>` | chore: release sprint 2 | Merges develop into main to deploy the Sprint 2 version of the frontend application | 2026-10-XX |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
