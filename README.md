@@ -2007,6 +2007,50 @@ Durante el Sprint 2, el equipo avanzó en la implementación de la aplicación f
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+En este Sprint no se consumió el RESTful Web API definitivo de NutriApp Integral, ya que su desarrollo corresponde a otro componente de la arquitectura y estaba previsto para sprints posteriores (TS-01 a TS-08). En su lugar, la aplicación frontend consume un **Mock API** implementado con `json-server`, cuyos datos se definen en `db.json` y cuyas rutas se estandarizan en `routes.json`. De esta forma, el cliente trabaja con la misma estructura de endpoints que luego expondrá el backend, y cada bounded context accede a su recurso mediante las clases `BaseApi` y `BaseEndpoint` del Shared BC.
+
+La URL base de los servicios se resuelve desde el archivo de entorno (*environment*) de la aplicación. En la siguiente tabla dicha base se referencia como `{apiUrl}`.
+
+| Contexto / Módulo | Recurso (Endpoint Base) | Acciones Implementadas | Ejemplo de uso |
+| --- | --- | --- | --- |
+| Identity and Access Management | `{apiUrl}/api/v1/users` | GET, POST | `GET /api/v1/users?email=usuario@correo.com` |
+| User Profile Management | `{apiUrl}/api/v1/profiles` | GET, POST, PUT | `PUT /api/v1/profiles/1` con `{ "weight", "height", "preferences" }` |
+| User Profile Management | `{apiUrl}/api/v1/goals` | GET, POST, PUT | `GET /api/v1/goals?userId=1` |
+| Progress Monitoring | `{apiUrl}/api/v1/habit-records` | GET, POST | `GET /api/v1/habit-records?userId=1&from=2026-10-01` |
+| Progress Monitoring | `{apiUrl}/api/v1/food-records` | GET, POST | `POST /api/v1/food-records` con `{ "userId", "food", "date" }` |
+| Progress Monitoring | `{apiUrl}/api/v1/activity-records` | GET, POST | `GET /api/v1/activity-records?userId=1` |
+| Nutrition Plan Management | `{apiUrl}/api/v1/recommendations` | GET | `GET /api/v1/recommendations?userId=1&type=FOOD` |
+| Nutrition Plan Management | `{apiUrl}/api/v1/nutrition-plans` | GET, POST, PUT | `POST /api/v1/nutrition-plans` con `{ "patientId", "meals" }` |
+| Appointment Management | `{apiUrl}/api/v1/availabilities` | GET | `GET /api/v1/availabilities?nutritionistId=2` |
+| Appointment Management | `{apiUrl}/api/v1/appointments` | GET, POST, PATCH, DELETE | `PATCH /api/v1/appointments/5` con `{ "status": "CANCELLED" }` |
+| Appointment Management | `{apiUrl}/api/v1/consultations` | GET, POST | `POST /api/v1/consultations` con `{ "appointmentId", "notes" }` |
+
+**Ejemplo de respuesta (200 OK) para `GET /api/v1/appointments?nutritionistId=2`:**
+
+```json
+[
+  {
+    "id": 5,
+    "patientId": 1,
+    "nutritionistId": 2,
+    "date": "2026-10-20",
+    "time": "10:00",
+    "status": "BOOKED"
+  }
+]
+```
+
+**Ejemplo de respuesta (201 Created) para `POST /api/v1/food-records`:**
+
+```json
+{
+  "id": 12,
+  "userId": 1,
+  "food": "Avena con frutas",
+  "date": "2026-10-15"
+}
+```
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 ![Landing Page 1](assets/images/lpf-1.jpg)
