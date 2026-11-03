@@ -96,6 +96,9 @@
 | 32.0    | 21/10/2026 | Giordano Sebastian Del Ángel Trejo Espejo | Se actualizó las secciones de Landing Page Mockup Desktop y Landing Page Mockup Mobile, al mismo tiempo se actualizó el Diagrama de componentes.                                                     |
 | 33.0    | 26/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó el Sprint 1 y se añadio la sección de Development Evidence for Sprint Review 1.                                                                                                         |
 | 34.0    | 27/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó el Sprint 1 y se añadio la sección de Execution Evidence for Sprint Review 1.                                                                                                           |
+| 35.0    | 28/10/2026 | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de Project Report Collaboration Insights.                                                                                                                                       |
+| 36.0    | 29/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó la tabla de contenidos y se actualizó el Sprint 1.                                                                                                                                      |
+| 37.0    | 01/11/2026 | Alejandro Franklin Mendoza Vergara        | Se añadió las secciones de Development Evidence for Sprint Review y Services Documentation Evidence for Sprint Review del sprint 2.                                                                  |
 
 ## Project Report Collaboration Insights
 
@@ -255,6 +258,15 @@ En conjunto, estas actividades permitieron consolidar la información de NutriAp
           - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
           - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
           - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 3](#523-sprint-3)
+          - [5.2.2.1. Sprint Planning 3](#5231-sprint-planning-3)
+          - [5.2.2.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+          - [5.2.2.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+          - [5.2.2.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+          - [5.2.2.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+          - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+          - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+          - [5.2.2.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
         - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
         - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1989,19 +2001,19 @@ En esta sección se presenta el **Sprint Backlog 2 de NutriApp Integral**, elabo
 
 Durante el Sprint 2, el equipo avanzó en la implementación de la aplicación frontend de NutriApp Integral, desarrollando las funcionalidades de sus cinco bounded contexts: Identity and Access Management, User Profile Management, Progress Monitoring, Nutrition Plan Management y Appointment Management. Cada bounded context se trabajó en una rama de funcionalidad propia siguiendo la arquitectura por capas (dominio, infraestructura, aplicación y presentación) definida en los diagramas de clases. Asimismo, se documentaron los commits y ramas utilizados, lo que asegura la trazabilidad del trabajo y la colaboración entre los miembros del equipo. A continuación, se presentan las evidencias de las principales contribuciones realizadas durante el Sprint.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/iam | `<hash>` | feat: implement iam sign-in and sign-up views | Implements the registration and login forms with frontend data validation, the authentication store and session handling for the Identity and Access Management bounded context | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/user-profile-management | `<hash>` | feat: implement patient profile and goals management | Implements the registration and update of personal data, preferences, restrictions and nutritional goals, including validations and the user profile store | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement habit record domain and api | Implements the HabitRecord and ProgressRecord entities, the assemblers and the API endpoints for registering and querying habits by period | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement food and physical activity records | Implements the forms and lists for registering food intake and physical activities, with validation of incomplete data | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement progress charts view | Implements the progress view with evolution charts against the user's goals and the message shown when there is not enough data | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/nutrition-plan-management | `<hash>` | feat: implement food recommendations view | Implements the generation and display of personalized food and exercise recommendations based on the user's profile and goals | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/nutrition-plan-management | `<hash>` | feat: implement nutrition plan creation and editing | Implements the NutritionPlan and MealPlan entities, the store and the views that allow the nutritionist to create, edit and validate nutritional plans | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/appointment-management | `<hash>` | feat: implement appointment availability and booking | Implements the availability query, the appointment booking flow and the appointment list following the layered architecture of the bounded context | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/appointment-management | `<hash>` | feat: implement appointment cancellation and consultation record | Implements the cancellation and deletion of appointments and the registration of consultation notes and recommendations associated with an appointment | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | develop | `<hash>` | chore: merge feature branches into develop | Integrates the five bounded context branches into develop and adapts the shared layout, routes and language switcher to the new modules | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | main | `<hash>` | chore: release sprint 2 | Merges develop into main to deploy the Sprint 2 version of the frontend application | 2026-10-XX |
+| Repository                                                  | Branch                            | Commit Id | Commit Message                                                   | Commit Message Body                                                                                                                                                             | Commited on (Date) |
+|-------------------------------------------------------------|-----------------------------------|-----------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/iam                       | `<hash>`  | feat: implement iam sign-in and sign-up views                    | Implements the registration and login forms with frontend data validation, the authentication store and session handling for the Identity and Access Management bounded context | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/user-profile-management   | `<hash>`  | feat: implement patient profile and goals management             | Implements the registration and update of personal data, preferences, restrictions and nutritional goals, including validations and the user profile store                      | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/progress-monitoring       | `<hash>`  | feat: implement habit record domain and api                      | Implements the HabitRecord and ProgressRecord entities, the assemblers and the API endpoints for registering and querying habits by period                                      | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/progress-monitoring       | `<hash>`  | feat: implement food and physical activity records               | Implements the forms and lists for registering food intake and physical activities, with validation of incomplete data                                                          | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/progress-monitoring       | `<hash>`  | feat: implement progress charts view                             | Implements the progress view with evolution charts against the user's goals and the message shown when there is not enough data                                                 | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/nutrition-plan-management | `<hash>`  | feat: implement food recommendations view                        | Implements the generation and display of personalized food and exercise recommendations based on the user's profile and goals                                                   | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/nutrition-plan-management | `<hash>`  | feat: implement nutrition plan creation and editing              | Implements the NutritionPlan and MealPlan entities, the store and the views that allow the nutritionist to create, edit and validate nutritional plans                          | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/appointment-management    | `<hash>`  | feat: implement appointment availability and booking             | Implements the availability query, the appointment booking flow and the appointment list following the layered architecture of the bounded context                              | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/appointment-management    | `<hash>`  | feat: implement appointment cancellation and consultation record | Implements the cancellation and deletion of appointments and the registration of consultation notes and recommendations associated with an appointment                          | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | develop                           | `<hash>`  | chore: merge feature branches into develop                       | Integrates the five bounded context branches into develop and adapts the shared layout, routes and language switcher to the new modules                                         | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | main                              | `<hash>`  | chore: release sprint 2                                          | Merges develop into main to deploy the Sprint 2 version of the frontend application                                                                                             | 2026-10-XX         |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -2011,19 +2023,19 @@ En este Sprint no se consumió el RESTful Web API definitivo de NutriApp Integra
 
 La URL base de los servicios se resuelve desde el archivo de entorno (*environment*) de la aplicación. En la siguiente tabla dicha base se referencia como `{apiUrl}`.
 
-| Contexto / Módulo | Recurso (Endpoint Base) | Acciones Implementadas | Ejemplo de uso |
-| --- | --- | --- | --- |
-| Identity and Access Management | `{apiUrl}/api/v1/users` | GET, POST | `GET /api/v1/users?email=usuario@correo.com` |
-| User Profile Management | `{apiUrl}/api/v1/profiles` | GET, POST, PUT | `PUT /api/v1/profiles/1` con `{ "weight", "height", "preferences" }` |
-| User Profile Management | `{apiUrl}/api/v1/goals` | GET, POST, PUT | `GET /api/v1/goals?userId=1` |
-| Progress Monitoring | `{apiUrl}/api/v1/habit-records` | GET, POST | `GET /api/v1/habit-records?userId=1&from=2026-10-01` |
-| Progress Monitoring | `{apiUrl}/api/v1/food-records` | GET, POST | `POST /api/v1/food-records` con `{ "userId", "food", "date" }` |
-| Progress Monitoring | `{apiUrl}/api/v1/activity-records` | GET, POST | `GET /api/v1/activity-records?userId=1` |
-| Nutrition Plan Management | `{apiUrl}/api/v1/recommendations` | GET | `GET /api/v1/recommendations?userId=1&type=FOOD` |
-| Nutrition Plan Management | `{apiUrl}/api/v1/nutrition-plans` | GET, POST, PUT | `POST /api/v1/nutrition-plans` con `{ "patientId", "meals" }` |
-| Appointment Management | `{apiUrl}/api/v1/availabilities` | GET | `GET /api/v1/availabilities?nutritionistId=2` |
-| Appointment Management | `{apiUrl}/api/v1/appointments` | GET, POST, PATCH, DELETE | `PATCH /api/v1/appointments/5` con `{ "status": "CANCELLED" }` |
-| Appointment Management | `{apiUrl}/api/v1/consultations` | GET, POST | `POST /api/v1/consultations` con `{ "appointmentId", "notes" }` |
+| Contexto / Módulo              | Recurso (Endpoint Base)            | Acciones Implementadas   | Ejemplo de uso                                                       |
+|--------------------------------|------------------------------------|--------------------------|----------------------------------------------------------------------|
+| Identity and Access Management | `{apiUrl}/api/v1/users`            | GET, POST                | `GET /api/v1/users?email=usuario@correo.com`                         |
+| User Profile Management        | `{apiUrl}/api/v1/profiles`         | GET, POST, PUT           | `PUT /api/v1/profiles/1` con `{ "weight", "height", "preferences" }` |
+| User Profile Management        | `{apiUrl}/api/v1/goals`            | GET, POST, PUT           | `GET /api/v1/goals?userId=1`                                         |
+| Progress Monitoring            | `{apiUrl}/api/v1/habit-records`    | GET, POST                | `GET /api/v1/habit-records?userId=1&from=2026-10-01`                 |
+| Progress Monitoring            | `{apiUrl}/api/v1/food-records`     | GET, POST                | `POST /api/v1/food-records` con `{ "userId", "food", "date" }`       |
+| Progress Monitoring            | `{apiUrl}/api/v1/activity-records` | GET, POST                | `GET /api/v1/activity-records?userId=1`                              |
+| Nutrition Plan Management      | `{apiUrl}/api/v1/recommendations`  | GET                      | `GET /api/v1/recommendations?userId=1&type=FOOD`                     |
+| Nutrition Plan Management      | `{apiUrl}/api/v1/nutrition-plans`  | GET, POST, PUT           | `POST /api/v1/nutrition-plans` con `{ "patientId", "meals" }`        |
+| Appointment Management         | `{apiUrl}/api/v1/availabilities`   | GET                      | `GET /api/v1/availabilities?nutritionistId=2`                        |
+| Appointment Management         | `{apiUrl}/api/v1/appointments`     | GET, POST, PATCH, DELETE | `PATCH /api/v1/appointments/5` con `{ "status": "CANCELLED" }`       |
+| Appointment Management         | `{apiUrl}/api/v1/consultations`    | GET, POST                | `POST /api/v1/consultations` con `{ "appointmentId", "notes" }`      |
 
 **Ejemplo de respuesta (200 OK) para `GET /api/v1/appointments?nutritionistId=2`:**
 
@@ -2077,10 +2089,27 @@ La URL base de los servicios se resuelve desde el archivo de entorno (*environme
 
 ![Front End 7](assets/images/fren-7.jpg)
 
-
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
 
