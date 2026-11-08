@@ -2082,6 +2082,10 @@ La URL base de los servicios se resuelve desde el archivo de entorno (*environme
 
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+<img src="assets/images/sprint2_collaboration_1.jpeg" alt="Insights 1" width="600">
+
+<img src="assets/images/sprint2_collaboration_2.jpeg" alt="Insights 1" width="600">
+
 # Conclusiones
 
 1. **El problema es real y va más allá de la información.** Las entrevistas mostraron que las personas que quieren bajar de peso no fallan por falta de conocimiento, sino por la dificultad de mantener la constancia. La falta de tiempo, los cambios de horario y la desmotivación por no ver resultados rápidos son las razones por las que abandonan sus dietas y rutinas. Esto confirmó que NutriApp Integral debe enfocarse en acompañar al usuario día a día, y no solo en darle planes.
