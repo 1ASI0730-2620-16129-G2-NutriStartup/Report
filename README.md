@@ -1504,6 +1504,8 @@ En esta sección, presentaremos con mayor detalle cómo se encuentran estructura
 
 A continuación, presentaremos la estructura interna de los componentes que conforman nuestro sistema, mostrando cómo se organizan sus clases y cómo se relacionan entre sí para representar las principales funcionalidades de cada Bounded Context.
 
+#### Fronted Diagrams
+
 * **Shared BC:** Agrupa los componentes y servicios transversales reutilizados por toda la aplicación. Incluye **Layout**, **LanguageSwitcher** y **FooterContent** como componentes de presentación comunes, junto con **BaseApi** y **BaseEndpoint** como infraestructura base que extienden las APIs específicas de cada bounded context.
 
 <img src="assets/images/shared-uml.png">
@@ -1527,6 +1529,8 @@ A continuación, presentaremos la estructura interna de los componentes que conf
 * **Appointment Management BC:** Agrupa las funcionalidades relacionadas con la gestión y programación de citas, la consulta de disponibilidad y el registro de consultas de los usuarios. En el dominio se definen **Appointment**, **Availability** y **Consultation** como elementos principales, encargados de representar las citas, los horarios disponibles y las consultas. La capa de aplicación centraliza estas operaciones mediante **AppointmentStore**, mientras que la infraestructura proporciona los ensambladores y la API para transformar y exponer la información. En presentación, los componentes permiten visualizar y gestionar las citas, consultar la disponibilidad, seleccionar horarios y registrar consultas.
 
 <img src="assets/images/appointment-uml.png">
+
+#### Backend Diagrams
 
 ## 4.8. Database Design
 
