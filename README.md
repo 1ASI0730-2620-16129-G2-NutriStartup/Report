@@ -99,6 +99,8 @@
 | 35.0    | 28/10/2026 | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de Project Report Collaboration Insights.                                                                                                                                       |
 | 36.0    | 29/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó la tabla de contenidos y se actualizó el Sprint 1.                                                                                                                                      |
 | 37.0    | 01/11/2026 | Alejandro Franklin Mendoza Vergara        | Se añadió las secciones de Development Evidence for Sprint Review y Services Documentation Evidence for Sprint Review del sprint 2.                                                                  |
+| 38.0    | 03/11/2026 | Gabriel Alejandro Vilchez Vite            | Se añadió el Sprint Planning 3 y la sección de Aspect Leaders and Collaborators del Sprint 3.                                                                                                        |
+| 39.0    | 06/11/2026 | Poly Gabriel Alcantara Baldeon            | Se actualizó la sección de Style Guidelines.                                                                                                                                                         |
 
 ## Project Report Collaboration Insights
 
@@ -1046,7 +1048,7 @@ Se presentan los wireframes elaborados para el Landing Page para navegadores de 
 **Wireframe para Desktop:**
 Se presenta la información mediante una jerarquía visual clara.
 *   Header: Permite el acceso rápido a las páginas principales identificadas en la arquitectura: Beneficios, Funciones, Progreso, Nosotros, Contacto. 
-*   Hero Section: Presenta el mensaje principal de VitaControl junto con un botón de llamada a la acción para captar la atención del visitante.
+*   Hero Section: Presenta el mensaje principal de NutriApp Integral junto con un botón de llamada a la acción para captar la atención del visitante.
 *   Secciones de Contenido: Se distribuyen en bloques horizontales (como la sección de "Funciones" y "Contacto"), utilizando contenedores amplios para facilitar la lectura.
 *   Footer: Contiene los enlaces a los términos y condiciones, así como la información de contacto.
 
@@ -1069,7 +1071,7 @@ Se ha aplicado el principio de accesibilidad y diseño inclusivo.
 Se presentan los Mock-ups del Landing Page de NutriApp, en su versión de escritorio y para dispositivos móviles.
 
 **Aplicación de Principios de Diseño y Arquitectura:**
-*   Identidad Visual y Style Guidelines: Se han reemplazado los bloques grises por imágenes representativas de hábitos saludables y se ha aplicado la paleta de colores de VitaControl.
+*   Identidad Visual y Style Guidelines: Se han reemplazado los bloques grises por imágenes representativas de hábitos saludables y se ha aplicado la paleta de colores de NutriApp Integral.
 *   Arquitectura de la Información: Se mantiene la estructura navegable del Header.
 *   Diseño Inclusivo y Accesibilidad: Se ha garantizado un alto contraste entre los textos y los fondos para facilitar la legibilidad. Asimismo, el botón Call to Action destaca visualmente sobre el resto de elementos y cuenta con un tamaño óptimo para la interacción táctil en la versión móvil.
 *   Adaptabilidad: Las tarjetas de la sección Nuestros Servicios, que en Desktop se muestran en una cuadrícula horizontal, se apilan verticalmente en la vista Mobile, respetando la jerarquía visual.
@@ -2154,6 +2156,16 @@ Esta matriz permite establecer responsabilidades claras y facilitar la coordinac
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+## 5.3. Validation Interviews
+
+En esta sección se presentan las entrevistas de validación realizadas con el propósito de evaluar la propuesta de NutriApp Integral y conocer la percepción de los usuarios potenciales respecto a las funcionalidades planteadas. A través de estas entrevistas, se busca recopilar opiniones, experiencias y sugerencias que permitan identificar si la solución responde adecuadamente a las necesidades y problemáticas previamente identificadas. Asimismo, la información obtenida servirá como base para reconocer oportunidades de mejora, ajustar las funcionalidades propuestas y fortalecer la pertinencia de la plataforma antes de continuar con su desarrollo.
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
 # Conclusiones
 
 1. **El problema es real y va más allá de la información.** Las entrevistas mostraron que las personas que quieren bajar de peso no fallan por falta de conocimiento, sino por la dificultad de mantener la constancia. La falta de tiempo, los cambios de horario y la desmotivación por no ver resultados rápidos son las razones por las que abandonan sus dietas y rutinas. Esto confirmó que NutriApp Integral debe enfocarse en acompañar al usuario día a día, y no solo en darle planes.
@@ -2174,15 +2186,9 @@ Esta matriz permite establecer responsabilidades claras y facilitar la coordinac
 
 ## Conclusiones y recomendaciones
 
-
-
 ## Video About-the-Team
 
-
-
 # Bibliografía
-
-
 
 # Anexos
 
