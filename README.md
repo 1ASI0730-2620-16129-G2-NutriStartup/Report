@@ -2031,6 +2031,10 @@ Durante el Sprint 2, el equipo avanzó en la implementación de la aplicación f
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+En esta sección se presentan las evidencias de ejecución correspondientes al Sprint 2 de NutriApp Integral, con el propósito de mostrar los avances y resultados obtenidos durante esta iteración. Estas evidencias permiten visualizar el funcionamiento de las funcionalidades desarrolladas, así como verificar el cumplimiento de las User Stories seleccionadas para el sprint. Asimismo, constituyen un respaldo para la revisión del incremento del producto, facilitando la evaluación del trabajo realizado por el equipo e identificando los aspectos que pueden mejorarse en las siguientes iteraciones.
+
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 En este Sprint no se consumió el RESTful Web API definitivo de NutriApp Integral, ya que su desarrollo corresponde a otro componente de la arquitectura y estaba previsto para sprints posteriores (TS-01 a TS-08). En su lugar, la aplicación frontend consume un **Mock API** implementado con `json-server`, cuyos datos se definen en `db.json` y cuyas rutas se estandarizan en `routes.json`. De esta forma, el cliente trabaja con la misma estructura de endpoints que luego expondrá el backend, y cada bounded context accede a su recurso mediante las clases `BaseApi` y `BaseEndpoint` del Shared BC.
@@ -2206,6 +2210,36 @@ Las tareas anteriores corresponden a la descomposición del trabajo definida par
 En esta sección se presentan las entrevistas de validación realizadas con el propósito de evaluar la propuesta de NutriApp Integral y conocer la percepción de los usuarios potenciales respecto a las funcionalidades planteadas. A través de estas entrevistas, se busca recopilar opiniones, experiencias y sugerencias que permitan identificar si la solución responde adecuadamente a las necesidades y problemáticas previamente identificadas. Asimismo, la información obtenida servirá como base para reconocer oportunidades de mejora, ajustar las funcionalidades propuestas y fortalecer la pertinencia de la plataforma antes de continuar con su desarrollo.
 
 ### 5.3.1. Diseño de Entrevistas
+
+El diseño de las entrevistas de validación de NutriApp Integral tiene como finalidad establecer los elementos que se presentarán a los usuarios de los segmentos objetivo durante las sesiones de evaluación. Para ello, se contempla la interacción de los participantes con el Landing Page y los prototipos de las experiencias web y móvil, con el propósito de recopilar sus apreciaciones sobre la propuesta y el funcionamiento de las funcionalidades principales.
+
+**Estructura de las sesiones de validación**
+
+Cada sesión se organizará en las siguientes etapas:
+1. **Presentación inicial:** Se explicará brevemente el propósito de la entrevista y se presentará NutriApp Integral, indicando que el participante realizará una serie de actividades para evaluar la propuesta.
+2. **Exploración del Landing Page:** Se solicitará al participante que explore la página de presentación del producto, identificando la información que ofrece, sus funcionalidades principales y la claridad con la que se comunica la propuesta de valor.
+3. **Interacción con los prototipos:** Se pedirá al participante que interactúe con los prototipos de las experiencias web y móvil, siguiendo los flujos de usuario (User Flows) definidos para representar las principales funcionalidades de la plataforma.
+4. **Recopilación de apreciaciones:** Se realizarán preguntas abiertas para conocer la experiencia del participante, las dificultades encontradas, los aspectos que considera más útiles y sus sugerencias de mejora.
+5. **Cierre de la entrevista:** Se agradecerá la participación y se dará por finalizada la sesión, verificando que se hayan recopilado las observaciones correspondientes.
+
+**Diseño de preguntas**
+
+Las entrevistas se diseñaron mediante preguntas abiertas para que los participantes pudieran expresar libremente sus experiencias, necesidades y expectativas. Las preguntas estarán orientadas a conocer sus apreciaciones sobre la navegación, la comprensión de la información, la facilidad de interacción y la utilidad de las funcionalidades presentadas.
+
+Entre las preguntas consideradas se encuentran:
+* ¿Qué impresión te genera la propuesta de NutriApp Integral después de explorar el Landing Page?
+* ¿La información presentada en el Landing Page te permite comprender el propósito y las funcionalidades de la plataforma?
+* ¿Qué tan sencillo te resultó navegar por las diferentes secciones del prototipo?
+* ¿Pudiste completar las tareas propuestas sin dificultades? ¿Qué inconvenientes encontraste?
+* ¿Las funcionalidades presentadas responden a tus necesidades relacionadas con la alimentación y el seguimiento de hábitos saludables?
+* ¿Qué aspectos de la experiencia web o móvil consideras más útiles?
+* ¿Qué cambios o mejoras recomendarías para facilitar el uso de la plataforma?
+
+**Duración y registro de las entrevistas**
+
+Cada entrevista tendrá una duración aproximada de cinco a ocho minutos, considerando el tiempo necesario para la presentación inicial, la interacción con el Landing Page y los prototipos, y la recopilación de las opiniones del participante. Asimismo, las sesiones serán registradas en video con la autorización previa de cada entrevistado, a fin de conservar evidencias de las interacciones y observaciones realizadas durante el proceso de validación.
+
+Finalmente, las apreciaciones recopiladas servirán como insumo para el registro de entrevistas y las posteriores evaluaciones según las heurísticas de usabilidad, arquitectura de información y diseño inclusivo.
 
 ### 5.3.2. Registro de Entrevistas
 
