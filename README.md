@@ -2082,6 +2082,18 @@ La URL base de los servicios se resuelve desde el archivo de entorno (*environme
 
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+**Organización GitHub del equipo:** https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Report.git
+
+**Flujo de trabajo aplicado:**
+* Cada integrante trabajó en ramas individuales siguiendo la convención `feature/{bounded context name}`, creadas desde la rama develop.
+* Los cambios se integraron a develop mediante Pull Requests, requiriendo al menos una revisión y aprobación de otro integrante antes del merge.
+* Los mensajes de commit siguieron el estándar Conventional Commits (`feat:`, `fix:`, `docs:`, `style:`, etc.), garantizando trazabilidad por funcionalidad.
+* Al finalizar el sprint,cada rama fue fusionada a main para el despliegue en FireBase.
+
+<img src="assets/images/contributors_sprint2_1.png">
+
+<img src="assets/images/contributors_sprint2_2.png">
+
 # Conclusiones
 
 1. **El problema es real y va más allá de la información.** Las entrevistas mostraron que las personas que quieren bajar de peso no fallan por falta de conocimiento, sino por la dificultad de mantener la constancia. La falta de tiempo, los cambios de horario y la desmotivación por no ver resultados rápidos son las razones por las que abandonan sus dietas y rutinas. Esto confirmó que NutriApp Integral debe enfocarse en acompañar al usuario día a día, y no solo en darle planes.
