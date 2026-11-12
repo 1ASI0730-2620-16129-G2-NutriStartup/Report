@@ -96,6 +96,14 @@
 | 32.0    | 21/10/2026 | Giordano Sebastian Del Ángel Trejo Espejo | Se actualizó las secciones de Landing Page Mockup Desktop y Landing Page Mockup Mobile, al mismo tiempo se actualizó el Diagrama de componentes.                                                     |
 | 33.0    | 26/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó el Sprint 1 y se añadio la sección de Development Evidence for Sprint Review 1.                                                                                                         |
 | 34.0    | 27/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó el Sprint 1 y se añadio la sección de Execution Evidence for Sprint Review 1.                                                                                                           |
+| 35.0    | 28/10/2026 | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de Project Report Collaboration Insights.                                                                                                                                       |
+| 36.0    | 29/10/2026 | Gabriel Alejandro Vilchez Vite            | Se actualizó la tabla de contenidos y se actualizó el Sprint 1.                                                                                                                                      |
+| 37.0    | 01/11/2026 | Alejandro Franklin Mendoza Vergara        | Se añadió las secciones de Development Evidence for Sprint Review y Services Documentation Evidence for Sprint Review del sprint 2.                                                                  |
+| 38.0    | 03/11/2026 | Gabriel Alejandro Vilchez Vite            | Se añadió el Sprint Planning 3 y la sección de Aspect Leaders and Collaborators del Sprint 3.                                                                                                        |
+| 39.0    | 06/11/2026 | Poly Gabriel Alcantara Baldeon            | Se actualizó la sección de Style Guidelines.                                                                                                                                                         |
+| 40.0    | 08/11/2026 | Alejandro Franklin Mendoza Vergara        | Se añadió la sección de Team Collaboration Insights during Sprint del Sprint 2.                                                                                                                      |
+| 41.0    | 09/11/2026 | Gabriel Alejandro Vilchez Vite            | Se añadió la sección de Validation Interviews y la de Diseño de Entrevistas.                                                                                                                         |
+| 42.0    | 20/11 2026 | Poly Gabriel Alcantara Baldeon            | Se añadió el Sprint Backlog 3.                                                                                                                                                                       |
 
 ## Project Report Collaboration Insights
 
@@ -246,15 +254,24 @@ En conjunto, estas actividades permitieron consolidar la información de NutriAp
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-      - [5.2.2. Sprint 2](#522-sprint-2)
-          - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-          - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-          - [5.2.2.3. Sprint Backlog 1](#5223-sprint-backlog-2)
-          - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
-          - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-          - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-          - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-          - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.2. Sprint 2](#522-sprint-2)
+            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+            - [5.2.2.3. Sprint Backlog 1](#5223-sprint-backlog-2)
+            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.2. Sprint 3](#523-sprint-3)
+            - [5.2.2.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.2.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+            - [5.2.2.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+            - [5.2.2.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
         - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
         - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -268,10 +285,12 @@ En conjunto, estas actividades permitieron consolidar la información de NutriAp
 
 ## Student Outcome
 
-| Criterio Específico                                                                                      | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **5.c1.** Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **AV1**<br>- Gabriel Alejandro Vilchez Vite: En el Av1, realice algunas tareas como definir los objetivos, las restricciones del proyecto y los competidores, al mismo tiempo que realice una entrevista y añadi los User Stories, el Impact Mapping y el Product Backlog. También ayude a organizar a mi equipo, al mismo tiempo que resolvia algunas dudas. <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara:Para este Av1 realice gran parte del capitulo 5, entrevistas y parte del capitulo 2. Gran parte de mi trabajo se vió respaldado por el equipo y a diversas ayudas que se brindó, además del liderazgo del team leader. <br/>- Giordano Sebastian Del Ángel Trejo Espejo: Para el primer avance, realicé una entrevista para el segmento objetivo 1, añadi los empathy maps y el User Task Matrix <br>**TB1**<br>- Alejandro Franklin Mendoza Vergara: En el TB1 lideré el desarrollo del frontend del bounded context Appointment Management. Implementé la reserva de citas, la consulta de disponibilidad, la cancelación y eliminación de citas y el registro de consultas, siguiendo la arquitectura por capas definida en los diagramas de clases. Coordiné con mis compañeros para usar la infraestructura compartida y adaptar mi módulo al nuevo diseño visual del equipo. <br/>- Gabriel Alejandro Vilchez Vite: En el TB1, lidré en el desarrollo de la aplicación frontend, especificamente con el BC de Nutrition Managment, implementando el perfil del niño y su perfil clinico, También coordine con mis compañeros sobre el desarollo del frontend. <br> - Giordano Trejo Espejo: Para el TB1 mejoré el diseño de la Landing Page, junto con el desarrollo del bounded context User Profile Management, actualizar el eventstorming y los flujos de uso de la aplicación. | Durante el desarrollo de las etapas de ideación y diseño del proyecto NutriApp Integral, el equipo demostró la capacidad de distribuir el liderazgo de forma equitativa. Cada integrante asumió la dirección y responsabilidad de aspectos clave y artefactos específicos, tales como la estructuración del análisis competitivo, la conducción de entrevistas para ambos segmentos y la elaboración detallada de los esquemas visuales (Wireframes y Mock-ups). Esta rotación de roles de liderazgo permitió consolidar las propuestas de negocio y experiencia de usuario, facilitando la toma de decisiones técnicas consensuadas y garantizando el progreso continuo del modelo de negocio digital.<br>                                 |
-| **5.c2.** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **AV1**<br>- Gabriel Alejandro Vilchez Vite: Durante el Av1, todos mis compañeros y yo calaboramos entre nosotros para lograr nuestros objetivos, Al mismo tiempo, logramos avanzar bastantes cosas gracias a nuestras metas establecidas. <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara:Para este Av1 realice gran parte del capitulo 5, entrevistas y parte del capitulo 2. Todo se logró gracias a las metas establecidas por el equipo para cada parte del trabajo, dónde nos ayudamos mutuamente y logré desarrollar nuevas habilidades relacionadas a las partes dirigidas hacia mi. <br/>- Giordano Sebastian Del Ángel Trejo Espejo: Para el primer avance, realicé una entrevista para el segmento objetivo 1, añadi los empathy maps y el User Task Matrix<br>**TB1**<br>- Alejandro Franklin Mendoza Vergara: Dividí el trabajo del módulo de citas por capas (dominio, infraestructura, aplicación y presentación) y lo fui cumpliendo por etapas. Además, apoyé en la integración con el menú, las rutas y los idiomas del equipo, y ajusté mi código cuando un compañero modificó el diseño de la aplicación, para que todo siguiera funcionando. <br/>- Gabriel Alejandro Vilchez Vite: Todo el BC se dividio por capas, en las cuales se fueron implementando las rutas, las funciones, etc. Entre todos mis compañeros nos ayudamos a terminar el trabajo. <br/> - Giordano Trejo Espejo: Para el TB1 mejoré el diseño de la Landing Page, junto con el desarrollo del bounded context User Profile Management, actualizar el eventstorming y los flujos de uso de la aplicación.                                                                                                                                                                                                    | Se logró establecer un ambiente de trabajo colaborativo para abordar la problemática del abandono de hábitos saludables y la optimización del seguimiento clínico para nutricionistas. El equipo definió metas claras y planificó tareas de manera estructurada, lo que permitió completar exitosamente hitos críticos como el Lean UX Canvas, los User Journey Maps, la arquitectura de la información y los diagramas de flujo de usuario (Wireflows y User Flows). El cumplimiento riguroso de esta planificación conjunta evidenció un compromiso grupal sólido, asegurando que todos los entregables respetaran los atributos de calidad exigidos y se alinearan con los objetivos del ciclo de vida del producto de software.<br>     |
+| Criterio Específico                                                                                      | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **5.c1.** Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **AV1**<br>- Gabriel Alejandro Vilchez Vite: En el Av1, realice algunas tareas como definir los objetivos, las restricciones del proyecto y los competidores, al mismo tiempo que realice una entrevista y añadi los User Stories, el Impact Mapping y el Product Backlog. También ayude a organizar a mi equipo, al mismo tiempo que resolvia algunas dudas. <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara:Para este Av1 realice gran parte del capitulo 5, entrevistas y parte del capitulo 2. Gran parte de mi trabajo se vió respaldado por el equipo y a diversas ayudas que se brindó, además del liderazgo del team leader. <br/>- Giordano Sebastian Del Ángel Trejo Espejo: Para el primer avance, realicé una entrevista para el segmento objetivo 1, añadi los empathy maps y el User Task Matrix <br>                                                                                                                                  | Durante el desarrollo de las etapas de ideación y diseño del proyecto NutriApp Integral, el equipo demostró la capacidad de distribuir el liderazgo de forma equitativa. Cada integrante asumió la dirección y responsabilidad de aspectos clave y artefactos específicos, tales como la estructuración del análisis competitivo, la conducción de entrevistas para ambos segmentos y la elaboración detallada de los esquemas visuales (Wireframes y Mock-ups). Esta rotación de roles de liderazgo permitió consolidar las propuestas de negocio y experiencia de usuario, facilitando la toma de decisiones técnicas consensuadas y garantizando el progreso continuo del modelo de negocio digital.<br>                                 |
+|                                                                                                          | **TB1**<br>- Alejandro Franklin Mendoza Vergara: En el TB1 lideré el desarrollo del frontend del bounded context Appointment Management. Implementé la reserva de citas, la consulta de disponibilidad, la cancelación y eliminación de citas y el registro de consultas, siguiendo la arquitectura por capas definida en los diagramas de clases. Coordiné con mis compañeros para usar la infraestructura compartida y adaptar mi módulo al nuevo diseño visual del equipo. <br/>- Gabriel Alejandro Vilchez Vite: En el TB1, lidré en el desarrollo de la aplicación frontend, especificamente con el BC de Nutrition Managment, implementando el perfil del niño y su perfil clinico, También coordine con mis compañeros sobre el desarollo del frontend. <br> - Giordano Trejo Espejo: Para el TB1 mejoré el diseño de la Landing Page, junto con el desarrollo del bounded context User Profile Management, actualizar el eventstorming y los flujos de uso de la aplicación. |
+| **5.c2.** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **AV1**<br>- Gabriel Alejandro Vilchez Vite: Durante el Av1, todos mis compañeros y yo calaboramos entre nosotros para lograr nuestros objetivos, Al mismo tiempo, logramos avanzar bastantes cosas gracias a nuestras metas establecidas. <br>- Poly Gabriel Aleantara Baldeon: <br/>- Alejandro Franklin Mendoza Vergara:Para este Av1 realice gran parte del capitulo 5, entrevistas y parte del capitulo 2. Todo se logró gracias a las metas establecidas por el equipo para cada parte del trabajo, dónde nos ayudamos mutuamente y logré desarrollar nuevas habilidades relacionadas a las partes dirigidas hacia mi. <br/>- Giordano Sebastian Del Ángel Trejo Espejo: Para el primer avance, realicé una entrevista para el segmento objetivo 1, añadi los empathy maps y el User Task Matrix<br>                                                                                                                                                                           | Se logró establecer un ambiente de trabajo colaborativo para abordar la problemática del abandono de hábitos saludables y la optimización del seguimiento clínico para nutricionistas. El equipo definió metas claras y planificó tareas de manera estructurada, lo que permitió completar exitosamente hitos críticos como el Lean UX Canvas, los User Journey Maps, la arquitectura de la información y los diagramas de flujo de usuario (Wireflows y User Flows). El cumplimiento riguroso de esta planificación conjunta evidenció un compromiso grupal sólido, asegurando que todos los entregables respetaran los atributos de calidad exigidos y se alinearan con los objetivos del ciclo de vida del producto de software.<br>     |
+|                                                                                                          | **TB1**<br>- Alejandro Franklin Mendoza Vergara: Dividí el trabajo del módulo de citas por capas (dominio, infraestructura, aplicación y presentación) y lo fui cumpliendo por etapas. Además, apoyé en la integración con el menú, las rutas y los idiomas del equipo, y ajusté mi código cuando un compañero modificó el diseño de la aplicación, para que todo siguiera funcionando. <br/>- Gabriel Alejandro Vilchez Vite: Todo el BC se dividio por capas, en las cuales se fueron implementando las rutas, las funciones, etc. Entre todos mis compañeros nos ayudamos a terminar el trabajo. <br/> - Giordano Trejo Espejo: Para el TB1 mejoré el diseño de la Landing Page, junto con el desarrollo del bounded context User Profile Management, actualizar el eventstorming y los flujos de uso de la aplicación.                                                                                                                                                           |
 <div style="page-break-before: always;"></div>
 
 # Capítulo I: Introducción
@@ -639,7 +658,7 @@ Reyna es una persona que busca reducir y controlar su peso principalmente para s
 
 ## Análisis de entrevistas
 
-### Segmento 1: Personas que desean reducir su peso 
+### Segmento 1: Personas que desean reducir su peso
 
 - **Motivación principal:** ambos entrevistados buscan mejorar su salud y su apariencia física, con el propósito de fondo de sentirse mejor consigo mismos en su día a día.
 - **Principal obstáculo:** ninguno atribuye su dificultad a la falta de información, sino a sostener la constancia en el tiempo. Ian lo relaciona con la falta de tiempo y los constantes cambios en su horario académico; Reyna con el control de antojos y la desmotivación que aparece cuando no ve resultados rápidos, lo que la lleva a abandonar rutinas ya iniciadas.
@@ -651,7 +670,7 @@ Reyna es una persona que busca reducir y controlar su peso principalmente para s
 - **Tipo de ejercicio preferido:** Reyna menciona sentirse más cómoda con caminatas, trote o gimnasio, actividades de bajo costo de entrada.
 - **Factor de retención:** ambos coinciden en que lo que los mantendría usando la app y no abandonarla como en intentos anteriores es que les simplifique la toma de decisiones diarias, en lugar de exigirles esfuerzo adicional de planificación.
 
-### Segmento 2: Nutricionistas que desean generar ingresos adicionales 
+### Segmento 2: Nutricionistas que desean generar ingresos adicionales
 
 - **Perfil profesional:** las tres entrevistadas ejercen activamente la nutrición clínica, aunque desde contextos distintos: Cecilia en un entorno hospitalario, Mateo en consulta mixta presencial y virtual, y Marisol en atención institucional de larga trayectoria.
 - **Herramienta de seguimiento actual:** Mateo y Marisol dependen principalmente de WhatsApp para dar seguimiento a sus pacientes, mientras que Cecilia trabaja con historias clínicas y evaluaciones nutricionales formales dentro del hospital.
@@ -733,19 +752,19 @@ En esta sección se elaboran los User Journey Maps en As-Is, imitando la experie
 
 **Flujo Acceso:**
 
-  ![EventStorming Acceso](assets/images/est_acceso.jpg)
+![EventStorming Acceso](assets/images/est_acceso.jpg)
 
 **Flujo Planificacion:**
 
-  ![EventStorming Acceso](assets/images/est_planificacion.jpg)
+![EventStorming Acceso](assets/images/est_planificacion.jpg)
 
 **Flujo Seguimiento:**
 
-  ![EventStorming Acceso](assets/images/est_seguimiento.jpg)
+![EventStorming Acceso](assets/images/est_seguimiento.jpg)
 
 **Flujo Atencion:**
 
-  ![EventStorming Acceso](assets/images/est_atencion.jpg)
+![EventStorming Acceso](assets/images/est_atencion.jpg)
 
 
 ## 2.5 Ubiquitous Language
@@ -939,9 +958,13 @@ En esta sección el equipo sienta las bases para contar con un repositorio centr
 **Branding:** NutriApp Integral busca transmitir cercanía, motivación y confianza profesional al mismo tiempo, ya que atiende a dos segmentos con necesidades distintas: personas que buscan controlar su peso de forma sostenible, y nutricionistas que requieren una herramienta seria y confiable para su ejercicio profesional. El logo y la identidad visual se apoyan en formas orgánicas y redondeadas que evocan bienestar y salud, evitando un estilo clínico o frío que aleje al segmento de usuarios finales.
 
 **Typography:** Se propone una tipografía sans-serif (por ejemplo, Poppins o Inter) para títulos y textos de interfaz, priorizando legibilidad en pantallas móviles y una sensación moderna y accesible. Se recomienda un máximo de dos familias tipográficas: una para títulos/encabezados (con mayor peso, semibold/bold) y otra para texto de cuerpo (regular), evitando sobrecargar la jerarquía visual.
+**Tipografía y componentes visuales:**
 
+![Tipografía y componentes](assets/images/Style_Typography.png)
 **Colors:** La paleta principal se basa en tonos verdes (asociados a salud, bienestar y nutrición) como color primario, complementados con un color secundario cálido (naranja o amarillo suave) para llamadas a la acción y elementos de motivación/progreso. Se define además una escala de grises neutros para textos y fondos, y un color de alerta/error (rojo) reservado para validaciones y mensajes críticos.
 
+**Paleta de colores de NutriApp Integral:**
+![Paleta de colores](assets/images/Style_Color_Palette.png)
 **Spacing:** Se adopta un sistema de espaciado basado en múltiplos de 8px (8, 16, 24, 32...) para mantener consistencia entre componentes, tanto en el Landing Page como en la Web Application, facilitando además el diseño responsive.
 
 **Tono de comunicación:** NutriApp Integral adopta un tono predominantemente **Entusiasta pero Sereno**, y **Casual pero Respetuoso**, buscando un punto intermedio entre ambos segmentos objetivo: cercano y motivador para el usuario final que busca bajar de peso, sin perder la seriedad y profesionalismo que espera el segmento de nutricionistas. Se evita el humor irreverente o un tono excesivamente formal/corporativo.
@@ -956,7 +979,9 @@ En esta sección se explican e ilustran las decisiones sobre los estándares vis
 - **Breakpoints:** se establecen los puntos de quiebre estándar (móvil: hasta 480px, tablet: 481px–1024px, desktop: desde 1025px) para adaptar la disposición de contenido.
 - **Componentes de interacción:** botones, campos de formulario, tarjetas de contenido y elementos de navegación siguen un estilo consistente en cuanto a bordes redondeados, sombras suaves y estados (hover, active, disabled), coherente con la identidad visual definida en el punto 4.1.1.
 - **Accesibilidad:** se busca un contraste de color que cumpla al menos el nivel AA de WCAG, considerando que parte del segmento de nutricionistas (como Marisol López, con poca experiencia tecnológica) requiere una interfaz clara y fácil de leer.
+  **Diseño responsivo de NutriApp Integral:**
 
+![Diseño responsive](assets/images/Style_Responsive.png)
 ## 4.2. Information Architecture
 
 En esta sección el equipo plantea las decisiones y el sustento que dirigen la manera cómo se organizará el contenido en las experiencias web de NutriApp Integral, tanto en el Landing Page como en la Web Application. Estas propuestas están orientadas a que los visitantes y usuarios se adapten con facilidad a la funcionalidad del producto y puedan encontrar todo lo que necesiten sin esfuerzo, considerando las diferencias de necesidades entre el segmento de usuarios finales y el segmento de nutricionistas.
@@ -1025,8 +1050,8 @@ Se presentan los wireframes elaborados para el Landing Page para navegadores de 
 
 **Wireframe para Desktop:**
 Se presenta la información mediante una jerarquía visual clara.
-*   Header: Permite el acceso rápido a las páginas principales identificadas en la arquitectura: Beneficios, Funciones, Progreso, Nosotros, Contacto. 
-*   Hero Section: Presenta el mensaje principal de VitaControl junto con un botón de llamada a la acción para captar la atención del visitante.
+*   Header: Permite el acceso rápido a las páginas principales identificadas en la arquitectura: Beneficios, Funciones, Progreso, Nosotros, Contacto.
+*   Hero Section: Presenta el mensaje principal de NutriApp Integral junto con un botón de llamada a la acción para captar la atención del visitante.
 *   Secciones de Contenido: Se distribuyen en bloques horizontales (como la sección de "Funciones" y "Contacto"), utilizando contenedores amplios para facilitar la lectura.
 *   Footer: Contiene los enlaces a los términos y condiciones, así como la información de contacto.
 
@@ -1049,40 +1074,40 @@ Se ha aplicado el principio de accesibilidad y diseño inclusivo.
 Se presentan los Mock-ups del Landing Page de NutriApp, en su versión de escritorio y para dispositivos móviles.
 
 **Aplicación de Principios de Diseño y Arquitectura:**
-*   Identidad Visual y Style Guidelines: Se han reemplazado los bloques grises por imágenes representativas de hábitos saludables y se ha aplicado la paleta de colores de VitaControl.
+*   Identidad Visual y Style Guidelines: Se han reemplazado los bloques grises por imágenes representativas de hábitos saludables y se ha aplicado la paleta de colores de NutriApp Integral.
 *   Arquitectura de la Información: Se mantiene la estructura navegable del Header.
 *   Diseño Inclusivo y Accesibilidad: Se ha garantizado un alto contraste entre los textos y los fondos para facilitar la legibilidad. Asimismo, el botón Call to Action destaca visualmente sobre el resto de elementos y cuenta con un tamaño óptimo para la interacción táctil en la versión móvil.
 *   Adaptabilidad: Las tarjetas de la sección Nuestros Servicios, que en Desktop se muestran en una cuadrícula horizontal, se apilan verticalmente en la vista Mobile, respetando la jerarquía visual.
 
 **Desktop:**
 
-  ![Landing Page Mock-up 1 - Desktop](assets/images/lp-mockup-desktop-1.png)
-  ![Landing Page Mock-up 2 - Desktop](assets/images/lp-mockup-desktop-2.png)
-  ![Landing Page Mock-up 3 - Desktop](assets/images/lp-mockup-desktop-3.png)
-  ![Landing Page Mock-up 4 - Desktop](assets/images/lp-mockup-desktop-4.png)
-  ![Landing Page Mock-up 5 - Desktop](assets/images/lp-mockup-desktop-5.png)
-  ![Landing Page Mock-up 6 - Desktop](assets/images/lp-mockup-desktop-6.png)
-  ![Landing Page Mock-up 7 - Desktop](assets/images/lp-mockup-desktop-7.png)
-  ![Landing Page Mock-up 8 - Desktop](assets/images/lp-mockup-desktop-8.png)
-  ![Landing Page Mock-up 9 - Desktop](assets/images/lp-mockup-desktop-9.png)
-  ![Landing Page Mock-up 10 - Desktop](assets/images/lp-mockup-desktop-10.png)
+![Landing Page Mock-up 1 - Desktop](assets/images/lp-mockup-desktop-1.png)
+![Landing Page Mock-up 2 - Desktop](assets/images/lp-mockup-desktop-2.png)
+![Landing Page Mock-up 3 - Desktop](assets/images/lp-mockup-desktop-3.png)
+![Landing Page Mock-up 4 - Desktop](assets/images/lp-mockup-desktop-4.png)
+![Landing Page Mock-up 5 - Desktop](assets/images/lp-mockup-desktop-5.png)
+![Landing Page Mock-up 6 - Desktop](assets/images/lp-mockup-desktop-6.png)
+![Landing Page Mock-up 7 - Desktop](assets/images/lp-mockup-desktop-7.png)
+![Landing Page Mock-up 8 - Desktop](assets/images/lp-mockup-desktop-8.png)
+![Landing Page Mock-up 9 - Desktop](assets/images/lp-mockup-desktop-9.png)
+![Landing Page Mock-up 10 - Desktop](assets/images/lp-mockup-desktop-10.png)
 
 **Mobile:**
 
-  ![Landing Page Mock-up 1 - Mobile](assets/images/lp-mockup-mobile-1.png)
-  ![Landing Page Mock-up 2 - Mobile](assets/images/lp-mockup-mobile-2.png)
-  ![Landing Page Mock-up 3 - Mobile](assets/images/lp-mockup-mobile-3.png)
-  ![Landing Page Mock-up 4 - Mobile](assets/images/lp-mockup-mobile-4.png)
-  ![Landing Page Mock-up 5 - Mobile](assets/images/lp-mockup-mobile-5.png)
-  ![Landing Page Mock-up 6 - Mobile](assets/images/lp-mockup-mobile-6.png)
-  ![Landing Page Mock-up 7 - Mobile](assets/images/lp-mockup-mobile-7.png)
-  ![Landing Page Mock-up 8 - Mobile](assets/images/lp-mockup-mobile-8.png)
-  ![Landing Page Mock-up 9 - Mobile](assets/images/lp-mockup-mobile-9.png)
-  ![Landing Page Mock-up 10 - Mobile](assets/images/lp-mockup-mobile-10.png)
+![Landing Page Mock-up 1 - Mobile](assets/images/lp-mockup-mobile-1.png)
+![Landing Page Mock-up 2 - Mobile](assets/images/lp-mockup-mobile-2.png)
+![Landing Page Mock-up 3 - Mobile](assets/images/lp-mockup-mobile-3.png)
+![Landing Page Mock-up 4 - Mobile](assets/images/lp-mockup-mobile-4.png)
+![Landing Page Mock-up 5 - Mobile](assets/images/lp-mockup-mobile-5.png)
+![Landing Page Mock-up 6 - Mobile](assets/images/lp-mockup-mobile-6.png)
+![Landing Page Mock-up 7 - Mobile](assets/images/lp-mockup-mobile-7.png)
+![Landing Page Mock-up 8 - Mobile](assets/images/lp-mockup-mobile-8.png)
+![Landing Page Mock-up 9 - Mobile](assets/images/lp-mockup-mobile-9.png)
+![Landing Page Mock-up 10 - Mobile](assets/images/lp-mockup-mobile-10.png)
 
 ## 4.4. Web Applications UX/UI Design
 
-El diseño de la Web Application está enfocado en la usabilidad diaria, la retención y el cumplimiento de tareas específicas para nuestros dos segmentos objetivo. 
+El diseño de la Web Application está enfocado en la usabilidad diaria, la retención y el cumplimiento de tareas específicas para nuestros dos segmentos objetivo.
 
 ### 4.4.1. Web Applications Wireframes
 
@@ -1464,15 +1489,15 @@ El Design-Level EventStorming de **NutriApp Integral** permite representar los c
 
 ### 4.6.2. Software Architecture Context Diagram
 
-  ![Context Diagram](assets/images/d_context.png)
+![Context Diagram](assets/images/d_context.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-  ![Container Diagram](assets/images/d_containers.png)
+![Container Diagram](assets/images/d_containers.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-  ![Container Diagram](assets/images/d_components.png)
+![Container Diagram](assets/images/d_components.png)
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1481,6 +1506,8 @@ En esta sección, presentaremos con mayor detalle cómo se encuentran estructura
 ### 4.7.1. Class Diagrams
 
 A continuación, presentaremos la estructura interna de los componentes que conforman nuestro sistema, mostrando cómo se organizan sus clases y cómo se relacionan entre sí para representar las principales funcionalidades de cada Bounded Context.
+
+#### Fronted Diagrams
 
 * **Shared BC:** Agrupa los componentes y servicios transversales reutilizados por toda la aplicación. Incluye **Layout**, **LanguageSwitcher** y **FooterContent** como componentes de presentación comunes, junto con **BaseApi** y **BaseEndpoint** como infraestructura base que extienden las APIs específicas de cada bounded context.
 
@@ -1505,6 +1532,8 @@ A continuación, presentaremos la estructura interna de los componentes que conf
 * **Appointment Management BC:** Agrupa las funcionalidades relacionadas con la gestión y programación de citas, la consulta de disponibilidad y el registro de consultas de los usuarios. En el dominio se definen **Appointment**, **Availability** y **Consultation** como elementos principales, encargados de representar las citas, los horarios disponibles y las consultas. La capa de aplicación centraliza estas operaciones mediante **AppointmentStore**, mientras que la infraestructura proporciona los ensambladores y la API para transformar y exponer la información. En presentación, los componentes permiten visualizar y gestionar las citas, consultar la disponibilidad, seleccionar horarios y registrar consultas.
 
 <img src="assets/images/appointment-uml.png">
+
+#### Backend Diagrams
 
 ## 4.8. Database Design
 
@@ -1875,20 +1904,20 @@ En esta sección se registra y explica el avance en términos de producto y trab
 
 A continuación, presentaremos los principales aspectos considerados durante el Sprint Planning 2, en el cual se establecieron las actividades y objetivos que orientaron el trabajo del equipo durante el sprint. Para ello, se mostrará un cuadro de resumen que reúne la información principal de la planificación realizada, permitiendo identificar los elementos definidos para organizar y orientar el desarrollo del Sprint 2.
 
-| **Sprint #**                          | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                         |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**        |                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Date**                              | 2026-10-06                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Time**                              | 17:00                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Location**                          | Virtual - Zoom                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Prepared By**                       | Vilchez Vite, Gabriel Alejandro                                                                                                                                                                                                                                                                                                                                                                  |
-| **Attendees (to planning meeting)**   | Vilchez Vite, Gabriel Alejandro / Alcantara Baldeon, Poly Gabriel / Portal Inga, Waldo Alonso / Ángel Trejo Espejo, Giordano Sebastian / Mendoza Vergara, Alejandro Franklin                                                                                                                                                                                                                     |
-| **Sprint 1 Review Summary**           | Durante la revisión del Sprint 1, el equipo evaluó los avances obtenidos en la primera iteración y las evidencias del trabajo realizado. Los resultados de esta revisión se tomaron como referencia para definir las prioridades y las funcionalidades que se abordarán durante el Sprint 2.                                                                                                     |
-| **Sprint 1 Retrospective Summary**    | A partir de la retrospectiva del Sprint 1, el equipo consideró la importancia de mantener una comunicación constante, distribuir adecuadamente las responsabilidades y mejorar el seguimiento de las tareas pendientes. Estos aspectos se tendrán en cuenta durante el Sprint 2 para favorecer la coordinación entre los integrantes y el cumplimiento de los objetivos establecidos.            |
-| **Sprint Goal & User Stories**        |                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Sprint 2 Goal**                     | Implementar las funcionalidades básicas de registro, autenticación y configuración inicial del perfil del usuario, permitiendo que los usuarios creen su cuenta, accedan a la plataforma, registren su información personal y establezcan sus objetivos. **Métrica de cumplimiento:** completar las cuatro User Stories comprometidas y alcanzar el 100 % de los 13 Story Points seleccionados.  |
-| **Sprint 2 Velocity**                 | 13 Story Points                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Sum of Story Points for Sprint 2**  | 13 Story Points                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint #**                          | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                        |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**        |                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Date**                              | 2026-10-06                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Time**                              | 17:00                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Location**                          | Virtual - Zoom                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Prepared By**                       | Vilchez Vite, Gabriel Alejandro                                                                                                                                                                                                                                                                                                                                                                 |
+| **Attendees (to planning meeting)**   | Vilchez Vite, Gabriel Alejandro / Alcantara Baldeon, Poly Gabriel / Portal Inga, Waldo Alonso / Ángel Trejo Espejo, Giordano Sebastian / Mendoza Vergara, Alejandro Franklin                                                                                                                                                                                                                    |
+| **Sprint 1 Review Summary**           | Durante la revisión del Sprint 1, el equipo evaluó los avances obtenidos en la primera iteración y las evidencias del trabajo realizado. Los resultados de esta revisión se tomaron como referencia para definir las prioridades y las funcionalidades que se abordarán durante el Sprint 2.                                                                                                    |
+| **Sprint 1 Retrospective Summary**    | A partir de la retrospectiva del Sprint 1, el equipo consideró la importancia de mantener una comunicación constante, distribuir adecuadamente las responsabilidades y mejorar el seguimiento de las tareas pendientes. Estos aspectos se tendrán en cuenta durante el Sprint 2 para favorecer la coordinación entre los integrantes y el cumplimiento de los objetivos establecidos.           |
+| **Sprint Goal & User Stories**        |                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Sprint 2 Goal**                     | Implementar las funcionalidades básicas de registro, autenticación y configuración inicial del perfil del usuario, permitiendo que los usuarios creen su cuenta, accedan a la plataforma, registren su información personal y establezcan sus objetivos. **Métrica de cumplimiento:** Completar las cuatro User Stories comprometidas y alcanzar el 100 % de los 13 Story Points seleccionados. |
+| **Sprint 2 Velocity**                 | 60 Story Points                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Sum of Story Points for Sprint 2**  | 60 Story Points                                                                                                                                                                                                                                                                                                                                                                                 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
@@ -1989,21 +2018,25 @@ En esta sección se presenta el **Sprint Backlog 2 de NutriApp Integral**, elabo
 
 Durante el Sprint 2, el equipo avanzó en la implementación de la aplicación frontend de NutriApp Integral, desarrollando las funcionalidades de sus cinco bounded contexts: Identity and Access Management, User Profile Management, Progress Monitoring, Nutrition Plan Management y Appointment Management. Cada bounded context se trabajó en una rama de funcionalidad propia siguiendo la arquitectura por capas (dominio, infraestructura, aplicación y presentación) definida en los diagramas de clases. Asimismo, se documentaron los commits y ramas utilizados, lo que asegura la trazabilidad del trabajo y la colaboración entre los miembros del equipo. A continuación, se presentan las evidencias de las principales contribuciones realizadas durante el Sprint.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/iam | `<hash>` | feat: implement iam sign-in and sign-up views | Implements the registration and login forms with frontend data validation, the authentication store and session handling for the Identity and Access Management bounded context | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/user-profile-management | `<hash>` | feat: implement patient profile and goals management | Implements the registration and update of personal data, preferences, restrictions and nutritional goals, including validations and the user profile store | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement habit record domain and api | Implements the HabitRecord and ProgressRecord entities, the assemblers and the API endpoints for registering and querying habits by period | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement food and physical activity records | Implements the forms and lists for registering food intake and physical activities, with validation of incomplete data | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/progress-monitoring | `<hash>` | feat: implement progress charts view | Implements the progress view with evolution charts against the user's goals and the message shown when there is not enough data | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/nutrition-plan-management | `<hash>` | feat: implement food recommendations view | Implements the generation and display of personalized food and exercise recommendations based on the user's profile and goals | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/nutrition-plan-management | `<hash>` | feat: implement nutrition plan creation and editing | Implements the NutritionPlan and MealPlan entities, the store and the views that allow the nutritionist to create, edit and validate nutritional plans | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/appointment-management | `<hash>` | feat: implement appointment availability and booking | Implements the availability query, the appointment booking flow and the appointment list following the layered architecture of the bounded context | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | feature/appointment-management | `<hash>` | feat: implement appointment cancellation and consultation record | Implements the cancellation and deletion of appointments and the registration of consultation notes and recommendations associated with an appointment | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | develop | `<hash>` | chore: merge feature branches into develop | Integrates the five bounded context branches into develop and adapts the shared layout, routes and language switcher to the new modules | 2026-10-XX |
-| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application | main | `<hash>` | chore: release sprint 2 | Merges develop into main to deploy the Sprint 2 version of the frontend application | 2026-10-XX |
+| Repository                                                  | Branch                            | Commit Id | Commit Message                                                   | Commit Message Body                                                                                                                                                             | Commited on (Date) |
+|-------------------------------------------------------------|-----------------------------------|-----------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/iam                       | `<hash>`  | feat: implement iam sign-in and sign-up views                    | Implements the registration and login forms with frontend data validation, the authentication store and session handling for the Identity and Access Management bounded context | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/user-profile-management   | `<hash>`  | feat: implement patient profile and goals management             | Implements the registration and update of personal data, preferences, restrictions and nutritional goals, including validations and the user profile store                      | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/progress-monitoring       | `<hash>`  | feat: implement habit record domain and api                      | Implements the HabitRecord and ProgressRecord entities, the assemblers and the API endpoints for registering and querying habits by period                                      | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/progress-monitoring       | `<hash>`  | feat: implement food and physical activity records               | Implements the forms and lists for registering food intake and physical activities, with validation of incomplete data                                                          | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/progress-monitoring       | `<hash>`  | feat: implement progress charts view                             | Implements the progress view with evolution charts against the user's goals and the message shown when there is not enough data                                                 | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/nutrition-plan-management | `<hash>`  | feat: implement food recommendations view                        | Implements the generation and display of personalized food and exercise recommendations based on the user's profile and goals                                                   | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/nutrition-plan-management | `<hash>`  | feat: implement nutrition plan creation and editing              | Implements the NutritionPlan and MealPlan entities, the store and the views that allow the nutritionist to create, edit and validate nutritional plans                          | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/appointment-management    | `<hash>`  | feat: implement appointment availability and booking             | Implements the availability query, the appointment booking flow and the appointment list following the layered architecture of the bounded context                              | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | feature/appointment-management    | `<hash>`  | feat: implement appointment cancellation and consultation record | Implements the cancellation and deletion of appointments and the registration of consultation notes and recommendations associated with an appointment                          | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | develop                           | `<hash>`  | chore: merge feature branches into develop                       | Integrates the five bounded context branches into develop and adapts the shared layout, routes and language switcher to the new modules                                         | 2026-10-XX         |
+| 1ASI0730-2620-16129-G2-NutriStartup / Frontend-Application  | main                              | `<hash>`  | chore: release sprint 2                                          | Merges develop into main to deploy the Sprint 2 version of the frontend application                                                                                             | 2026-10-XX         |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+En esta sección se presentan las evidencias de ejecución correspondientes al Sprint 2 de NutriApp Integral, con el propósito de mostrar los avances y resultados obtenidos durante esta iteración. Estas evidencias permiten visualizar el funcionamiento de las funcionalidades desarrolladas, así como verificar el cumplimiento de las User Stories seleccionadas para el sprint. Asimismo, constituyen un respaldo para la revisión del incremento del producto, facilitando la evaluación del trabajo realizado por el equipo e identificando los aspectos que pueden mejorarse en las siguientes iteraciones.
+
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2011,19 +2044,19 @@ En este Sprint no se consumió el RESTful Web API definitivo de NutriApp Integra
 
 La URL base de los servicios se resuelve desde el archivo de entorno (*environment*) de la aplicación. En la siguiente tabla dicha base se referencia como `{apiUrl}`.
 
-| Contexto / Módulo | Recurso (Endpoint Base) | Acciones Implementadas | Ejemplo de uso |
-| --- | --- | --- | --- |
-| Identity and Access Management | `{apiUrl}/api/v1/users` | GET, POST | `GET /api/v1/users?email=usuario@correo.com` |
-| User Profile Management | `{apiUrl}/api/v1/profiles` | GET, POST, PUT | `PUT /api/v1/profiles/1` con `{ "weight", "height", "preferences" }` |
-| User Profile Management | `{apiUrl}/api/v1/goals` | GET, POST, PUT | `GET /api/v1/goals?userId=1` |
-| Progress Monitoring | `{apiUrl}/api/v1/habit-records` | GET, POST | `GET /api/v1/habit-records?userId=1&from=2026-10-01` |
-| Progress Monitoring | `{apiUrl}/api/v1/food-records` | GET, POST | `POST /api/v1/food-records` con `{ "userId", "food", "date" }` |
-| Progress Monitoring | `{apiUrl}/api/v1/activity-records` | GET, POST | `GET /api/v1/activity-records?userId=1` |
-| Nutrition Plan Management | `{apiUrl}/api/v1/recommendations` | GET | `GET /api/v1/recommendations?userId=1&type=FOOD` |
-| Nutrition Plan Management | `{apiUrl}/api/v1/nutrition-plans` | GET, POST, PUT | `POST /api/v1/nutrition-plans` con `{ "patientId", "meals" }` |
-| Appointment Management | `{apiUrl}/api/v1/availabilities` | GET | `GET /api/v1/availabilities?nutritionistId=2` |
-| Appointment Management | `{apiUrl}/api/v1/appointments` | GET, POST, PATCH, DELETE | `PATCH /api/v1/appointments/5` con `{ "status": "CANCELLED" }` |
-| Appointment Management | `{apiUrl}/api/v1/consultations` | GET, POST | `POST /api/v1/consultations` con `{ "appointmentId", "notes" }` |
+| Contexto / Módulo              | Recurso (Endpoint Base)            | Acciones Implementadas   | Ejemplo de uso                                                       |
+|--------------------------------|------------------------------------|--------------------------|----------------------------------------------------------------------|
+| Identity and Access Management | `{apiUrl}/api/v1/users`            | GET, POST                | `GET /api/v1/users?email=usuario@correo.com`                         |
+| User Profile Management        | `{apiUrl}/api/v1/profiles`         | GET, POST, PUT           | `PUT /api/v1/profiles/1` con `{ "weight", "height", "preferences" }` |
+| User Profile Management        | `{apiUrl}/api/v1/goals`            | GET, POST, PUT           | `GET /api/v1/goals?userId=1`                                         |
+| Progress Monitoring            | `{apiUrl}/api/v1/habit-records`    | GET, POST                | `GET /api/v1/habit-records?userId=1&from=2026-10-01`                 |
+| Progress Monitoring            | `{apiUrl}/api/v1/food-records`     | GET, POST                | `POST /api/v1/food-records` con `{ "userId", "food", "date" }`       |
+| Progress Monitoring            | `{apiUrl}/api/v1/activity-records` | GET, POST                | `GET /api/v1/activity-records?userId=1`                              |
+| Nutrition Plan Management      | `{apiUrl}/api/v1/recommendations`  | GET                      | `GET /api/v1/recommendations?userId=1&type=FOOD`                     |
+| Nutrition Plan Management      | `{apiUrl}/api/v1/nutrition-plans`  | GET, POST, PUT           | `POST /api/v1/nutrition-plans` con `{ "patientId", "meals" }`        |
+| Appointment Management         | `{apiUrl}/api/v1/availabilities`   | GET                      | `GET /api/v1/availabilities?nutritionistId=2`                        |
+| Appointment Management         | `{apiUrl}/api/v1/appointments`     | GET, POST, PATCH, DELETE | `PATCH /api/v1/appointments/5` con `{ "status": "CANCELLED" }`       |
+| Appointment Management         | `{apiUrl}/api/v1/consultations`    | GET, POST                | `POST /api/v1/consultations` con `{ "appointmentId", "notes" }`      |
 
 **Ejemplo de respuesta (200 OK) para `GET /api/v1/appointments?nutritionistId=2`:**
 
@@ -2077,7 +2110,6 @@ La URL base de los servicios se resuelve desde el archivo de entorno (*environme
 
 ![Front End 7](assets/images/fren-7.jpg)
 
-
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
@@ -2093,6 +2125,99 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 <img src="assets/images/contributors_sprint2_1.png">
 
 <img src="assets/images/contributors_sprint2_2.png">
+
+### 5.2.3. Sprint 3
+
+En esta sección se registra y explica la planificación y el avance en términos de producto y trabajo colaborativo correspondiente al Sprint 3 del proyecto NutriApp Integral. Durante esta iteración, el equipo se enfocará en implementar funcionalidades relacionadas con el seguimiento de hábitos, la definición de objetivos y el registro de alimentación y actividad física. Asimismo, se contempla el desarrollo de los servicios REST necesarios para gestionar esta información desde el backend, fortaleciendo la comunicación entre los distintos componentes de la plataforma.
+
+#### 5.2.3.1. Sprint Planning 3
+
+A continuación, presentaremos los principales aspectos considerados durante el Sprint Planning 3, en el cual se establecieron las actividades, prioridades y objetivos que orientarán el trabajo del equipo durante esta nueva iteración. Para ello, se muestra un cuadro de resumen que reúne la información principal de la planificación realizada, permitiendo identificar los elementos definidos para organizar y orientar el desarrollo del Sprint 3.
+
+| **Sprint #**                         | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Date**                             | 2026-11-03                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Time**                             | 19:06                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Location**                         | Virtual - Zoom                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Prepared By**                      | Vilchez Vite, Gabriel Alejandro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Attendees (to planning meeting)**  | Vilchez Vite, Gabriel Alejandro / Alcantara Baldeon, Poly Gabriel / Portal Inga, Waldo Alonso / Ángel Trejo Espejo, Giordano Sebastian / Mendoza Vergara, Alejandro Franklin                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Sprint 2 Review Summary**          | Durante la revisión del Sprint 2, el equipo revisó los avances y las evidencias correspondientes a las funcionalidades abordadas durante la segunda iteración. Esta revisión permitió considerar los resultados obtenidos y reconocer los aspectos que servirían como referencia para establecer las prioridades del Sprint 3.                                                                                                                                                                                                                                                                    |
+| **Sprint 2 Retrospective Summary**   | A partir de la retrospectiva del Sprint 2, el equipo consideró la importancia de mantener una comunicación constante, distribuir adecuadamente las responsabilidades y realizar un seguimiento continuo de las actividades. Estos aspectos se tomarán en cuenta durante el Sprint 3 para favorecer la coordinación entre los integrantes y el cumplimiento de los objetivos establecidos.                                                                                                                                                                                                         |
+| **Sprint Goal & User Stories**       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Sprint 3 Goal**                    | Implementar las funcionalidades de registro de hábitos, definición de objetivos, registro de alimentación y registro de actividad física, permitiendo que los usuarios almacenen y consulten información relacionada con sus hábitos saludables. Asimismo, desarrollar los servicios REST necesarios para gestionar los registros de hábitos, alimentación y actividad física, facilitando la comunicación entre la Web Application y el backend. **Métrica de cumplimiento:** Completar las seis historias comprometidas para el Sprint 3 y alcanzar el 100 % de los Story Points seleccionados. |
+| **Sprint 3 Velocity**                | 24 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Sum of Story Points for Sprint 3** | 24 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) correspondiente al Sprint 3 de NutriApp Integral, con el propósito de identificar a los líderes y colaboradores responsables de los principales aspectos comprendidos dentro del alcance del sprint.
+
+Los aspectos considerados para esta iteración son: Registro de Hábitos, Definición de Objetivos, Registro de Alimentación y Registro de Actividad Física, así como el desarrollo de las API de Hábitos y de Alimentación y Actividad Física. Estos aspectos se relacionan principalmente con los bounded contexts de Progress Monitoring y Nutrition Plan Management.
+
+Esta matriz permite establecer responsabilidades claras y facilitar la coordinación y comunicación entre los integrantes del equipo durante el desarrollo de las User Stories seleccionadas (US-09, US-10, US-13, US-14, TS-03 y TS-04).
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **User Profile Management (Objectives)** | **Nutrition Plan Management (Food Records)** | **Progress Monitoring (Habits)** | **RESTful API (Habits)** | **RESTful API (Food and Physical Activity)** |
+|-----------------------------------------|---------------------|------------------------------------------|----------------------------------------------|----------------------------------|--------------------------|----------------------------------------------|
+| Alcantara Baldeon, Poly Gabriel         | GAALBA02            | C                                        | C                                            | L                                | C                        | C                                            |
+| Portal Inga, Waldo Alonso               | apiw-07             | C                                        | C                                            | C                                | C                        | C                                            |
+| Ángel Trejo Espejo, Giordano Sebastian  | giorgiorgiorgior    | L                                        | C                                            | C                                | C                        | C                                            |
+| Vilchez Vite, Gabriel Alejandro         | GZ-99               | C                                        | L                                            | C                                | C                        | C                                            |
+| Mendoza Vergara, Alejandro Franklin     | AlexBoo578          | C                                        | C                                            | C                                | L                        | L                                            |
+
+**Leyenda:** L = Leader (líder responsable del aspecto); C = Collaborator (colaborador).
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+
+En esta sección se presentan las entrevistas de validación realizadas con el propósito de evaluar la propuesta de NutriApp Integral y conocer la percepción de los usuarios potenciales respecto a las funcionalidades planteadas. A través de estas entrevistas, se busca recopilar opiniones, experiencias y sugerencias que permitan identificar si la solución responde adecuadamente a las necesidades y problemáticas previamente identificadas. Asimismo, la información obtenida servirá como base para reconocer oportunidades de mejora, ajustar las funcionalidades propuestas y fortalecer la pertinencia de la plataforma antes de continuar con su desarrollo.
+
+### 5.3.1. Diseño de Entrevistas
+
+El diseño de las entrevistas de validación de NutriApp Integral tiene como finalidad establecer los elementos que se presentarán a los usuarios de los segmentos objetivo durante las sesiones de evaluación. Para ello, se contempla la interacción de los participantes con el Landing Page y los prototipos de las experiencias web y móvil, con el propósito de recopilar sus apreciaciones sobre la propuesta y el funcionamiento de las funcionalidades principales.
+
+**Estructura de las sesiones de validación**
+
+Cada sesión se organizará en las siguientes etapas:
+1. **Presentación inicial:** Se explicará brevemente el propósito de la entrevista y se presentará NutriApp Integral, indicando que el participante realizará una serie de actividades para evaluar la propuesta.
+2. **Exploración del Landing Page:** Se solicitará al participante que explore la página de presentación del producto, identificando la información que ofrece, sus funcionalidades principales y la claridad con la que se comunica la propuesta de valor.
+3. **Interacción con los prototipos:** Se pedirá al participante que interactúe con los prototipos de las experiencias web y móvil, siguiendo los flujos de usuario (User Flows) definidos para representar las principales funcionalidades de la plataforma.
+4. **Recopilación de apreciaciones:** Se realizarán preguntas abiertas para conocer la experiencia del participante, las dificultades encontradas, los aspectos que considera más útiles y sus sugerencias de mejora.
+5. **Cierre de la entrevista:** Se agradecerá la participación y se dará por finalizada la sesión, verificando que se hayan recopilado las observaciones correspondientes.
+
+**Diseño de preguntas**
+
+Las entrevistas se diseñaron mediante preguntas abiertas para que los participantes pudieran expresar libremente sus experiencias, necesidades y expectativas. Las preguntas estarán orientadas a conocer sus apreciaciones sobre la navegación, la comprensión de la información, la facilidad de interacción y la utilidad de las funcionalidades presentadas.
+
+Entre las preguntas consideradas se encuentran:
+* ¿Qué impresión te genera la propuesta de NutriApp Integral después de explorar el Landing Page?
+* ¿La información presentada en el Landing Page te permite comprender el propósito y las funcionalidades de la plataforma?
+* ¿Qué tan sencillo te resultó navegar por las diferentes secciones del prototipo?
+* ¿Pudiste completar las tareas propuestas sin dificultades? ¿Qué inconvenientes encontraste?
+* ¿Las funcionalidades presentadas responden a tus necesidades relacionadas con la alimentación y el seguimiento de hábitos saludables?
+* ¿Qué aspectos de la experiencia web o móvil consideras más útiles?
+* ¿Qué cambios o mejoras recomendarías para facilitar el uso de la plataforma?
+
+**Duración y registro de las entrevistas**
+
+Cada entrevista tendrá una duración aproximada de cinco a ocho minutos, considerando el tiempo necesario para la presentación inicial, la interacción con el Landing Page y los prototipos, y la recopilación de las opiniones del participante. Asimismo, las sesiones serán registradas en video con la autorización previa de cada entrevistado, a fin de conservar evidencias de las interacciones y observaciones realizadas durante el proceso de validación.
+
+Finalmente, las apreciaciones recopiladas servirán como insumo para el registro de entrevistas y las posteriores evaluaciones según las heurísticas de usabilidad, arquitectura de información y diseño inclusivo.
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
 
 # Conclusiones
 
@@ -2114,15 +2239,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 
 ## Conclusiones y recomendaciones
 
-
-
 ## Video About-the-Team
 
-
-
 # Bibliografía
-
-
 
 # Anexos
 
