@@ -2215,11 +2215,73 @@ Las tareas anteriores corresponden a la descomposición del trabajo definida par
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 3 de NutriApp Integral, se desarrollaron y mejoraron funcionalidades orientadas al registro de hábitos, la definición de objetivos, el registro de alimentación y la actividad física. Estas funcionalidades permiten que los usuarios gestionen información relacionada con sus hábitos saludables y realicen un seguimiento de sus objetivos. Además de la primera versión del backend.
+
+**Vista de registro de hábitos**
+![Vista de registro de habitos](assets/images/registro-habitos-sprint3.png)
+
+**Historial de hábitos**
+![Historial de habitos](assets/images/habitos-sprint3.png)
+
+**Formulario con credenciales**
+![Formulario con credenciales](assets/images/formulario-sprint3.png)
+
+**Backend con Scalar**
+![Backend con Scalar](assets/images/scalar-backend-sprint3.png)
+
+**Video de demostracion del Sprint 3**
+
+[Sprint 3 video](https://youtu.be/gneEDEEq9ow)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se revisaron los servicios REST implementados en el backend de NutriApp Integral y su documentación mediante OpenAPI y Scalar. Estos servicios permiten gestionar información relacionada con la definición de objetivos personales, el seguimiento del progreso físico y la administración de planes nutricionales, planes de comida y recomendaciones alimentarias. Asimismo, se documentan las operaciones disponibles para consultar, crear, actualizar y eliminar recursos, según las acciones implementadas en cada controlador.
+
+La API está desarrollada con ASP.NET Core y utiliza rutas versionadas bajo el prefijo `/api/v1`. Para el entorno de desarrollo, la documentación interactiva se encuentra disponible en la siguiente dirección:
+
+| Elemento | URL |
+|---|---|
+| URL base local de la API | `https://localhost:7013` |
+| Documentación interactiva de Scalar | `https://localhost:7013/scalar/v1` |
+| Documento OpenAPI en formato JSON | `https://localhost:7013/openapi/v1.json` |
+| Repositorio del backend | https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Backend-Platform |
+
+**Endpoints**
+
+| Bounded Context / recurso | Método HTTP | Endpoint | Parámetros principales y descripción |
+|---|---|---|---|
+| User Profile Management – Patient Profiles | GET | `/api/v1/user_profiles?user_id={user_id}` | Recibe `user_id` como parámetro de consulta y permite recuperar el perfil asociado al usuario. |
+| User Profile Management – Patient Profiles | GET | `/api/v1/user_profiles/{id}` | Recibe `id` como parámetro de ruta y recupera un perfil por su identificador. |
+| User Profile Management – Patient Profiles | POST | `/api/v1/user_profiles` | Recibe un objeto JSON con los datos del paciente y registra un perfil. |
+| User Profile Management – Patient Profiles | PUT | `/api/v1/user_profiles/{id}` | Recibe `id` y un objeto JSON con los datos actualizados del perfil. |
+| User Profile Management – Goals | GET | `/api/v1/goals?user_profile_id={userProfileId}` | Recibe `user_profile_id` y devuelve los objetivos asociados al perfil indicado. |
+| User Profile Management – Goals | GET | `/api/v1/goals/{id}` | Recupera un objetivo específico mediante su identificador. |
+| User Profile Management – Goals | POST | `/api/v1/goals` | Recibe los datos del objetivo, incluidos el tipo, el peso objetivo, la fecha y el estado, y registra el nuevo recurso. |
+| User Profile Management – Goals | PUT | `/api/v1/goals/{id}` | Recibe el identificador del objetivo y los datos que se desean actualizar. |
+| User Profile Management – Goals | DELETE | `/api/v1/goals/{id}` | Elimina el objetivo identificado por `id`. |
+| Progress Monitoring – Progress Entries | GET | `/api/v1/progress-entries?userId={userId}` | Recibe `userId` y devuelve los registros de progreso del usuario, ordenados por fecha. |
+| Progress Monitoring – Progress Entries | GET | `/api/v1/progress-entries/{id}` | Recupera un registro de progreso específico. |
+| Progress Monitoring – Progress Entries | GET | `/api/v1/progress-entries/summary?userId={userId}` | Devuelve un resumen de la evolución del usuario, incluyendo peso inicial, peso actual, variación y valores mínimo y máximo. |
+| Progress Monitoring – Progress Entries | POST | `/api/v1/progress-entries` | Recibe los datos de un registro de progreso físico, como usuario, fecha, peso y medidas corporales opcionales. |
+| Progress Monitoring – Progress Entries | PUT | `/api/v1/progress-entries/{id}` | Actualiza la fecha, las medidas corporales y las notas de un registro existente. |
+| Progress Monitoring – Progress Entries | DELETE | `/api/v1/progress-entries/{id}` | Elimina el registro de progreso indicado. |
+| Nutrition – Nutrition Plans | GET | `/api/v1/nutrition-plans` | Recupera los planes nutricionales disponibles. |
+| Nutrition – Nutrition Plans | GET | `/api/v1/nutrition-plans/{nutritionPlanId}` | Recupera un plan nutricional específico mediante su identificador. |
+| Nutrition – Nutrition Plans | POST | `/api/v1/nutrition-plans` | Recibe los datos de un plan nutricional y registra un nuevo plan. |
+| Nutrition – Meal Plans | GET | `/api/v1/meal-plans` | Recupera los planes de comida disponibles. |
+| Nutrition – Meal Plans | GET | `/api/v1/meal-plans/{mealPlanId}` | Recupera un plan de comida específico. |
+| Nutrition – Meal Plans | POST | `/api/v1/meal-plans` | Recibe el identificador del plan nutricional asociado, el tipo de comida, la descripción y las calorías. |
+| Nutrition – Meal Plans | GET | `/api/v1/nutritionPlans/{nutritionPlanId}/mealPlans` | Recupera los planes de comida asociados a un plan nutricional específico. |
+| Nutrition – Food Recommendations | GET | `/api/v1/food-recommendations` | Recupera las recomendaciones alimentarias disponibles. |
+| Nutrition – Food Recommendations | GET | `/api/v1/food-recommendations/{foodRecommendationId}` | Recupera una recomendación alimentaria específica. |
+| Nutrition – Food Recommendations | POST | `/api/v1/food-recommendations` | Recibe el identificador del plan de comida, el alimento recomendado, la porción y su información nutricional. |
+| Nutrition – Food Recommendations | GET | `/api/v1/mealPlans/{mealPlanId}/foodRecommendations` | Recupera las recomendaciones alimentarias correspondientes a un plan de comida específico. |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+![Sprint 3 insights](assets/images/sprint3.png)
 
 ## 5.3. Validation Interviews
 
