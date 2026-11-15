@@ -2284,6 +2284,8 @@ Finalmente, las apreciaciones recopiladas servirán como insumo para el registro
 
 A continuación, presentaremos las evaluaciones realizadas a la plataforma NutriApp Integral, tomando como referencia los principios heurísticos de usabilidad. Estas evaluaciones tienen como propósito identificar posibles problemas de usabilidad en la interfaz, analizar la facilidad de interacción con las diferentes funcionalidades y reconocer oportunidades de mejora que permitan ofrecer una experiencia más intuitiva, clara y eficiente para los usuarios.
 
+## 5.4. Video About-the-Product
+
 # Conclusiones
 
 1. **El problema es real y va más allá de la información.** Las entrevistas mostraron que las personas que quieren bajar de peso no fallan por falta de conocimiento, sino por la dificultad de mantener la constancia. La falta de tiempo, los cambios de horario y la desmotivación por no ver resultados rápidos son las razones por las que abandonan sus dietas y rutinas. Esto confirmó que NutriApp Integral debe enfocarse en acompañar al usuario día a día, y no solo en darle planes.
@@ -2305,6 +2307,16 @@ A continuación, presentaremos las evaluaciones realizadas a la plataforma Nutri
 ## Conclusiones y recomendaciones
 
 ## Video About-the-Team
+
+En este video conoceremos al equipo detrás de **NutriApp Integral**, integrado por cinco miembros que comparten el objetivo de desarrollar una solución tecnológica orientada al cuidado de la salud y la promoción de hábitos saludables.
+
+Presentaremos nuestra experiencia de trabajo colaborativo, las responsabilidades asumidas por cada integrante y los principales aprendizajes obtenidos durante el desarrollo del proyecto, destacando el esfuerzo conjunto que ha permitido transformar nuestra idea en una propuesta de solución digital.
+
+| **URL**                                                                                                                                                                                                                                                                                                                               | **Inicio** | **Duración** |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416903_upc_edu_pe/IQAHV3EoJrFjR6wywYApEDGjAfZayC1ZSJ_4wrFevQovsUc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cU6NqO)  | 00:00      | 06:24 min    |
+
+![Video Abou The Team](assets/images/About-the-Team.png)
 
 # Bibliografía
 
