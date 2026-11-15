@@ -2262,7 +2262,23 @@ Finalmente, las apreciaciones recopiladas servirán como insumo para el registro
 
 #### Segmento 1: Personas que desean reducir su peso
 
+**Entrevista N° 1**
+
+| **Nombres y apellidos** | **Edad** | **Distrito** |
+|-------------------------|----------|--------------|
+| Benjamin Peraltilla     | 20       | San Martin de Porres |
+
+| **Segmento**   | **URL**                                                                                                                                                                                            | **Inicio** | **Duración** |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Personas que quieren reducir su peso | [Validation Interview - 1er segmento objetivo - Benjamin Peraltilla.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316162_upc_edu_pe/IQDmb_HMEF_DTIkhA7RNADDvAYfmwFB0_cOu5LyHi5KBwvY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GhUvTU)  | 00:00      | 10:00 min    |
+
+![Entrevista-1seg-1](assets/images/entrevista-validacion-persona-1.png)
+
+**Resumen:** El entrevistado comunicó que sus principales dificultades son mantener la constancia en su alimentación y actividad física, así como organizar sus comidas por falta de tiempo. Consideró que la plataforma ofrece funcionalidades útiles para gestionar su perfil, establecer objetivos nutricionales, registrar preferencias y restricciones alimentarias, consultar recomendaciones y realizar un seguimiento de su progreso. Sin embargo, identificó oportunidades de mejora en la claridad de los formularios, las confirmaciones de registro, la navegación y la organización de algunas secciones. También destacó la importancia de contar con una buena experiencia desde dispositivos móviles y garantizar la privacidad de sus datos. También expresó interés en utilizar la aplicación, siempre que sea sencilla, ofrezca recomendaciones personalizadas y permita visualizar sus avances.
+
+
 ---
+
 
 #### Segmento 2: Nutricionistas que desean generar ingresos adicionales
 
