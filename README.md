@@ -982,6 +982,7 @@ En esta sección se explican e ilustran las decisiones sobre los estándares vis
   **Diseño responsivo de NutriApp Integral:**
 
 ![Diseño responsive](assets/images/Style_Responsive.png)
+
 ## 4.2. Information Architecture
 
 En esta sección el equipo plantea las decisiones y el sustento que dirigen la manera cómo se organizará el contenido en las experiencias web de NutriApp Integral, tanto en el Landing Page como en la Web Application. Estas propuestas están orientadas a que los visitantes y usuarios se adapten con facilidad a la funcionalidad del producto y puedan encontrar todo lo que necesiten sin esfuerzo, considerando las diferencias de necesidades entre el segmento de usuarios finales y el segmento de nutricionistas.
@@ -2169,6 +2170,48 @@ Esta matriz permite establecer responsabilidades claras y facilitar la coordinac
 
 #### 5.2.3.3. Sprint Backlog 3
 
+El Sprint Backlog 3 de NutriApp Integral se elaboró a partir del objetivo establecido durante la planificación del sprint: implementar las funcionalidades de registro de hábitos, definición de objetivos, registro de alimentación y registro de actividad física, junto con los servicios REST necesarios para gestionar estos registros. Para organizar el trabajo, se seleccionaron seis User Stories del Product Backlog (cuatro historias de usuario y dos historias técnicas), con un total de 24 Story Points, que permiten distribuir y realizar seguimiento de las actividades previstas.
+
+El tablero del Sprint 3 se utiliza para visualizar las tareas, sus responsables y su estado de avance. A continuación, se presenta la evidencia del tablero utilizado por el equipo.
+
+| **User Story ID** | **User Story Title**                   | **Work-Item / Task ID** | **Work-Item / Task Title**                        | **Description**                                                                                                                          | **Estimation (Hours)** | **Assigned To**                        | **Status**  |
+|-------------------|----------------------------------------|-------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------:|----------------------------------------|-------------|
+| US-09             | Registro de hábitos                    | T01                     | Diseñar interfaz de hábitos                       | Diseñar la interfaz para que los usuarios registren y consulten sus hábitos de alimentación y actividad física.                          |                      3 | Alcantara Baldeon, Poly Gabriel        | To Do       |
+| US-09             | Registro de hábitos                    | T02                     | Registrar hábitos                                 | Implementar el registro de hábitos asociado a la cuenta del usuario, almacenando la fecha y la hora de cada registro.                    |                      4 | Alcantara Baldeon, Poly Gabriel        | To Do       |
+| US-09             | Registro de hábitos                    | T03                     | Consultar hábitos por periodo                     | Implementar la consulta del historial de hábitos por periodo, conservando los registros anteriores.                                      |                      3 | Alcantara Baldeon, Poly Gabriel        | To Do       |
+| US-09             | Registro de hábitos                    | T04                     | Probar registro de hábitos                        | Verificar que los hábitos se almacenen y consulten correctamente y que se gestionen los datos inválidos.                                 |                      2 | Alcantara Baldeon, Poly Gabriel        | To Do       |
+| US-10             | Definición de objetivos                | T05                     | Diseñar interfaz de objetivos                     | Diseñar la interfaz para que los usuarios establezcan y modifiquen sus objetivos de alimentación y actividad física.                     |                      2 | Ángel Trejo Espejo, Giordano Sebastian | To Do       |
+| US-10             | Definición de objetivos                | T06                     | Registrar objetivos                               | Implementar el registro de los objetivos del usuario asociados a su cuenta autenticada.                                                  |                      3 | Ángel Trejo Espejo, Giordano Sebastian | To Do       |
+| US-10             | Definición de objetivos                | T07                     | Modificar y validar objetivos                     | Implementar la modificación de los objetivos y validar que la información ingresada sea completa y válida.                               |                      2 | Ángel Trejo Espejo, Giordano Sebastian | To Do       |
+| US-10             | Definición de objetivos                | T08                     | Probar definición de objetivos                    | Verificar que los objetivos puedan registrarse, modificarse y consultarse, y que se rechacen los datos incompletos.                      |                      1 | Ángel Trejo Espejo, Giordano Sebastian | To Do       |
+| US-13             | Registro de alimentación               | T09                     | Diseñar interfaz de alimentación                  | Diseñar el formulario y la lista de alimentos consumidos.                                                                                |                      2 | Vilchez Vite, Gabriel Alejandro        | To Do       |
+| US-13             | Registro de alimentación               | T10                     | Registrar alimentos consumidos                    | Implementar el registro de los alimentos consumidos asociados a la cuenta del usuario.                                                   |                      3 | Vilchez Vite, Gabriel Alejandro        | To Do       |
+| US-13             | Registro de alimentación               | T11                     | Consultar y validar alimentación                  | Implementar la consulta de registros por periodo y la validación de los datos ingresados.                                                |                      2 | Vilchez Vite, Gabriel Alejandro        | To Do       |
+| US-13             | Registro de alimentación               | T12                     | Probar registro de alimentación                   | Verificar el registro correcto y el rechazo de datos incompletos.                                                                        |                      1 | Vilchez Vite, Gabriel Alejandro        | To Do       |
+| US-14             | Registro de actividad física           | T13                     | Diseñar interfaz de actividad física              | Diseñar el formulario y la lista de actividades realizadas.                                                                              |                      2 | Portal Inga, Waldo Alonso              | To Do       |
+| US-14             | Registro de actividad física           | T14                     | Registrar actividad física                        | Implementar el registro de las actividades físicas asociadas a la cuenta del usuario.                                                    |                      3 | Portal Inga, Waldo Alonso              | To Do       |
+| US-14             | Registro de actividad física           | T15                     | Consultar y validar actividad física              | Implementar la consulta de actividades por periodo y la validación de los datos ingresados.                                              |                      2 | Portal Inga, Waldo Alonso              | To Do       |
+| US-14             | Registro de actividad física           | T16                     | Probar registro de actividad física               | Verificar el registro correcto y el rechazo de datos incompletos.                                                                        |                      1 | Portal Inga, Waldo Alonso              | To Do       |
+| TS-03             | API de hábitos                         | T17                     | Definir endpoints de hábitos                      | Definir las rutas y los formatos de solicitud y respuesta de la API de hábitos.                                                          |                      2 | Mendoza Vergara, Alejandro Franklin    | To Do       |
+| TS-03             | API de hábitos                         | T18                     | Implementar registro de hábitos                   | Implementar la solicitud POST que registra un hábito y responde 201 Created, o 400 Bad Request si los datos son inválidos.               |                      4 | Mendoza Vergara, Alejandro Franklin    | To Do       |
+| TS-03             | API de hábitos                         | T19                     | Implementar consulta de hábitos                   | Implementar la solicitud GET que devuelve el historial de hábitos del usuario (200 OK) y responde 404 Not Found si el usuario no existe. |                      3 | Mendoza Vergara, Alejandro Franklin    | To Do       |
+| TS-03             | API de hábitos                         | T20                     | Probar API de hábitos                             | Verificar los códigos de respuesta 201, 200, 400 y 404 de la API de hábitos.                                                             |                      2 | Mendoza Vergara, Alejandro Franklin    | To Do       |
+| TS-04             | API de alimentación y actividad física | T21                     | Definir endpoints de alimentación y actividad     | Definir las rutas y los formatos de solicitud y respuesta de la API de alimentación y actividad física.                                  |                      2 | Mendoza Vergara, Alejandro Franklin    | To Do       |
+| TS-04             | API de alimentación y actividad física | T22                     | Implementar registro de alimentación y actividad  | Implementar la solicitud POST que registra la información y responde 201 Created, o 400 Bad Request si los datos son inválidos.          |                      4 | Mendoza Vergara, Alejandro Franklin    | To Do       |
+| TS-04             | API de alimentación y actividad física | T23                     | Implementar consulta de alimentación y actividad  | Implementar la solicitud GET que devuelve los registros del usuario y responde 404 Not Found si el usuario no existe.                    |                      3 | Mendoza Vergara, Alejandro Franklin    | To Do       |
+| TS-04             | API de alimentación y actividad física | T24                     | Probar API de alimentación y actividad física     | Verificar los códigos de respuesta 201, 200, 400 y 404 de la API de alimentación y actividad física.                                     |                      2 | Mendoza Vergara, Alejandro Franklin    | To Do       |
+
+| **Aspecto**                 | **Detalle**                                                                                                                                                                                                                                                  |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Goal                 | Implementar las funcionalidades de registro de hábitos, definición de objetivos, registro de alimentación y registro de actividad física, junto con los servicios REST necesarios para gestionar los registros de hábitos, alimentación y actividad física.  |
+| User Stories incluidas      | US-09, US-10, US-13, US-14, TS-03 y TS-04                                                                                                                                                                                                                    |
+| Cantidad de User Stories    | 6                                                                                                                                                                                                                                                            |
+| Sum of Story Points         | 24 Story Points                                                                                                                                                                                                                                              |
+| Total de Work-items / Tasks | 24                                                                                                                                                                                                                                                           |
+| Estimación total en horas   | 58 horas                                                                                                                                                                                                                                                     |
+
+Las tareas anteriores corresponden a la descomposición del trabajo definida para el Sprint 3. Las estimaciones, los responsables y el estado de cada tarea se mantienen actualizados en el tablero del sprint.
+
 #### 5.2.3.4. Development Evidence for Sprint Review
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
@@ -2211,11 +2254,31 @@ Entre las preguntas consideradas se encuentran:
 
 **Duración y registro de las entrevistas**
 
-Cada entrevista tendrá una duración aproximada de cinco a ocho minutos, considerando el tiempo necesario para la presentación inicial, la interacción con el Landing Page y los prototipos, y la recopilación de las opiniones del participante. Asimismo, las sesiones serán registradas en video con la autorización previa de cada entrevistado, a fin de conservar evidencias de las interacciones y observaciones realizadas durante el proceso de validación.
+Cada entrevista tendrá una duración aproximada de diez a veinte minutos, considerando el tiempo necesario para la presentación inicial, la interacción con el Landing Page y los prototipos, y la recopilación de las opiniones del participante. Asimismo, las sesiones serán registradas en video con la autorización previa de cada entrevistado, a fin de conservar evidencias de las interacciones y observaciones realizadas durante el proceso de validación.
 
 Finalmente, las apreciaciones recopiladas servirán como insumo para el registro de entrevistas y las posteriores evaluaciones según las heurísticas de usabilidad, arquitectura de información y diseño inclusivo.
 
 ### 5.3.2. Registro de Entrevistas
+
+#### Segmento 1: Personas que desean reducir su peso
+
+---
+
+#### Segmento 2: Nutricionistas que desean generar ingresos adicionales
+
+**Entrevista N° 1**
+
+| **Nombres y apellidos** | **Edad** | **Distrito** |
+|-------------------------|----------|--------------|
+| Aida Luján              | 45       | San Miguel   |
+
+| **Segmento**   | **URL**                                                                                                                                                                                            | **Inicio** | **Duración** |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Nutricionista  | [Validation Interview - 2do segmento objetivo - Aida Luján.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416903_upc_edu_pe/IQDoOyEWR6R8RKxUto9dcdCoATnkrLUG83NJsPusfIjvZFU?e=LYXmAA)  | 00:00      | 19:29 min    |
+
+![Entrevista-2seg-1](assets/images/entrevista-nutricionista-1.png)
+
+**Resumen:** Aida Luján es una nutricionista con casi 30 años de experiencia profesional, durante los cuales ha trabajado en diversos hospitales y universidades. Durante la entrevista, destacó que NutriApp Integral es una propuesta interesante, ya que considera que puede facilitar las actividades cotidianas de los nutricionistas, reducir el tiempo dedicado a tareas administrativas y permitir una mayor dedicación al contacto directo con los pacientes. Asimismo, señaló que la información presentada en la landing page es clara y permite comprender fácilmente el propósito de la plataforma. Al explorar el prototipo, pudo navegar por las diferentes secciones, crear un plan nutricional, registrar información de una consulta y actualizar su perfil profesional. Consideró que la navegación es sencilla, práctica e intuitiva, incluso en comparación con otros sistemas utilizados por el personal de salud para registrar historias clínicas y evoluciones de pacientes. Entre las funcionalidades más útiles, destacó la gestión de planes nutricionales, especialmente porque permite reutilizar planes existentes y realizar las adaptaciones necesarias para pacientes con condiciones similares, como aquellos que presentan diabetes. Sin embargo, recomendó incorporar campos adicionales para registrar datos antropométricos, como peso, talla y circunferencia de cintura, así como resultados de laboratorio, incluyendo glucosa, hemoglobina, hemoglobina glicosilada y perfiles hepáticos y lipídicos. También sugirió ampliar la información nutricional de los planes para incluir cantidades de proteínas y lípidos, además de las kilocalorías. Finalmente, consideró que estas incorporaciones permitirían realizar evaluaciones más completas y facilitarían el seguimiento nutricional de los pacientes, especialmente cuando un profesional debe atender a un número elevado de personas durante su jornada laboral.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -2251,6 +2314,8 @@ AV1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416903_upc_edu_pe/IQD
 
 TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416903_upc_edu_pe/IQBP77KddUpTQZ7KRc-lagnpAe2UYFMLgSJYk7_htmq-eaM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ymd7rj
 
+AV2: 
+
 **Anexo B - Repositorios del proyecto**
 
 Reporte del Proyecto: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Report
@@ -2258,6 +2323,8 @@ Reporte del Proyecto: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Rep
 Landign Page: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
 
 Aplicación Frontend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Frontend-Application
+
+Plataforma Backend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Backend-Platform
 
 **Anexo C - Evidencias de desliegue**
 
