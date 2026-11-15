@@ -2286,6 +2286,16 @@ A continuación, presentaremos las evaluaciones realizadas a la plataforma Nutri
 
 ## 5.4. Video About-the-Product
 
+En este video presentaremos NutriApp Integral, una solución digital diseñada para ayudar a las personas a construir y mantener hábitos saludables mediante herramientas de seguimiento nutricional y acompañamiento personalizado.
+
+A lo largo de esta presentación, conoceremos las principales funcionalidades de la plataforma, su propuesta de valor y cómo busca facilitar tanto la gestión de los nutricionistas como el seguimiento de los usuarios que desean mejorar su alimentación y calidad de vida.
+
+| **URL**                                                                                                                                                                                                                                                                                                                               | **Inicio** | **Duración** |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416903_upc_edu_pe/IQDowzeFDDOXSpSWSXLT4OmzAQUN3CkcBhdab4ZJ3wKkB08?e=Q7Wa4g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  | 00:00      | 02:46 min    |
+
+![Video About The Product](assets/images/About-the-Product.png)
+
 # Conclusiones
 
 1. **El problema es real y va más allá de la información.** Las entrevistas mostraron que las personas que quieren bajar de peso no fallan por falta de conocimiento, sino por la dificultad de mantener la constancia. La falta de tiempo, los cambios de horario y la desmotivación por no ver resultados rápidos son las razones por las que abandonan sus dietas y rutinas. Esto confirmó que NutriApp Integral debe enfocarse en acompañar al usuario día a día, y no solo en darle planes.
@@ -2316,7 +2326,7 @@ Presentaremos nuestra experiencia de trabajo colaborativo, las responsabilidades
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
 | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416903_upc_edu_pe/IQAHV3EoJrFjR6wywYApEDGjAfZayC1ZSJ_4wrFevQovsUc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cU6NqO)  | 00:00      | 06:24 min    |
 
-![Video Abou The Team](assets/images/About-the-Team.png)
+![Video About The Team](assets/images/About-the-Team.png)
 
 # Bibliografía
 
