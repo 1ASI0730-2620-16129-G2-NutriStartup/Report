@@ -2265,17 +2265,17 @@ La API está desarrollada con ASP.NET Core y utiliza rutas versionadas bajo el p
 | Progress Monitoring – Progress Entries | POST | `/api/v1/progress-entries` | Recibe los datos de un registro de progreso físico, como usuario, fecha, peso y medidas corporales opcionales. |
 | Progress Monitoring – Progress Entries | PUT | `/api/v1/progress-entries/{id}` | Actualiza la fecha, las medidas corporales y las notas de un registro existente. |
 | Progress Monitoring – Progress Entries | DELETE | `/api/v1/progress-entries/{id}` | Elimina el registro de progreso indicado. |
-| Nutrition – Nutrition Plans | GET | `/api/v1/nutrition-plans` | Recupera los planes nutricionales disponibles. |
-| Nutrition – Nutrition Plans | GET | `/api/v1/nutrition-plans/{nutritionPlanId}` | Recupera un plan nutricional específico mediante su identificador. |
-| Nutrition – Nutrition Plans | POST | `/api/v1/nutrition-plans` | Recibe los datos de un plan nutricional y registra un nuevo plan. |
+| Nutrition – Nutrition Plans | GET | `/api/v1/nutrition-plans`| Recupera los planes nutricionales disponibles. |
+| Nutrition – Nutrition Plans | GET | `/api/v1/nutrition-plans/{nutritionPlanId}`| Recupera un plan nutricional específico mediante su identificador. |
+| Nutrition – Nutrition Plans | POST | `/api/v1/nutrition-plans`| Recibe los datos de un plan nutricional y registra un nuevo plan. |
 | Nutrition – Meal Plans | GET | `/api/v1/meal-plans` | Recupera los planes de comida disponibles. |
 | Nutrition – Meal Plans | GET | `/api/v1/meal-plans/{mealPlanId}` | Recupera un plan de comida específico. |
 | Nutrition – Meal Plans | POST | `/api/v1/meal-plans` | Recibe el identificador del plan nutricional asociado, el tipo de comida, la descripción y las calorías. |
-| Nutrition – Meal Plans | GET | `/api/v1/nutritionPlans/{nutritionPlanId}/mealPlans` | Recupera los planes de comida asociados a un plan nutricional específico. |
+| Nutrition – Meal Plans | GET | `/api/v1/nutrition-plans/{nutritionPlanId}/meal-plans` | Recupera los planes de comida asociados a un plan nutricional específico. |
 | Nutrition – Food Recommendations | GET | `/api/v1/food-recommendations` | Recupera las recomendaciones alimentarias disponibles. |
 | Nutrition – Food Recommendations | GET | `/api/v1/food-recommendations/{foodRecommendationId}` | Recupera una recomendación alimentaria específica. |
 | Nutrition – Food Recommendations | POST | `/api/v1/food-recommendations` | Recibe el identificador del plan de comida, el alimento recomendado, la porción y su información nutricional. |
-| Nutrition – Food Recommendations | GET | `/api/v1/mealPlans/{mealPlanId}/foodRecommendations` | Recupera las recomendaciones alimentarias correspondientes a un plan de comida específico. |
+| Nutrition – Food Recommendations | GET | `/api/v1/meal-plans/{mealPlanId}/food-recommendations` | Recupera las recomendaciones alimentarias correspondientes a un plan de comida específico. |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
