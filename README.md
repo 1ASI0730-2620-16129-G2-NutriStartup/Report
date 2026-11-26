@@ -36,10 +36,6 @@
         <td align="center" >Poly Gabriel Alcantara Baldeon</td>
       </tr>
       <tr>
-        <td align="center" >U202412447</td>
-        <td align="center" >Waldo Alonso Portal Inga</td>
-      </tr>
-      <tr>
         <td align="center" >U202316162</td>
         <td align="center" >Giordano Sebastian Del Ángel Trejo Espejo</td>
       </tr>
@@ -314,9 +310,7 @@ Ser una solución referente en el cuidado de la salud física ,promoviendo estil
 | Nombre y descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Foto                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | **Giordano Sebastian Trejo Espejo - U202316162** <br> Soy un estudiante de Ingeniería de software interesado en aprender más sobre bases de datos SQL y NoSQL, tengo experiencia en desarrollo de software con C++ y Python, actualmente tengo 21 años y espero aprender y mejorar mis habilidades.                                                                                                                                                                                 | <img src="assets/images/GiordanoTrejo.jpeg" heigh="500" width="400">  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
-| **Waldo Alonso Portal Inga - U202412447** <br> Soy estudiante de la carrera de Ingeniería de Software. Me considero una persona capaz, responsable y comprometida con mis objetivos académicos y personales. Siempre estoy motivado por los desafíos y busco siempre aportar valor en los equipos de trabajo en los que participo. Manejo la programación en C++ y Java, cuento con experiencia en la edición de video y/o imágenes                                                 | <img src="assets/images/waldo_foto.jpg" heigh="500" width="400">      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                       |
 | **Gabriel Alejandro Vilchez Vite - U202416903** <br> Actualmente estudio la carrera de ingeniería de software y me considero una persona que no deja todos sus trabajos pendientes a última hora y que siempre trata de terminar todos sus trabajos a tiempo. Actualmente tengo conocimientos en matemáticas y en algunos lenguajes de programación como C++ y Matlab. Actualmente estoy estudiando Java.                                                                           | <img src="assets/images/gabriel_foto.jpg" heigh="500" width="400">    |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |
 | **Alejandro Franklin Mendoza Vergara - U202312343** <br>   Mi nombre es Alejandro Mendoza y soy estudiante de la carrera de Ingeniería de Software. Actualmente tengo experiencia en C++ y Python. Estoy interesado en seguir aprendiendo sobre diferentes lenguajes de programación y en la creación de distintas aplicaciones web y móviles, por lo que intento dar todo de mí para tener buenos resultados.                                                                      | <img src="assets/images/alejandro_foto.jpeg" heigh="500" width="400"> |
@@ -765,7 +759,6 @@ En esta sección se elaboran los User Journey Maps en As-Is, imitando la experie
 **Flujo Atencion:**
 
 ![EventStorming Acceso](assets/images/est_atencion.jpg)
-
 
 ## 2.5 Ubiquitous Language
 
@@ -2455,5 +2448,7 @@ Plataforma Backend: https://github.com/1ASI0730-2620-16129-G2-NutriStartup/Backe
 URL de Landing Page: https://nutriapp-integral-landingpage.firebaseapp.com/
 
 URL del Frontend: https://nutriapp-integral-fronte-a5799.web.app/iam/sign-in
+
+URL del Backend: https://nutriapp-backend-api.onrender.com/Scalar/
 
 </div>
